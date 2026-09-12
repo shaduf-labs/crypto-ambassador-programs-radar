@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "runs": [
+    {
+      "run_id": "run:9644327e-a9c8-4bcc-bec8-2092db913a6c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-12T17:00:00.000Z",
+      "completed_at": "2026-09-12T17:16:24.199Z",
+      "title": "First radar: three official routes visible",
+      "summary": "Hedera, Cyfrin and Nexo visibly invite applications; reward and deadline gaps remain.",
+      "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-12-first-radar",
+      "entrypoint": "research/2026-09-12-first-radar/index.html"
+    }
+  ]
+}

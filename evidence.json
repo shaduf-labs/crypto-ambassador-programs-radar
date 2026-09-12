@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0.0",
+  "items": [
+    {
+      "evidence_id": "pub-e-hedera",
+      "source_type": "official page",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "title": "Hedera Ambassador Program",
+      "claim": "Hedera’s official page visibly links an Apply Now route and states its roles and non-cash benefits.",
+      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-cyfrin",
+      "source_type": "official page",
+      "source_url": "https://ambassadors.cyfrin.io/",
+      "title": "Cyfrin Ambassadors",
+      "claim": "Cyfrin’s official page invites applications and describes review, interview, work and non-cash benefits.",
+      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-nexo",
+      "source_type": "official page",
+      "source_url": "https://nexo.com/ambassadors",
+      "title": "Nexo Crypto Ambassador Program",
+      "claim": "Nexo’s official page contains an ambassador form and describes seniority signals, work and unspecified compensation claims.",
+      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-soneium",
+      "source_type": "official page",
+      "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
+      "title": "Introducing the Soneium Ambassador Program",
+      "claim": "Soneium’s 29 Jun 2026 official announcement opened a program but does not by itself confirm current hosted-form acceptance.",
+      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-solana",
+      "source_type": "official page",
+      "source_url": "https://solana.com/university",
+      "title": "Solana University Ambassador Program",
+      "claim": "Solana’s official page publishes a 1 Sep close date while still rendering application fields.",
+      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-pivx",
+      "source_type": "official page",
+      "source_url": "https://pivx.org/ambassador-program",
+      "title": "PIVX Ambassador Program",
+      "claim": "PIVX’s official page says positions are referral-only.",
+      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-ftc",
+      "source_type": "government guidance",
+      "source_url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams",
+      "title": "FTC: What to know about cryptocurrency and scams",
+      "claim": "FTC guidance says a purported crypto job requiring an advance crypto payment is a scam.",
+      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-fbi",
+      "source_type": "government guidance",
+      "source_url": "https://www.ic3.gov/PSA/2024/PSA240604",
+      "title": "FBI: Work-from-home scams",
+      "claim": "FBI guidance warns of task scams that require crypto deposits to unlock work.",
+      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    }
+  ]
+}

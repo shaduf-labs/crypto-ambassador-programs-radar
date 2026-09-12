@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0.0",
+  "snapshot_date": "2026-09-12",
+  "source_run_id": "run:9644327e-a9c8-4bcc-bec8-2092db913a6c",
+  "items": [
+    {
+      "id": "hedera",
+      "status": "confirmed_open",
+      "project": "Hedera",
+      "official_url": "https://hedera.com/ambassador-program/",
+      "fit": "Developers with Hedera and smart-contract experience; or community professionals in marketing, education, UX/UI or project management.",
+      "work": "Workshops, technical content, developer support, events, community engagement, partnerships or content.",
+      "deadline": "No deadline published.",
+      "reward": "Certificates, swag and badges. Cash or token amount not stated.",
+      "selection": "Not stated.",
+      "safety": "Open the form only from Hedera’s official page. No crypto payment request was found on the page.",
+      "last_checked": "12 Sep 2026"
+    },
+    {
+      "id": "cyfrin",
+      "status": "confirmed_open",
+      "project": "Cyfrin",
+      "official_url": "https://ambassadors.cyfrin.io/",
+      "fit": "18+ people interested in blockchain education, security and community building; prior experience is suggested, not required.",
+      "work": "Host events, share educational content, support newcomers and connect academic communities.",
+      "deadline": "No deadline published.",
+      "reward": "Mentorship, experience, recognition, resources and merchandise. Cash pay not stated.",
+      "selection": "Application, then a possible video interview. The site says a response in 5–7 business days.",
+      "safety": "Use the Typeform only via Cyfrin’s official page. SSCD+ certification is required within six weeks after onboarding to continue.",
+      "last_checked": "12 Sep 2026"
+    },
+    {
+      "id": "nexo",
+      "status": "confirmed_open",
+      "project": "Nexo",
+      "official_url": "https://nexo.com/ambassadors",
+      "fit": "Experienced people with local crypto and marketing contacts, public-speaking confidence and B2B sales experience.",
+      "work": "Partnerships, content, event representation, affiliate-led growth, media outreach and localization.",
+      "deadline": "No deadline published.",
+      "reward": "Nexo claims a competitive salary and result-based incentives; amount, targets and schedule are not stated.",
+      "selection": "The public form asks why and how you can contribute; further process not stated.",
+      "safety": "The form requests phone and LinkedIn information. Read privacy terms and use the official Nexo page; no crypto payment request was found on the page.",
+      "last_checked": "12 Sep 2026"
+    },
+    {
+      "id": "soneium",
+      "status": "not_confirmed",
+      "project": "Soneium",
+      "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
+      "fit": "Community contributors, especially people with a history in Soneium; focus regions include the US, Japan, Korea and China.",
+      "work": "Onboarding, community support, meetups, app guidance and builder support.",
+      "deadline": "No deadline published.",
+      "reward": "Recognition, resources, approved activation support and possible merch or community rewards; no cash amount stated.",
+      "selection": "The June announcement says applications are reviewed on background, history, community experience, location, availability and fit.",
+      "safety": "The official announcement links a hosted form, but its current acceptance and fields could not be verified. Do not disclose data until you verify it from the official page.",
+      "last_checked": "12 Sep 2026"
+    },
+    {
+      "id": "solana-university",
+      "status": "closed",
+      "project": "Solana University Ambassador Program",
+      "official_url": "https://solana.com/university",
+      "fit": "18+ undergraduates graduating after Dec 2026, available 4–6 hours weekly, and not formal ambassadors for a competing chain or company.",
+      "work": "Four workshops per semester, weekly build nights and a demo day.",
+      "deadline": "Published close: 1 Sep 2026. Passed.",
+      "reward": "Semester stipend in USDC, paid in milestone-based installments; amount not stated.",
+      "selection": "Two 60-second videos and short answers. The page says it reviews every application.",
+      "safety": "The page still displays fields, but the stated close date has passed. Do not assume a visible form accepts submissions.",
+      "last_checked": "12 Sep 2026"
+    },
+    {
+      "id": "pivx",
+      "status": "referral_only",
+      "project": "PIVX",
+      "official_url": "https://pivx.org/ambassador-program",
+      "fit": "Contributors with content, outreach, events or community skills who have a referral.",
+      "work": "Advocacy, content, outreach, events, mentoring and local or global initiatives across program levels.",
+      "deadline": "No deadline published.",
+      "reward": "Not stated on the inspected program page.",
+      "selection": "Positions are referral-only; applicants are asked to state who referred them.",
+      "safety": "This is not a general open application. Enter through the official PIVX page and Discord route only after confirming the referrer rule.",
+      "last_checked": "12 Sep 2026"
+    }
+  ]
+}

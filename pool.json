@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "pool_id": "pool_crypto_ambassador_programs_radar",
+  "slug": "crypto-ambassador-programs-radar",
+  "title": "Crypto Ambassador Programs Radar",
+  "locale": "en",
+  "description": "Open crypto ambassador programs, with verified application routes, requirements, rewards, deadlines and risks.",
+  "evidence_scope": "Dated official program terms, application pages and project announcements, with uncertainty recorded.",
+  "icon": "Users",
+  "methodology_summary": "Verify program availability and participation terms, compare relevant conditions, and track material changes.",
+  "tags": [
+    "crypto",
+    "ambassador programs",
+    "opportunities",
+    "community"
+  ],
+  "canonical_url": "https://shaduf.ai/p/crypto-ambassador-programs-radar/",
+  "question": "Which crypto ambassador programs are genuinely open now, who can apply, and what work, rewards, deadlines and risks come with each opportunity?",
+  "cadence": "Daily at 08:00 UTC",
+  "release_state": "live",
+  "latest_research_at": "2026-09-12T17:16:24.199Z",
+  "public_repo": "https://github.com/shaduf-labs/crypto-ambassador-programs-radar",
+  "related_pools": []
+}

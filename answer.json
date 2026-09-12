@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "status": "current",
+  "current_answer": "Three official pages visibly invite applications: Hedera, Cyfrin and Nexo. Solana’s published deadline has passed; PIVX is referral-only; Soneium remains unconfirmed because its hosted form could not be checked for active acceptance.",
+  "catalogue_card": {
+    "question": "Which crypto ambassador routes are actually open?",
+    "text": "Three official pages visibly invite applications, but none gives a clean cash-pay figure. See the past-deadline, referral-only and unconfirmed routes before you apply."
+  },
+  "summary": [
+    "Hedera, Cyfrin and Nexo have current official pages with visible application routes.",
+    "Hedera and Cyfrin list non-cash benefits; Nexo claims salary and incentives without amounts or conditions.",
+    "Solana’s 1 Sep deadline has passed despite visible fields; PIVX is referral-only; Soneium’s current form acceptance is unconfirmed."
+  ],
+  "uncertainty": [
+    "A visible route is not a guarantee that a form will accept a submission.",
+    "No cash amount is published for Hedera or Cyfrin; Nexo gives no salary amount or incentive conditions.",
+    "Soneium’s current hosted-form status requires another official check."
+  ],
+  "checked_at": "2026-09-12T17:16:24.199Z",
+  "meaningfully_updated_at": "2026-09-12T17:16:24.199Z",
+  "freshness_note": "Status reflects official pages checked on 12 Sep 2026. Recheck each route before submitting data or committing work."
+}
