@@ -6,8 +6,8 @@
       "source_type": "official page",
       "source_url": "https://hedera.com/ambassador-program/",
       "title": "Hedera Ambassador Program",
-      "claim": "Hedera’s official page visibly links an Apply Now route and states its roles and non-cash benefits.",
-      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "claim": "Hedera’s current official page visibly links an application route and describes roles and non-cash benefits.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -16,8 +16,8 @@
       "source_type": "official page",
       "source_url": "https://ambassadors.cyfrin.io/",
       "title": "Cyfrin Ambassadors",
-      "claim": "Cyfrin’s official page invites applications and describes review, interview, work and non-cash benefits.",
-      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "claim": "Cyfrin’s official page invites applications, says it reviews them and describes work, certification and non-cash benefits.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -26,18 +26,58 @@
       "source_type": "official page",
       "source_url": "https://nexo.com/ambassadors",
       "title": "Nexo Crypto Ambassador Program",
-      "claim": "Nexo’s official page contains an ambassador form and describes seniority signals, work and unspecified compensation claims.",
-      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "claim": "Nexo’s current official page contains an ambassador form and publishes seniority signals, work and unspecified salary and incentive claims.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-aster",
+      "source_type": "official announcement",
+      "source_url": "https://www.asterdex.com/en/announcement/132?category=ACTIVITY",
+      "title": "Aster Ambassador Program",
+      "claim": "Aster’s official announcement says applications are open year-round and gives work, review, event-support and no-salary terms.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-elk",
+      "source_type": "official page",
+      "source_url": "https://elk.finance/become-an-ambassador/",
+      "title": "Elk Ambassador Program",
+      "claim": "Elk’s official page links an application and states that the selected apprentice works as a volunteer during a trial.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-nomis",
+      "source_type": "official documentation",
+      "source_url": "https://docs.nomis.cc/ambassador-program",
+      "title": "Nomis Ambassador Program",
+      "claim": "Nomis documentation links a sign-up form and states referral-linked fee rewards and contributor tasks.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-bitget",
+      "source_type": "official support article",
+      "source_url": "https://www.bitget.com/support/articles/12560603885686",
+      "title": "Bitget Trading Builder recruitment",
+      "claim": "Bitget’s official article sets a 30 Sep 2026 recruitment deadline, criteria, work and shared-pool conditions.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
       "evidence_id": "pub-e-soneium",
-      "source_type": "official page",
+      "source_type": "official announcement",
       "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
-      "title": "Introducing the Soneium Ambassador Program",
-      "claim": "Soneium’s 29 Jun 2026 official announcement opened a program but does not by itself confirm current hosted-form acceptance.",
-      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "title": "Soneium Ambassador Program",
+      "claim": "Soneium’s official June announcement still links an application endpoint but does not establish current hosted-form acceptance.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
@@ -46,8 +86,8 @@
       "source_type": "official page",
       "source_url": "https://solana.com/university",
       "title": "Solana University Ambassador Program",
-      "claim": "Solana’s official page publishes a 1 Sep close date while still rendering application fields.",
-      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "claim": "Solana’s page still renders fields while its published 1 Sep close date has passed.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
@@ -57,7 +97,17 @@
       "source_url": "https://pivx.org/ambassador-program",
       "title": "PIVX Ambassador Program",
       "claim": "PIVX’s official page says positions are referral-only.",
-      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-sideshift",
+      "source_type": "official page",
+      "source_url": "https://sideshift.ai/ambassadors",
+      "title": "SideShift Ambassador Program",
+      "claim": "SideShift’s current official page says applications are currently closed while retaining program reward terms.",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -65,9 +115,9 @@
       "evidence_id": "pub-e-ftc",
       "source_type": "government guidance",
       "source_url": "https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-scams",
-      "title": "FTC: What to know about cryptocurrency and scams",
+      "title": "FTC: What to know about cryptocurrency scams",
       "claim": "FTC guidance says a purported crypto job requiring an advance crypto payment is a scam.",
-      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
     },
@@ -77,7 +127,7 @@
       "source_url": "https://www.ic3.gov/PSA/2024/PSA240604",
       "title": "FBI: Work-from-home scams",
       "claim": "FBI guidance warns of task scams that require crypto deposits to unlock work.",
-      "accessed_at": "2026-09-12T17:16:24.199Z",
+      "accessed_at": "2026-09-13T08:07:00.000Z",
       "relation": "context",
       "publication_basis": "linked-summary"
     }

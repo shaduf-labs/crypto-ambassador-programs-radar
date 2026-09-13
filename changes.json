@@ -6,6 +6,12 @@
       "changed_at": "2026-09-12T17:16:24.199Z",
       "summary": "First checked radar separates three official application routes from one past-deadline route, one referral-only route and one unconfirmed hosted-form lead.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:open-routes-and-trading-deadline",
+      "changed_at": "2026-09-13T08:07:00.000Z",
+      "summary": "Added Aster, Elk and Nomis to the checked open table; added Bitget’s 30 Sep Trading Builder deadline and SideShift’s closed status.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

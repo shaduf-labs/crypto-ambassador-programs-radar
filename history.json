@@ -11,6 +11,17 @@
       "summary": "Hedera, Cyfrin and Nexo visibly invite applications; reward and deadline gaps remain.",
       "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-12-first-radar",
       "entrypoint": "research/2026-09-12-first-radar/index.html"
+    },
+    {
+      "run_id": "run:d8eca446-0711-4f80-8163-2882625d399b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-13T08:00:00.000Z",
+      "completed_at": "2026-09-13T08:12:02.000Z",
+      "title": "Six open routes; a 30 Sep trading deadline",
+      "summary": "Aster, Elk and Nomis join the checked open table; Bitget’s distinct Trading Builder campaign is time-limited.",
+      "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-13-open-routes-and-trading-deadline",
+      "entrypoint": "research/2026-09-13-open-routes-and-trading-deadline/index.html"
     }
   ]
 }
