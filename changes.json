@@ -12,6 +12,12 @@
       "changed_at": "2026-09-13T08:07:00.000Z",
       "summary": "Added Aster, Elk and Nomis to the checked open table; added Bitget’s 30 Sep Trading Builder deadline and SideShift’s closed status.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:public-form-status",
+      "changed_at": "2026-09-14T08:09:06.000Z",
+      "summary": "Rechecked the open routes and added MetaMask as a voluntary unpaid role with no confirmed current public form; the six tracked open routes remain.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-13",
-  "source_run_id": "run:d8eca446-0711-4f80-8163-2882625d399b",
+  "snapshot_date": "2026-09-14",
+  "source_run_id": "run:cba74045-efa3-4430-986d-0cc939122c87",
   "items": [
     {
       "id": "hedera",
@@ -16,7 +16,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "13 Sep 2026"
+      "last_checked": "14 Sep 2026"
     },
     {
       "id": "cyfrin",
@@ -31,7 +31,7 @@
       "safety": "Use the Typeform only from Cyfrin’s official page. SSCD+ certification is required within six weeks after onboarding to continue.",
       "official_url": "https://ambassadors.cyfrin.io/",
       "status_label": "Confirmed open",
-      "last_checked": "13 Sep 2026"
+      "last_checked": "14 Sep 2026"
     },
     {
       "id": "nexo",
@@ -46,7 +46,7 @@
       "safety": "The form requests phone and LinkedIn information. Read privacy terms before submitting.",
       "official_url": "https://nexo.com/ambassadors",
       "status_label": "Confirmed open",
-      "last_checked": "13 Sep 2026"
+      "last_checked": "14 Sep 2026"
     },
     {
       "id": "aster",
@@ -106,7 +106,22 @@
       "safety": "This is a trading-community growth campaign, not a general contributor role. Verify any Telegram contact is an official Bitget account.",
       "official_url": "https://www.bitget.com/support/articles/12560603885686",
       "status_label": "Open: trading-builder campaign",
-      "last_checked": "13 Sep 2026"
+      "last_checked": "14 Sep 2026"
+    },
+    {
+      "id": "metamask",
+      "status": "not_confirmed",
+      "project": "MetaMask Ambassador Program",
+      "fit": "Experienced community members who can organize local meetups, make educational content, help people onboard safely, or connect a local community.",
+      "work": "Organize Community Builder Nights, make educational content, help with safe Web3 onboarding, and act as a local connector.",
+      "deadline": "Last explicit public form status: closed on 4 Jun 2026. No later reopening notice was found in the official forum pages inspected on 14 Sep.",
+      "reward": "Participation is voluntary and unpaid. MetaMask says basic resources and support may depend on how you contribute.",
+      "selection": "An earlier forum post describes rolling review, but staff replies say the form was closed. A current public submission route is not confirmed.",
+      "people": "No recent independent report found.",
+      "safety": "Use only the official MetaMask Builder Hub. Do not treat an old application reference or a direct message as a current route.",
+      "official_url": "https://builder.metamask.io/t/apply-for-the-metamask-ambassador-program/2821",
+      "status_label": "Not confirmed: public form last reported closed",
+      "last_checked": "14 Sep 2026"
     },
     {
       "id": "soneium",
@@ -121,7 +136,7 @@
       "safety": "The official June announcement still links a hosted form, but its current acceptance and fields could not be inspected. Do not treat the link alone as proof submissions are accepted.",
       "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "status_label": "Not confirmed",
-      "last_checked": "13 Sep 2026"
+      "last_checked": "14 Sep 2026"
     },
     {
       "id": "solana-university",
@@ -136,7 +151,7 @@
       "safety": "The page still shows form fields, but the published close date has passed.",
       "official_url": "https://solana.com/university",
       "status_label": "Closed",
-      "last_checked": "13 Sep 2026"
+      "last_checked": "14 Sep 2026"
     },
     {
       "id": "pivx",

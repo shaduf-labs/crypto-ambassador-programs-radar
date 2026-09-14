@@ -1,24 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Six official ambassador pages visibly invite applications without a published passed deadline: Hedera, Cyfrin, Nexo, Aster, Elk and Nomis. Bitget also has a Trading Builder recruitment campaign through 30 Sep 2026, but it is for experienced trading-community operators. Soneium remains not confirmed; Solana and SideShift are closed; PIVX is referral-only.",
+  "current_answer": "Six official ambassador pages visibly invite applications without a published passed deadline: Hedera, Cyfrin, Nexo, Aster, Elk and Nomis. Bitget also has a Trading Builder recruitment campaign through 30 Sep 2026, but it is for experienced trading-community operators. MetaMask’s official ambassador forum describes an unpaid role, but its public form was last reported closed on 4 Jun and no later reopening notice was found in the inspected forum pages, so it is not a confirmed route. Soneium remains not confirmed; Solana and SideShift are closed; PIVX is referral-only.",
   "catalogue_card": {
-    "question": "Six open routes — and a 30 Sep trading deadline?",
-    "text": "Aster, Elk and Nomis join the checked open table. Bitget has a live trading-community campaign through 30 Sep, while SideShift is closed and Soneium still needs form acceptance proof."
+    "question": "Six routes still visible — but one familiar name is not an open form",
+    "text": "The table’s six visible routes remain. MetaMask’s forum describes voluntary unpaid work, but its public form was last reported closed on 4 Jun. Soneium’s form is still unverified."
   },
   "summary": [
     "Six official ambassador pages visibly invite applications without a published passed deadline.",
-    "Aster has year-round applications but says event support is not salary; Elk begins with volunteer trial work; Nomis links its reward to referrals.",
+    "MetaMask’s official forum describes voluntary, unpaid work, but its last explicit public form update says applications were closed on 4 Jun 2026; no later reopening notice was found in the inspected pages.",
+    "Aster has a year-round route but says event support is not salary; Elk begins with volunteer trial work; Nomis links its reward to referrals.",
     "Bitget’s Trading Builder recruitment closes 30 Sep 2026 and is aimed at experienced trading-community operators, not general entry-level contributors.",
     "SideShift explicitly says applications are closed; Soneium remains not confirmed; Solana is past its published deadline; PIVX is referral-only."
   ],
   "uncertainty": [
     "A visible official route does not guarantee a hosted form will accept a submission or that an applicant will be selected.",
     "Most open routes do not publish decision-ready cash terms, hours or full selection rules.",
-    "Aster, Elk and Nomis have open official routes but no newly inspected independent participant report.",
+    "MetaMask’s latest explicit public form status is from 4 Jun 2026; the inspected forum pages cannot rule out a different, private or later route.",
     "Bitget’s $50,000 promotion pool is shared and conditional; it is not an individual payment figure."
   ],
-  "checked_at": "2026-09-13T08:07:00.000Z",
-  "meaningfully_updated_at": "2026-09-13T08:07:00.000Z",
-  "freshness_note": "Status reflects official pages checked on 13 Sep 2026. Recheck each route before sharing data, promoting trading products or committing recurring work."
+  "checked_at": "2026-09-14T08:09:06.000Z",
+  "meaningfully_updated_at": "2026-09-14T08:09:06.000Z",
+  "freshness_note": "Status reflects the latest substantive check shown in each row, with Hedera, Cyfrin, Nexo, Bitget, Soneium, Solana and MetaMask checked on 14 Sep 2026. Recheck each route before sharing data, promoting trading products or committing recurring work."
 }

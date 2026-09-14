@@ -7,7 +7,7 @@
       "source_url": "https://hedera.com/ambassador-program/",
       "title": "Hedera Ambassador Program",
       "claim": "Hedera’s current official page visibly links an application route and describes roles and non-cash benefits.",
-      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "accessed_at": "2026-09-14T08:09:06.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -17,7 +17,7 @@
       "source_url": "https://ambassadors.cyfrin.io/",
       "title": "Cyfrin Ambassadors",
       "claim": "Cyfrin’s official page invites applications, says it reviews them and describes work, certification and non-cash benefits.",
-      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "accessed_at": "2026-09-14T08:09:06.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -27,7 +27,7 @@
       "source_url": "https://nexo.com/ambassadors",
       "title": "Nexo Crypto Ambassador Program",
       "claim": "Nexo’s current official page contains an ambassador form and publishes seniority signals, work and unspecified salary and incentive claims.",
-      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "accessed_at": "2026-09-14T08:09:06.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -67,7 +67,7 @@
       "source_url": "https://www.bitget.com/support/articles/12560603885686",
       "title": "Bitget Trading Builder recruitment",
       "claim": "Bitget’s official article sets a 30 Sep 2026 recruitment deadline, criteria, work and shared-pool conditions.",
-      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "accessed_at": "2026-09-14T08:09:06.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -77,7 +77,7 @@
       "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "title": "Soneium Ambassador Program",
       "claim": "Soneium’s official June announcement still links an application endpoint but does not establish current hosted-form acceptance.",
-      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "accessed_at": "2026-09-14T08:09:06.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
@@ -87,7 +87,7 @@
       "source_url": "https://solana.com/university",
       "title": "Solana University Ambassador Program",
       "claim": "Solana’s page still renders fields while its published 1 Sep close date has passed.",
-      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "accessed_at": "2026-09-14T08:09:06.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
@@ -129,6 +129,26 @@
       "claim": "FBI guidance warns of task scams that require crypto deposits to unlock work.",
       "accessed_at": "2026-09-13T08:07:00.000Z",
       "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-metamask-guide",
+      "source_type": "official community forum",
+      "source_url": "https://builder.metamask.io/t/learn-about-the-metamask-ambassador-program/2820",
+      "title": "MetaMask Ambassador Program guide",
+      "claim": "MetaMask’s official forum says ambassador participation is voluntary and unpaid, with resources and support depending on contribution.",
+      "accessed_at": "2026-09-14T08:09:06.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-metamask-application",
+      "source_type": "official community forum",
+      "source_url": "https://builder.metamask.io/t/apply-for-the-metamask-ambassador-program/2821",
+      "title": "MetaMask application discussion",
+      "claim": "The application discussion records a staff reply on 4 Jun 2026 that the form was currently closed; no later reopening notice was found in the official forum pages inspected.",
+      "accessed_at": "2026-09-14T08:09:06.000Z",
+      "relation": "limits",
       "publication_basis": "linked-summary"
     }
   ]
