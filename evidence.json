@@ -7,7 +7,7 @@
       "source_url": "https://hedera.com/ambassador-program/",
       "title": "Hedera Ambassador Program",
       "claim": "Hedera’s current official page visibly links an application route and describes roles and non-cash benefits.",
-      "accessed_at": "2026-09-14T08:09:06.000Z",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -17,7 +17,7 @@
       "source_url": "https://ambassadors.cyfrin.io/",
       "title": "Cyfrin Ambassadors",
       "claim": "Cyfrin’s official page invites applications, says it reviews them and describes work, certification and non-cash benefits.",
-      "accessed_at": "2026-09-14T08:09:06.000Z",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -26,9 +26,9 @@
       "source_type": "official page",
       "source_url": "https://nexo.com/ambassadors",
       "title": "Nexo Crypto Ambassador Program",
-      "claim": "Nexo’s current official page contains an ambassador form and publishes seniority signals, work and unspecified salary and incentive claims.",
-      "accessed_at": "2026-09-14T08:09:06.000Z",
-      "relation": "supports",
+      "claim": "The previously tracked Nexo ambassador URL now redirects to Nexo’s general UK site and did not expose an ambassador application or current terms.",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
+      "relation": "limits",
       "publication_basis": "linked-summary"
     },
     {
@@ -47,7 +47,7 @@
       "source_url": "https://elk.finance/become-an-ambassador/",
       "title": "Elk Ambassador Program",
       "claim": "Elk’s official page links an application and states that the selected apprentice works as a volunteer during a trial.",
-      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -57,7 +57,7 @@
       "source_url": "https://docs.nomis.cc/ambassador-program",
       "title": "Nomis Ambassador Program",
       "claim": "Nomis documentation links a sign-up form and states referral-linked fee rewards and contributor tasks.",
-      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -67,7 +67,7 @@
       "source_url": "https://www.bitget.com/support/articles/12560603885686",
       "title": "Bitget Trading Builder recruitment",
       "claim": "Bitget’s official article sets a 30 Sep 2026 recruitment deadline, criteria, work and shared-pool conditions.",
-      "accessed_at": "2026-09-14T08:09:06.000Z",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -76,9 +76,9 @@
       "source_type": "official announcement",
       "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "title": "Soneium Ambassador Program",
-      "claim": "Soneium’s official June announcement still links an application endpoint but does not establish current hosted-form acceptance.",
-      "accessed_at": "2026-09-14T08:09:06.000Z",
-      "relation": "limits",
+      "claim": "Soneium’s official announcement explicitly says it is opening the Ambassador Program and links an “Apply now” Typeform, while the hosted form did not expose its current submission state.",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
+      "relation": "supports",
       "publication_basis": "linked-summary"
     },
     {
@@ -87,7 +87,7 @@
       "source_url": "https://solana.com/university",
       "title": "Solana University Ambassador Program",
       "claim": "Solana’s page still renders fields while its published 1 Sep close date has passed.",
-      "accessed_at": "2026-09-14T08:09:06.000Z",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
     },
@@ -107,7 +107,7 @@
       "source_url": "https://sideshift.ai/ambassadors",
       "title": "SideShift Ambassador Program",
       "claim": "SideShift’s current official page says applications are currently closed while retaining program reward terms.",
-      "accessed_at": "2026-09-13T08:07:00.000Z",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
     },
@@ -149,6 +149,26 @@
       "claim": "The application discussion records a staff reply on 4 Jun 2026 that the form was currently closed; no later reopening notice was found in the official forum pages inspected.",
       "accessed_at": "2026-09-14T08:09:06.000Z",
       "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-torium-program",
+      "source_type": "official program page",
+      "source_url": "https://ambassador.torium.network/",
+      "title": "Torium Ambassador Program",
+      "claim": "Torium’s issuer-operated ambassador page labels applications open and states a manual review, a seven-day public-content track and conditional USDT and TOR reward rules.",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "pub-e-torium-terms",
+      "source_type": "official program terms",
+      "source_url": "https://ambassador.torium.network/terms",
+      "title": "Torium Ambassador Program Terms",
+      "claim": "Torium’s July 2026 terms require an account and social-account information, state that rewards may be denied or reversed, and describe payout information and disclosure duties.",
+      "accessed_at": "2026-09-15T08:06:08.000Z",
+      "relation": "supports",
       "publication_basis": "linked-summary"
     }
   ]

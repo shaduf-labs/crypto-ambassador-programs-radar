@@ -33,6 +33,17 @@
       "summary": "The established six routes remain; MetaMask’s official forum distinguishes a voluntary role from a currently confirmed public application.",
       "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-14-public-form-status",
       "entrypoint": "research/2026-09-14-public-form-status/index.html"
+    },
+    {
+      "run_id": "run:acbff9da-0380-4dff-a8cf-094ae77c26cb",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-15T08:00:00.000Z",
+      "completed_at": "2026-09-15T08:14:00.000Z",
+      "title": "Soneium opens; Nexo route disappears",
+      "summary": "Soneium and Torium enter the open table from current issuer pages, while Nexo’s old ambassador path no longer provides a public route.",
+      "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-15-soneium-open-nexo-route-removed",
+      "entrypoint": "research/2026-09-15-soneium-open-nexo-route-removed/index.html"
     }
   ]
 }

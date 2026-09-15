@@ -18,6 +18,12 @@
       "changed_at": "2026-09-14T08:09:06.000Z",
       "summary": "Rechecked the open routes and added MetaMask as a voluntary unpaid role with no confirmed current public form; the six tracked open routes remain.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:soneium-open-nexo-route-removed",
+      "changed_at": "2026-09-15T08:06:08.000Z",
+      "summary": "Soneium entered the open table after its official page explicitly said applications were open; added Torium’s open route and conditional reward terms; moved Nexo out after its tracked ambassador URL redirected to the general site.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }
