@@ -1,26 +1,26 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Seven official pages explicitly invite ambassador applications without a published passed deadline: Hedera, Cyfrin, Soneium, Aster, Elk, Nomis and Torium. Soneium’s official announcement says applications are open and links a hosted form; the form did not expose its fields or acceptance state. Torium says applications are open and publishes a seven-day public-content track and conditional view-linked USDT rewards, but no independent payout report was checked. Nexo’s previously tracked ambassador URL now redirects to its general site, so it is no longer a confirmed route. Bitget’s Trading Builder recruitment remains open through 30 Sep 2026 for experienced trading-community operators; MetaMask is not confirmed, Solana and SideShift are closed, and PIVX is referral-only.",
+  "current_answer": "Ten listed ambassador routes have issuer-linked ways to apply and no published passed deadline: Hedera, Cyfrin, Soneium, Aster, Elk, Nomis, Torium, Nexo, Oasis Sentinels and Fiber. Nexo’s official page currently shows its contact form after it did not expose a public route on 15 Sep. Oasis links a Sentinel application but does not publish selection or cash terms. Fiber’s official company profile links a flexible contractor role with monthly compensation and possible revenue share, but no amount. Bitget’s Trading Builder recruitment remains open through 30 Sep 2026 for experienced trading-community operators; MetaMask is not confirmed, Solana and SideShift are closed, and PIVX is referral-only.",
   "catalogue_card": {
-    "question": "Soneium says apply now; Nexo’s old route vanished",
-    "text": "Soneium moves into the live table after its official page explicitly opened applications. Nexo leaves it because the saved ambassador link now redirects away. Torium is open, but its payment claims have no independent check."
+    "question": "Nexo’s form is back; Oasis and Fiber add routes",
+    "text": "Nexo’s official ambassador page now shows a form again. Oasis links a Sentinel application, and Fiber announced a flexible paid community role. Their selection, pay and data terms still differ sharply."
   },
   "summary": [
-    "Soneium’s official page explicitly says it is opening an ambassador program and links a hosted application route; cash terms are not stated.",
-    "Torium publishes an open route, a seven-day initiation track and conditional USDT reward thresholds. Its terms leave rewards to review, and no independent payout report was found.",
-    "Nexo’s old ambassador URL now redirects to the general Nexo site, so previous role and salary language is not a current public opportunity.",
-    "Hedera, Cyfrin, Elk and Nomis still show official routes; Aster remains listed from its 14 Sep check.",
+    "Nexo’s official ambassador page is currently reachable again and displays a contact form, plus broad salary and incentive language without an amount or targets.",
+    "Oasis’s official Community Hub links a Sentinels form for global meetup, content and representation work; it lists bounties, mentorship and early access, not a cash amount.",
+    "Fiber’s official company profile announced a new Community Ambassador program and links a remote flexible contractor post with unspecified monthly compensation and possible revenue share.",
+    "Hedera, Cyfrin, Soneium and Torium still show issuer-linked calls to apply. Aster remains dated 14 Sep because its announcement did not render in this pass.",
     "Bitget’s distinct Trading Builder recruitment ends 30 Sep 2026; MetaMask is still not a confirmed public route, Solana and SideShift are closed, and PIVX is referral-only."
   ],
   "uncertainty": [
-    "An official page that says applications are open does not prove a hosted form will accept a submission or that an applicant will be selected.",
-    "Most open routes do not publish decision-ready cash terms, hours or full selection rules.",
-    "Soneium’s hosted form did not expose data fields or a submission-state message in this check.",
-    "Torium’s reward and payout statements are issuer claims; no independent payment report was checked.",
-    "Nexo may publish a new or private route elsewhere; the saved public ambassador URL is no longer one."
+    "An issuer-linked route does not prove a hosted form will accept a submission or that an applicant will be selected.",
+    "Nexo’s page changed between the 15 and 16 Sep checks; re-open the live issuer page before submitting data.",
+    "Oasis does not publish a deadline, selection criteria, response time or decision-ready payment terms on its current Community Hub.",
+    "Fiber’s compensation amount, revenue-share formula and individual engagement terms are not public in the company-linked job post.",
+    "Most open routes do not publish decision-ready cash terms, hours or full selection rules."
   ],
-  "checked_at": "2026-09-15T08:06:08.000Z",
-  "meaningfully_updated_at": "2026-09-15T08:06:08.000Z",
-  "freshness_note": "Status reflects the last substantive check shown in each row. Hedera, Cyfrin, Soneium, Elk, Nomis, Torium, Bitget, Solana and SideShift were checked on 15 Sep 2026; Aster was last substantively checked on 14 Sep 2026. Recheck each route before sharing data, promoting trading products or committing recurring work."
+  "checked_at": "2026-09-16T08:04:26.000Z",
+  "meaningfully_updated_at": "2026-09-16T08:04:26.000Z",
+  "freshness_note": "Status reflects the last substantive check shown in each row. Hedera, Cyfrin, Soneium, Nexo, Oasis, Fiber, Torium, Bitget, Solana, PIVX and SideShift were checked on 16 Sep 2026. Elk and Nomis were last substantively checked on 15 Sep; Aster and MetaMask were last substantively checked on 14 Sep. Recheck each route before sharing data, promoting trading products or committing recurring work."
 }

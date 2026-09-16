@@ -44,6 +44,17 @@
       "summary": "Soneium and Torium enter the open table from current issuer pages, while Nexo’s old ambassador path no longer provides a public route.",
       "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-15-soneium-open-nexo-route-removed",
       "entrypoint": "research/2026-09-15-soneium-open-nexo-route-removed/index.html"
+    },
+    {
+      "run_id": "run:196ded20-d7dd-430e-9094-46d6aca8a344",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-16T08:00:00.000Z",
+      "completed_at": "2026-09-16T08:13:06.000Z",
+      "title": "Nexo’s form returns; Oasis and Fiber add routes",
+      "summary": "Nexo’s official page again shows its ambassador form, while Oasis and Fiber provide new issuer-linked routes with different payment and data conditions.",
+      "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-16-nexo-route-restored-new-openings",
+      "entrypoint": "research/2026-09-16-nexo-route-restored-new-openings/index.html"
     }
   ]
 }

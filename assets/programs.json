@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-15",
-  "source_run_id": "run:acbff9da-0380-4dff-a8cf-094ae77c26cb",
+  "snapshot_date": "2026-09-16",
+  "source_run_id": "run:196ded20-d7dd-430e-9094-46d6aca8a344",
   "items": [
     {
       "id": "hedera",
@@ -16,7 +16,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "15 Sep 2026"
+      "last_checked": "16 Sep 2026"
     },
     {
       "id": "cyfrin",
@@ -31,7 +31,7 @@
       "safety": "Use the Typeform only from Cyfrin’s official page. SSCD+ certification is required within six weeks after onboarding to continue.",
       "official_url": "https://ambassadors.cyfrin.io/",
       "status_label": "Confirmed open",
-      "last_checked": "15 Sep 2026"
+      "last_checked": "16 Sep 2026"
     },
     {
       "id": "soneium",
@@ -46,7 +46,7 @@
       "safety": "The official page explicitly says Apply now and links a Typeform. The hosted page did not expose its questions or a submission-state message. Do not assume selection or payment.",
       "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "15 Sep 2026"
+      "last_checked": "16 Sep 2026"
     },
     {
       "id": "aster",
@@ -58,9 +58,9 @@
       "reward": "Event support up to $5,000 per event, toolkit, merchandise, promotion and early product access. Aster says there is no direct salary.",
       "selection": "Application; Aster says it reviews applicants within two weeks and may invite qualified candidates to a screening call.",
       "people": "No recent independent report found.",
-      "safety": "The role can involve futures, perpetuals and high-leverage trading education. No fee to become an ambassador is stated.",
+      "safety": "The issuer page did not render its announcement text in this check. The row remains based on the 14 Sep issuer check; the role can involve futures, perpetuals and high-leverage trading education.",
       "official_url": "https://www.asterdex.com/en/announcement/132?category=ACTIVITY",
-      "status_label": "Confirmed open",
+      "status_label": "Confirmed open; recheck pending",
       "last_checked": "14 Sep 2026"
     },
     {
@@ -103,10 +103,55 @@
       "reward": "The issuer lists monthly TOR exchanges, shared USDT pools and USDT rewards of $100, $150 or $250 per qualifying post. Rewards depend on review and stated view thresholds.",
       "selection": "Manual review. The terms require a Torium account in good standing and accurate social-account information; approved candidates complete the seven-day track.",
       "people": "No recent independent report found.",
-      "safety": "This is a new issuer-operated route. No independent payout report was checked. The terms say a USDT payout goes to a BSC wallet after approval; read the privacy, reward and disclosure terms before joining.",
+      "safety": "No independent payout report was checked. The terms say a USDT payout goes to a BSC wallet after approval; read the privacy, reward and disclosure terms before joining.",
       "official_url": "https://ambassador.torium.network/",
       "status_label": "Confirmed open",
-      "last_checked": "15 Sep 2026"
+      "last_checked": "16 Sep 2026"
+    },
+    {
+      "id": "nexo",
+      "status": "confirmed_open",
+      "project": "Nexo",
+      "fit": "Senior contributors with local crypto and marketing connections, B2B sales experience, strong networking and public-speaking skills.",
+      "work": "Build local partnerships and community, make content, represent Nexo at events, support affiliate growth, engage local media and localize content.",
+      "deadline": "No deadline published.",
+      "reward": "Nexo says “competitive salary” and result-based incentives. It does not state an amount, targets, payment schedule or jurisdiction limits.",
+      "selection": "The official page shows a contact form. Its review process and response time are not stated.",
+      "people": "No recent independent report found.",
+      "safety": "On 16 Sep, the tracked official page displayed name, email, phone, LinkedIn and contribution fields after it did not render a route on 15 Sep. Re-open the official page and read the privacy terms before submitting.",
+      "official_url": "https://nexo.com/ambassadors",
+      "status_label": "Confirmed open; route restored",
+      "last_checked": "16 Sep 2026"
+    },
+    {
+      "id": "oasis-sentinels",
+      "status": "confirmed_open",
+      "project": "Oasis Sentinels",
+      "fit": "Global community builders who can lead meetups, create content or represent Oasis. Other eligibility rules are not stated on the current hub.",
+      "work": "Lead meetups, create content and represent Oasis globally.",
+      "deadline": "No deadline published.",
+      "reward": "Exclusive bounties, professional mentorship and early ecosystem access. Cash or token amount not stated.",
+      "selection": "The official community hub links a “Become a Sentinel” form; review and response terms are not stated on the hub.",
+      "people": "No recent independent report found.",
+      "safety": "The issuer-linked route is a Google Form. Inspect its fields before sharing contact, social or wallet information.",
+      "official_url": "https://oasis.net/community-hub",
+      "status_label": "Confirmed open",
+      "last_checked": "16 Sep 2026"
+    },
+    {
+      "id": "fiber-community-ambassador",
+      "status": "confirmed_open",
+      "project": "Fiber Community Ambassador",
+      "fit": "People already active in crypto, Web3, fintech or adjacent communities, especially in active local hubs. The job post names Argentina and Latin America, Southeast and East Asia, and Eastern Europe as interests, while saying applications are global.",
+      "work": "Introduce and educate users; build local relationships; represent Fiber at meetups; create local content; gather feedback; explore growth ideas.",
+      "deadline": "No deadline published.",
+      "reward": "Monthly compensation and possible performance-based revenue share. Amount and individual terms are discussed only with selected candidates.",
+      "selection": "The company-linked job post asks applicants to describe their community and contribution plan and to email a résumé or CV. It says there are no fixed hours or exclusivity requirements.",
+      "people": "No recent independent report found.",
+      "safety": "Fiber’s official company post links the third-party job post. Verify the link from Fiber’s official profile before emailing a CV or creating an account for the optional fibertag reference.",
+      "official_url": "https://web3.career/fiber-community-ambassador-fiber/153472",
+      "status_label": "Confirmed open; company-linked job post",
+      "last_checked": "16 Sep 2026"
     },
     {
       "id": "bitget-trading-builder",
@@ -121,7 +166,7 @@
       "safety": "This is a trading-community growth campaign, not a general contributor role. Verify any Telegram contact is an official Bitget account.",
       "official_url": "https://www.bitget.com/support/articles/12560603885686",
       "status_label": "Open: trading-builder campaign",
-      "last_checked": "15 Sep 2026"
+      "last_checked": "16 Sep 2026"
     },
     {
       "id": "metamask",
@@ -139,21 +184,6 @@
       "last_checked": "14 Sep 2026"
     },
     {
-      "id": "nexo",
-      "status": "not_confirmed",
-      "project": "Nexo",
-      "fit": "No current public ambassador route was found at the previously tracked URL.",
-      "work": "The old ambassador-page terms should not be treated as a current role description.",
-      "deadline": "On 15 Sep 2026, the previously tracked ambassador URL redirected to Nexo’s general UK home page.",
-      "reward": "Past salary and incentive language is not a current offer while the ambassador route is absent.",
-      "selection": "No current public ambassador form or selection route was found at the saved URL.",
-      "people": "No recent independent report found.",
-      "safety": "Do not give data to a copied or old Nexo ambassador form. Find a fresh official route before acting.",
-      "official_url": "https://nexo.com/ambassadors",
-      "status_label": "Not confirmed: tracked route removed",
-      "last_checked": "15 Sep 2026"
-    },
-    {
       "id": "solana-university",
       "status": "closed",
       "project": "Solana University Ambassador Program",
@@ -163,10 +193,10 @@
       "reward": "USDC semester stipend in milestone-based installments; amount not stated.",
       "selection": "Two 60-second videos and short answers. The page says it reviews every application.",
       "people": "No recent independent report found.",
-      "safety": "The page still shows form fields, but the published close date has passed.",
+      "safety": "The page still shows form fields, but no later official reopening notice was found after its published close date.",
       "official_url": "https://solana.com/university",
       "status_label": "Closed",
-      "last_checked": "15 Sep 2026"
+      "last_checked": "16 Sep 2026"
     },
     {
       "id": "pivx",
@@ -181,7 +211,7 @@
       "safety": "This is not general open access. Confirm the referrer rule before submitting.",
       "official_url": "https://pivx.org/ambassador-program",
       "status_label": "Referral-only",
-      "last_checked": "13 Sep 2026"
+      "last_checked": "16 Sep 2026"
     },
     {
       "id": "sideshift",
@@ -196,7 +226,7 @@
       "safety": "Follow the official account only for a reopening. Do not treat listed reward terms as a current offer.",
       "official_url": "https://sideshift.ai/ambassadors",
       "status_label": "Closed",
-      "last_checked": "15 Sep 2026"
+      "last_checked": "16 Sep 2026"
     }
   ]
 }

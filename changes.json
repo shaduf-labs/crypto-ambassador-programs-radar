@@ -24,6 +24,12 @@
       "changed_at": "2026-09-15T08:06:08.000Z",
       "summary": "Soneium entered the open table after its official page explicitly said applications were open; added Torium’s open route and conditional reward terms; moved Nexo out after its tracked ambassador URL redirected to the general site.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:nexo-route-restored-oasis-fiber",
+      "changed_at": "2026-09-16T08:04:26.000Z",
+      "summary": "Returned Nexo to the open table after its official form rendered again; added Oasis Sentinels and Fiber Community Ambassador routes with their stated fit, payment and data gaps.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }
