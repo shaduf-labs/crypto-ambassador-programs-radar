@@ -55,6 +55,17 @@
       "summary": "Nexo’s official page again shows its ambassador form, while Oasis and Fiber provide new issuer-linked routes with different payment and data conditions.",
       "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-16-nexo-route-restored-new-openings",
       "entrypoint": "research/2026-09-16-nexo-route-restored-new-openings/index.html"
+    },
+    {
+      "run_id": "run:993ccdb2-8347-4d64-a0a0-5f07b38b32f5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-17T08:00:00.000Z",
+      "completed_at": "2026-09-17T08:16:18.000Z",
+      "title": "Two application routes added; Torium’s first $100 threshold is 50K views",
+      "summary": "Bybit and HeLa enter the application table with distinct geography and reward terms; Torium’s stated threshold becomes explicit, while Pendulum and Wager Predict remain separate status calls.",
+      "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-17-bybit-hela-open-torium-thresholds",
+      "entrypoint": "research/2026-09-17-bybit-hela-open-torium-thresholds/index.html"
     }
   ]
 }

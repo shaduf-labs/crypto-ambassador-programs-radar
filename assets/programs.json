@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-16",
-  "source_run_id": "run:196ded20-d7dd-430e-9094-46d6aca8a344",
+  "snapshot_date": "2026-09-17",
+  "source_run_id": "run:993ccdb2-8347-4d64-a0a0-5f07b38b32f5",
   "items": [
     {
       "id": "hedera",
@@ -16,7 +16,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "cyfrin",
@@ -31,7 +31,7 @@
       "safety": "Use the Typeform only from Cyfrin’s official page. SSCD+ certification is required within six weeks after onboarding to continue.",
       "official_url": "https://ambassadors.cyfrin.io/",
       "status_label": "Confirmed open",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "soneium",
@@ -46,7 +46,7 @@
       "safety": "The official page explicitly says Apply now and links a Typeform. The hosted page did not expose its questions or a submission-state message. Do not assume selection or payment.",
       "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "aster",
@@ -76,7 +76,7 @@
       "safety": "The official page links a hosted application. Do not assume post-trial benefits are paid compensation.",
       "official_url": "https://elk.finance/become-an-ambassador/",
       "status_label": "Confirmed open",
-      "last_checked": "15 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "nomis",
@@ -91,7 +91,7 @@
       "safety": "This is a contributor role with referral-linked rewards, not a stated wage or stipend.",
       "official_url": "https://docs.nomis.cc/ambassador-program",
       "status_label": "Open, referral-led",
-      "last_checked": "15 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "torium",
@@ -100,13 +100,13 @@
       "fit": "People aged 18+ with an active public Telegram, X, Instagram or YouTube channel. The issuer says no follower minimum applies.",
       "work": "Create public content, join community conversations and complete a seven-day initiation track with a reviewed proof pack.",
       "deadline": "Applications open. No closing deadline published; the issuer calls the founding cohort limited.",
-      "reward": "The issuer lists monthly TOR exchanges, shared USDT pools and USDT rewards of $100, $150 or $250 per qualifying post. Rewards depend on review and stated view thresholds.",
+      "reward": "USDT rewards of $100 at 50K verified views, $150 at 100K and $250 at 200K per post; monthly TOR exchanges and shared USDT pools. All rewards depend on review.",
       "selection": "Manual review. The terms require a Torium account in good standing and accurate social-account information; approved candidates complete the seven-day track.",
       "people": "No recent independent report found.",
-      "safety": "No independent payout report was checked. The terms say a USDT payout goes to a BSC wallet after approval; read the privacy, reward and disclosure terms before joining.",
+      "safety": "No independent payout report was checked. USDT payouts are described as BSC wallet payments after approval; read the privacy, reward and disclosure terms before joining.",
       "official_url": "https://ambassador.torium.network/",
       "status_label": "Confirmed open",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "nexo",
@@ -120,8 +120,8 @@
       "people": "No recent independent report found.",
       "safety": "On 16 Sep, the tracked official page displayed name, email, phone, LinkedIn and contribution fields after it did not render a route on 15 Sep. Re-open the official page and read the privacy terms before submitting.",
       "official_url": "https://nexo.com/ambassadors",
-      "status_label": "Confirmed open; route restored",
-      "last_checked": "16 Sep 2026"
+      "status_label": "Confirmed open",
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "oasis-sentinels",
@@ -136,7 +136,7 @@
       "safety": "The issuer-linked route is a Google Form. Inspect its fields before sharing contact, social or wallet information.",
       "official_url": "https://oasis.net/community-hub",
       "status_label": "Confirmed open",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "fiber-community-ambassador",
@@ -151,7 +151,7 @@
       "safety": "Fiber’s official company post links the third-party job post. Verify the link from Fiber’s official profile before emailing a CV or creating an account for the optional fibertag reference.",
       "official_url": "https://web3.career/fiber-community-ambassador-fiber/153472",
       "status_label": "Confirmed open; company-linked job post",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "bitget-trading-builder",
@@ -166,7 +166,7 @@
       "safety": "This is a trading-community growth campaign, not a general contributor role. Verify any Telegram contact is an official Bitget account.",
       "official_url": "https://www.bitget.com/support/articles/12560603885686",
       "status_label": "Open: trading-builder campaign",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "metamask",
@@ -193,10 +193,10 @@
       "reward": "USDC semester stipend in milestone-based installments; amount not stated.",
       "selection": "Two 60-second videos and short answers. The page says it reviews every application.",
       "people": "No recent independent report found.",
-      "safety": "The page still shows form fields, but no later official reopening notice was found after its published close date.",
+      "safety": "The issuer still shows fields, but its published 1 Sep deadline has passed. Do not submit without a new official reopening notice.",
       "official_url": "https://solana.com/university",
       "status_label": "Closed",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "pivx",
@@ -211,7 +211,7 @@
       "safety": "This is not general open access. Confirm the referrer rule before submitting.",
       "official_url": "https://pivx.org/ambassador-program",
       "status_label": "Referral-only",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
     },
     {
       "id": "sideshift",
@@ -226,7 +226,67 @@
       "safety": "Follow the official account only for a reopening. Do not treat listed reward terms as a current offer.",
       "official_url": "https://sideshift.ai/ambassadors",
       "status_label": "Closed",
-      "last_checked": "16 Sep 2026"
+      "last_checked": "17 Sep 2026"
+    },
+    {
+      "id": "bybit-africa-campus",
+      "status": "confirmed_open",
+      "project": "Bybit Africa Campus Ambassadors",
+      "fit": "Current university or college students in Ghana, South Africa, Kenya, Uganda, Ethiopia or Nigeria. Interest in crypto, blockchain, fintech or digital finance; active in student communities or social media.",
+      "work": "Build a local campus community, support peers with digital-finance education, organize meetups or workshops, and share Bybit learning resources and product updates.",
+      "deadline": "No closing deadline published. Applications are reviewed on a rolling basis.",
+      "reward": "Performance-based rewards and bonuses, merchandise, and campaign, airdrop or promotion access. Amount and conditions are not stated.",
+      "selection": "Issuer-linked application form; shortlisted students are contacted for onboarding. Detailed selection criteria and response time are not stated.",
+      "people": "No recent independent report found.",
+      "safety": "The official page links a hosted Lark form. Inspect its fields before sharing student, contact or social information. This is an exchange-affiliated education and product-promotion role.",
+      "official_url": "https://www.bybit.com/en/learn/institutional-services/bybit-africa-campus-ambassadors-program",
+      "status_label": "Confirmed open; country-limited",
+      "last_checked": "17 Sep 2026"
+    },
+    {
+      "id": "hela",
+      "status": "confirmed_open",
+      "project": "HeLa Ambassador Program",
+      "fit": "Global developers, creators, students and professionals. Choose Developer or Community Ambassador work.",
+      "work": "Developer track: build, test and advocate for the tech stack; host hackathons and workshops. Community track: lead meetups, content and collaborations.",
+      "deadline": "No deadline published. Each stated term lasts six months and tracks milestones.",
+      "reward": "Token rewards, NFTs and ecosystem perks. The issuer says this is not a fixed salary; token unit, value and redemption terms are not stated.",
+      "selection": "Form, past-work review, optional interview, onboarding and contract, according to the issuer.",
+      "people": "No recent independent report found.",
+      "safety": "The official page shows an application form but its fields were not available in this check. Read fields and contract terms before sharing personal, social or wallet information.",
+      "official_url": "https://ambassador.helalabs.com/",
+      "status_label": "Confirmed open; six-month term",
+      "last_checked": "17 Sep 2026"
+    },
+    {
+      "id": "pendulum",
+      "status": "ongoing_enrollment",
+      "project": "Pendulum Ambassador Program",
+      "fit": "Community members active in Pendulum or Amplitude who want to promote its goals. Technical expertise is a plus, not a stated requirement.",
+      "work": "Claim a Discord role, introduce yourself, contribute community content and progress through ranks. Higher ranks may be selected for bounties.",
+      "deadline": "No deadline published.",
+      "reward": "The issuer says the position is not paid. It lists networking, merchandise, event invitations and possible bounties.",
+      "selection": "No formal application review is published. The issuer directs people to Discord to claim an ambassador role.",
+      "people": "No recent independent report found.",
+      "safety": "This is Discord enrollment, not a published job application. Reach Discord from the issuer page and do not infer cash pay or a guaranteed bounty.",
+      "official_url": "https://www.pendulumchain.org/ambassador-program",
+      "status_label": "Ongoing: Discord enrollment",
+      "last_checked": "17 Sep 2026"
+    },
+    {
+      "id": "wager-predict",
+      "status": "not_confirmed",
+      "project": "Wager Predict Ambassador Program",
+      "fit": "The issuer names traders familiar with prediction markets and leverage, plus builders, writers and community contributors.",
+      "work": "The issuer says ambassadors may provide feedback, help shape markets and explain the protocol.",
+      "deadline": "The issuer says applications are open; no deadline published.",
+      "reward": "The published post retains a bracketed reward-structure placeholder. Do not treat rewards as stated.",
+      "selection": "A linked Google Form; review terms are not published.",
+      "people": "No recent independent report found.",
+      "safety": "The issuer says the product is on BNB testnet and mainnet awaits a third-party audit. The same post leaves reward and regional-priority placeholders unfinished.",
+      "official_url": "https://predictprotocol.app/blog/the-predict-ambassador-program-is-live-7c87eab9a455",
+      "status_label": "Not confirmed: incomplete issuer terms",
+      "last_checked": "17 Sep 2026"
     }
   ]
 }
