@@ -36,6 +36,12 @@
       "changed_at": "2026-09-17T08:07:06.000Z",
       "summary": "Added Bybit Africa Campus and HeLa application routes; made Torium’s 50K-view entry threshold for its stated $100 USDT reward explicit; separated Pendulum Discord enrollment and held Wager Predict out for incomplete terms.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:cronos-zerion-routes-data-cost",
+      "changed_at": "2026-09-18T08:27:00.000Z",
+      "summary": "Added Cronos and Zerion routes; made their rolling review, unspecified reward terms and possible identity-data escalation visible before application.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

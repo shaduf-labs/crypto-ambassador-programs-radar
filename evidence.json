@@ -210,6 +210,56 @@
       "accessed_at": "2026-09-16T08:04:26.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cronos-official-route-20260918",
+      "source_type": "official program documentation",
+      "source_url": "https://docs.cronos.com/ambassadors/about-the-ambassador-program",
+      "title": "Cronos Ambassador documentation",
+      "claim": "Cronos documentation links a Season 3 form and describes contributor tracks for creators, educators, community operators and advocates.",
+      "accessed_at": "2026-09-18T08:27:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cronos-official-announcement-20260918",
+      "source_type": "official announcement channel",
+      "source_url": "https://t.me/s/Cronos_Announcements?before=542",
+      "title": "Cronos Announcements",
+      "claim": "Cronos’s official announcement channel describes Season 3 as five contribution tracks with XP, early app access and regional events.",
+      "accessed_at": "2026-09-18T08:27:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cronos-privacy-20260918",
+      "source_type": "official privacy notice",
+      "source_url": "https://crypto.com/us/privacy/ambassadors",
+      "title": "Crypto.com Ambassador Privacy Notice",
+      "claim": "The issuer’s notice says selected ambassadors may later be asked for identity documentation, including a photo and passport details.",
+      "accessed_at": "2026-09-18T08:27:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cronos-participant-report-20260918",
+      "source_type": "community participant discussion",
+      "source_url": "https://www.reddit.com/r/CronosNetwork/comments/1sbd9dz/if_youre_already_around_cronos_season_3_is/",
+      "title": "Cronos participant discussion",
+      "claim": "One self-identified participant says task submissions are reviewed before XP approval; this does not establish issuer terms.",
+      "accessed_at": "2026-09-18T08:27:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:zerion-official-route-20260918",
+      "source_type": "official community program page",
+      "source_url": "https://www.zerion.io/community",
+      "title": "Zerion Community",
+      "claim": "Zerion links an ambassador form, says review is rolling with quarterly decisions, and states there is no ambassador salary.",
+      "accessed_at": "2026-09-18T08:27:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

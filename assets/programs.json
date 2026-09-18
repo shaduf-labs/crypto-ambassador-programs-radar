@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-17",
-  "source_run_id": "run:993ccdb2-8347-4d64-a0a0-5f07b38b32f5",
+  "snapshot_date": "2026-09-18",
+  "source_run_id": "run:0777474a-40c8-428c-a51d-40855227c770",
   "items": [
     {
       "id": "hedera",
@@ -287,6 +287,36 @@
       "official_url": "https://predictprotocol.app/blog/the-predict-ambassador-program-is-live-7c87eab9a455",
       "status_label": "Not confirmed: incomplete issuer terms",
       "last_checked": "17 Sep 2026"
+    },
+    {
+      "id": "cronos",
+      "status": "confirmed_open",
+      "project": "Cronos Ambassador Program",
+      "fit": "Creators and educators, community operators, and advocates who can bring new users into the Cronos community.",
+      "work": "Propose campaigns, run beginner onboarding, support users, and contribute through content, localization, education, campaigns or community work.",
+      "deadline": "No deadline published.",
+      "reward": "Brand resources, badges, spotlights, direct support and microgrants for approved campaigns or meetups. Salary, XP value and individual payment terms are not stated.",
+      "selection": "Official documentation links a Season 3 application form. Review standards and response time are not stated.",
+      "people": "One self-identified participant on r/CronosNetwork, posted 3 Apr 2026, says task submissions are reviewed before XP approval. This is an individual report, not current terms.",
+      "safety": "The official documentation uses unexplained “Ult” wording and the hosted form did not expose fields or acceptance status. Crypto.com’s privacy notice says selected ambassadors may later need identity documentation, including passport details. Read the route and data terms before applying.",
+      "official_url": "https://docs.cronos.com/ambassadors/about-the-ambassador-program",
+      "status_label": "Confirmed open; form not inspected",
+      "last_checked": "18 Sep 2026"
+    },
+    {
+      "id": "zerion",
+      "status": "confirmed_open",
+      "project": "Zerion Ambassador Program",
+      "fit": "Existing Zerion community members who are community builders, content creators or developers. Other criteria are not stated.",
+      "work": "Specific deliverables are not stated on the inspected page.",
+      "deadline": "Rolling review; the issuer says it decides once a quarter. No closing date published.",
+      "reward": "No ambassador salary. The issuer says exceptional contributions are rewarded, but does not state the unit, amount, condition or timing.",
+      "selection": "Official application form; rolling review and quarterly decisions, according to the issuer.",
+      "people": "No recent independent report found.",
+      "safety": "The issuer-linked Typeform did not expose fields or a submission-state message in this check. Read every field before sharing contact, social or wallet information.",
+      "official_url": "https://www.zerion.io/community",
+      "status_label": "Confirmed open; rolling review",
+      "last_checked": "18 Sep 2026"
     }
   ]
 }

@@ -1,26 +1,25 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "Twelve listed ambassador routes have issuer-linked ways to apply and no published passed deadline: Hedera, Cyfrin, Soneium, Aster, Elk, Nomis, Torium, Nexo, Oasis Sentinels, Fiber, Bybit Africa Campus and HeLa. Bybit’s rolling route is for eligible university or college students in six named African countries; HeLa describes a six-month global program with token rewards, NFTs and perks rather than a fixed salary. Torium’s published $100–$250 per-post USDT thresholds begin at 50K verified views and require review. Pendulum offers Discord enrollment rather than a published application review; Wager Predict is not confirmed because its issuer post retains incomplete reward and region terms. Bitget’s campaign remains open through 30 Sep; MetaMask is not confirmed, Solana and SideShift are closed, and PIVX is referral-only.",
+  "current_answer": "Fourteen listed ambassador routes have issuer-linked ways to apply and no published passed deadline: Hedera, Cyfrin, Soneium, Aster, Elk, Nomis, Torium, Nexo, Oasis Sentinels, Fiber, Bybit Africa Campus, HeLa, Cronos and Zerion. Cronos links an application form and describes five contribution tracks, but its official documentation uses unexplained “Ult” wording and the hosted form could not be inspected. Zerion says it reviews applications on a rolling basis and makes decisions quarterly; it states no ambassador salary. Pendulum remains Discord enrollment rather than a published application review; Wager Predict remains unconfirmed because its issuer post has incomplete reward and region terms. Bitget’s Trading Builder campaign remains open through 30 Sep; MetaMask is not confirmed, Solana and SideShift are closed, and PIVX is referral-only.",
   "catalogue_card": {
-    "question": "Two routes added; Torium’s $100 starts at 50K verified views",
-    "text": "Bybit opens a country-limited campus application and HeLa a global six-month program. Torium’s published $100 per-post reward starts at 50K verified views; key payment and workload terms still need checking."
+    "question": "Two formal routes added. Their terms are the story.",
+    "text": "Cronos and Zerion link official application forms, but neither offers a decision-ready pay deal. Cronos leaves form state, XP value and data steps unclear; Zerion has rolling review, quarterly decisions and no ambassador salary."
   },
   "summary": [
-    "Bybit adds a rolling campus application for eligible university or college students in Ghana, South Africa, Kenya, Uganda, Ethiopia and Nigeria; individual reward amounts and hours are not stated.",
-    "HeLa adds a global Developer and Community Ambassador application with a six-month milestone term, token rewards, NFTs and perks rather than a fixed salary.",
-    "Torium’s stated USDT thresholds are $100 at 50K verified views, $150 at 100K and $250 at 200K per post, with review and wallet-payment conditions.",
-    "Pendulum is ongoing Discord enrollment, not a published application review; Wager Predict is held out because its issuer post retains incomplete reward and region terms.",
-    "Bitget’s distinct Trading Builder recruitment ends 30 Sep 2026; MetaMask is still not a confirmed public route, Solana and SideShift are closed, and PIVX is referral-only."
+    "Cronos links an official Season 3 ambassador form for contribution tracks including content, localization, education, campaigns and community work; salary, hours, XP value and current hosted-form state are not published.",
+    "Zerion links a rolling application for community builders, content creators and developers and says it decides once a quarter. It states no ambassador salary; work and reward conditions are not published.",
+    "Crypto.com’s ambassador privacy notice says selected ambassadors may later need identity documentation, including a photo and passport details. Read each stage before sharing data.",
+    "Pendulum remains Discord enrollment, and Wager Predict remains held out for incomplete issuer terms. Bitget’s Trading Builder campaign has a 30 Sep 2026 deadline."
   ],
   "uncertainty": [
     "An issuer-linked route does not prove a hosted form will accept a submission or that an applicant will be selected.",
+    "Cronos and Zerion link issuer-approved hosted forms, but their fields and current acceptance messages were not accessible in this check; Cronos documentation also uses unexplained “Ult” wording.",
+    "Zerion does not publish duties or reward conditions. Cronos does not publish expected hours, XP value, salary terms or individual payment conditions.",
     "Aster’s latest substantive issuer check is 14 Sep 2026 because its announcement did not render in later checks.",
-    "Bybit does not publish individual reward amounts, expected hours or its hosted-form fields; HeLa does not publish token value, redemption, workload or contract terms.",
-    "Torium’s stated payout thresholds, reviews and wallet payment route are issuer claims; no independent payout report was found.",
-    "Most listed routes do not publish decision-ready cash terms, hours, full selection rules or participant reports."
+    "Most listed routes do not publish decision-ready cash terms, hours, full selection rules or independent participant reports."
   ],
-  "checked_at": "2026-09-17T08:07:06.000Z",
-  "meaningfully_updated_at": "2026-09-17T08:07:06.000Z",
-  "freshness_note": "Status reflects the last substantive check shown in each row. Hedera, Cyfrin, Soneium, Elk, Nomis, Torium, Nexo, Oasis, Fiber, Bitget, Solana, PIVX, SideShift, Bybit, HeLa, Pendulum and Wager Predict were checked on 17 Sep 2026. Aster was last substantively checked on 14 Sep because its announcement did not render again. Recheck each route before sharing data, installing files, promoting trading products or committing recurring work."
+  "checked_at": "2026-09-18T08:27:00.000Z",
+  "meaningfully_updated_at": "2026-09-18T08:27:00.000Z",
+  "freshness_note": "Status reflects the last substantive check shown in each row. Cronos, Zerion, Hedera, Soneium, Nomis, Torium and Pendulum were checked on 18 Sep 2026; other rows retain their individual last-check dates. Aster was last substantively checked on 14 Sep because its announcement did not render again. Recheck every route before sharing data, installing files, promoting trading products or committing recurring work."
 }

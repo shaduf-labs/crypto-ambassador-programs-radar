@@ -66,6 +66,17 @@
       "summary": "Bybit and HeLa enter the application table with distinct geography and reward terms; Torium’s stated threshold becomes explicit, while Pendulum and Wager Predict remain separate status calls.",
       "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-17-bybit-hela-open-torium-thresholds",
       "entrypoint": "research/2026-09-17-bybit-hela-open-torium-thresholds/index.html"
+    },
+    {
+      "run_id": "run:0777474a-40c8-428c-a51d-40855227c770",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-18T08:00:00.000Z",
+      "completed_at": "2026-09-18T08:32:00.000Z",
+      "title": "Cronos and Zerion routes added; terms and data cost remain open",
+      "summary": "Cronos and Zerion both link formal application routes, but the useful distinction is their missing work, reward, form-state and data conditions.",
+      "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-18-cronos-zerion-routes-data-cost",
+      "entrypoint": "research/2026-09-18-cronos-zerion-routes-data-cost/index.html"
     }
   ]
 }
