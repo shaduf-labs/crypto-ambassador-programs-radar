@@ -260,6 +260,46 @@
       "accessed_at": "2026-09-18T08:27:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:injective-official-route-20260919",
+      "source_type": "official program page",
+      "source_url": "https://injective.com/ambassadors",
+      "title": "Injective Ambassador Program",
+      "claim": "Injective says creators, organizers, developers and educators can apply through a Zealy route and earn INJ rewards based on contribution impact.",
+      "accessed_at": "2026-09-19T08:14:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:arc-architects-overview-20260919",
+      "source_type": "official community program overview",
+      "source_url": "https://community.arc.io/public/resources/architects-overview",
+      "title": "Arc Architects overview",
+      "claim": "Arc calls Architects its ambassador program but says it is not application-based; it uses contribution points and later role opportunities.",
+      "accessed_at": "2026-09-19T08:14:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:arc-architects-terms-20260919",
+      "source_type": "official program terms",
+      "source_url": "https://community.arc.io/public/resources/architects-terms-and-conditions",
+      "title": "Arc Architects terms",
+      "claim": "Arc says account registration does not guarantee participation and Architects are independent participants, not employees or agents.",
+      "accessed_at": "2026-09-19T08:14:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bnb-martians-form-not-found-20260919",
+      "source_type": "issuer-linked historical application form",
+      "source_url": "https://forms.monday.com/forms/681a3d53e4b404a60a10786834b941ef?BNB+CHAIN+Martian+Application+2025=&Martian+Application+2025=&r=euc1",
+      "title": "BNB Chain Martian Application 2025",
+      "claim": "The form linked by BNB Chain’s 2025 Martians post returned 404 in the 19 Sep check.",
+      "accessed_at": "2026-09-19T08:14:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

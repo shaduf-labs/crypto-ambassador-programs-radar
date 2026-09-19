@@ -77,6 +77,17 @@
       "summary": "Cronos and Zerion both link formal application routes, but the useful distinction is their missing work, reward, form-state and data conditions.",
       "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-18-cronos-zerion-routes-data-cost",
       "entrypoint": "research/2026-09-18-cronos-zerion-routes-data-cost/index.html"
+    },
+    {
+      "run_id": "run:7fe85b84-4c21-463f-8c2e-64dfdb830490",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-19T08:00:00.000Z",
+      "completed_at": "2026-09-19T08:14:00.000Z",
+      "title": "Injective opens a route; Arc is not an application",
+      "summary": "Added Injective’s current issuer-linked Zealy route; separated Arc contribution and BNB’s expired old form from formal applications.",
+      "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-19-injective-open-arc-no-application",
+      "entrypoint": "research/2026-09-19-injective-open-arc-no-application/index.html"
     }
   ]
 }

@@ -42,6 +42,12 @@
       "changed_at": "2026-09-18T08:27:00.000Z",
       "summary": "Added Cronos and Zerion routes; made their rolling review, unspecified reward terms and possible identity-data escalation visible before application.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:injective-open-arc-no-application",
+      "changed_at": "2026-09-19T08:14:00.000Z",
+      "summary": "Added Injective’s issuer-linked Zealy route with its incomplete INJ reward terms; separated Arc’s contribution-based Architects program and BNB’s expired old Martians form from formal applications.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

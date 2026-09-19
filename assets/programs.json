@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-18",
-  "source_run_id": "run:0777474a-40c8-428c-a51d-40855227c770",
+  "snapshot_date": "2026-09-19",
+  "source_run_id": "run:7fe85b84-4c21-463f-8c2e-64dfdb830490",
   "items": [
     {
       "id": "hedera",
@@ -16,7 +16,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "19 Sep 2026"
     },
     {
       "id": "cyfrin",
@@ -46,7 +46,7 @@
       "safety": "The official page explicitly says Apply now and links a Typeform. The hosted page did not expose its questions or a submission-state message. Do not assume selection or payment.",
       "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "19 Sep 2026"
     },
     {
       "id": "aster",
@@ -91,7 +91,7 @@
       "safety": "This is a contributor role with referral-linked rewards, not a stated wage or stipend.",
       "official_url": "https://docs.nomis.cc/ambassador-program",
       "status_label": "Open, referral-led",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "19 Sep 2026"
     },
     {
       "id": "torium",
@@ -271,7 +271,7 @@
       "safety": "This is Discord enrollment, not a published job application. Reach Discord from the issuer page and do not infer cash pay or a guaranteed bounty.",
       "official_url": "https://www.pendulumchain.org/ambassador-program",
       "status_label": "Ongoing: Discord enrollment",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "19 Sep 2026"
     },
     {
       "id": "wager-predict",
@@ -317,6 +317,51 @@
       "official_url": "https://www.zerion.io/community",
       "status_label": "Confirmed open; rolling review",
       "last_checked": "18 Sep 2026"
+    },
+    {
+      "id": "injective",
+      "status": "confirmed_open",
+      "project": "Injective Ambassador Program",
+      "fit": "Global content creators, organizers, developers and educators who want to grow Injective.",
+      "work": "Write threads, produce videos, host meetups or build tutorials; begin on the issuer-linked Zealy route.",
+      "deadline": "No deadline published.",
+      "reward": "INJ rewards based on the impact of your work. Amount, impact measure, timing and payout terms are not stated.",
+      "selection": "Official page says Apply Now and links Injective Zealy. Review process and response time are not stated.",
+      "people": "No recent independent report found.",
+      "safety": "Open Zealy from Injective’s official page. The page also describes XP and campaigns; do not treat XP or potential rewards as a cash promise.",
+      "official_url": "https://injective.com/ambassadors",
+      "status_label": "Confirmed open; reward terms incomplete",
+      "last_checked": "19 Sep 2026"
+    },
+    {
+      "id": "arc-architects",
+      "status": "ongoing_contribution",
+      "project": "Arc Architects",
+      "fit": "People who want to build, answer questions, create content or host events in the Arc community. Some later roles have separate criteria.",
+      "work": "Contribute through Arc House and progress through a points-based system; specific roles can require application, invitation or selection.",
+      "deadline": "No application deadline. The issuer says this is not an application-based program.",
+      "reward": "Recognition, badges, events and possible role opportunities. Arc says points have no monetary value and do not guarantee tokens, an airdrop or financial rewards.",
+      "selection": "Registering for Arc House does not guarantee participation. Roles such as Meetup Organizer or Technical Speaker have separate requirements and selection.",
+      "people": "No recent independent report found.",
+      "safety": "This is participation, not a general job application. Read every role’s separate conditions before committing time, travel or personal data.",
+      "official_url": "https://community.arc.io/public/resources/architects-overview",
+      "status_label": "Ongoing: contribution-based, not an application",
+      "last_checked": "19 Sep 2026"
+    },
+    {
+      "id": "bnb-martians",
+      "status": "not_confirmed",
+      "project": "BNB Chain Martians Program",
+      "fit": "A current intake is not confirmed.",
+      "work": "The historical issuer post described developer, creator, community-leader and founder tracks, but that is not a current route.",
+      "deadline": "No current deadline published. The old application link returned 404 on 19 Sep 2026.",
+      "reward": "Historical materials described volunteer participation, recognition, swag, events and possible performance-based benefits. No current reward terms are confirmed.",
+      "selection": "The 2025 issuer announcement’s Monday form returned 404. The named current program path redirected to BNB Chain’s general homepage.",
+      "people": "No recent independent report found.",
+      "safety": "Do not use copied old form links or treat the still-visible 2025 announcement as a current opening. Wait for a replacement issuer route or closure notice.",
+      "official_url": "https://www.bnbchain.org/en/blog/the-new-bnb-chain-martians-program-is-live-and-open-for-applications",
+      "status_label": "Not confirmed: old official link expired",
+      "last_checked": "19 Sep 2026"
     }
   ]
 }
