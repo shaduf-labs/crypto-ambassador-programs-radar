@@ -48,6 +48,12 @@
       "changed_at": "2026-09-19T08:14:00.000Z",
       "summary": "Added Injective’s issuer-linked Zealy route with its incomplete INJ reward terms; separated Arc’s contribution-based Architects program and BNB’s expired old Martians form from formal applications.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:stellar-midnight-thrilld-routes",
+      "changed_at": "2026-09-20T08:20:00.000Z",
+      "summary": "Added Stellar Ambassadors, Midnight Nightforce and Thrilld Labs as issuer or issuer-partner application routes; made the Stellar trial, Midnight volunteer status and Thrilld’s unpublished KPI compensation terms visible.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

@@ -88,6 +88,17 @@
       "summary": "Added Injective’s current issuer-linked Zealy route; separated Arc contribution and BNB’s expired old form from formal applications.",
       "report_path": "/p/crypto-ambassador-programs-radar/research/2026-09-19-injective-open-arc-no-application",
       "entrypoint": "research/2026-09-19-injective-open-arc-no-application/index.html"
+    },
+    {
+      "run_id": "run:7154bf17-67bf-4d2a-9beb-bfb452047b49",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-20T08:00:00.000Z",
+      "completed_at": "2026-09-20T08:20:00.000Z",
+      "title": "Three routes added; none is a fixed pay offer",
+      "summary": "Stellar, Midnight and Thrilld have issuer or issuer-partner application calls, but their trial, volunteer and KPI-linked compensation terms require different decisions.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-20-stellar-midnight-thrilld-routes",
+      "entrypoint": "reports/2026-09-20-stellar-midnight-thrilld-routes/index.html"
     }
   ]
 }

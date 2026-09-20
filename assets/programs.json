@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-19",
-  "source_run_id": "run:7fe85b84-4c21-463f-8c2e-64dfdb830490",
+  "snapshot_date": "2026-09-20",
+  "source_run_id": "run:7154bf17-67bf-4d2a-9beb-bfb452047b49",
   "items": [
     {
       "id": "hedera",
@@ -362,6 +362,51 @@
       "official_url": "https://www.bnbchain.org/en/blog/the-new-bnb-chain-martians-program-is-live-and-open-for-applications",
       "status_label": "Not confirmed: old official link expired",
       "last_checked": "19 Sep 2026"
+    },
+    {
+      "id": "stellar-ambassadors",
+      "status": "confirmed_open",
+      "project": "Stellar Ambassadors",
+      "fit": "Builders, educators, organizers and contributors seeking a local Stellar chapter. Official docs say chapters are country-focused; Rise In currently presents routes in Türkiye, India, Indonesia, Vietnam and the Philippines.",
+      "work": "Join a local chapter to organize activations, developer engagement, education, referrals or community building. Rise In presents Builder, Catalyst and Voice tracks.",
+      "deadline": "No deadline published. The page says applications are open and selection is ongoing.",
+      "reward": "Recognition, direct access and possible ecosystem pathways. Rise In names possible funding paths, creator rewards and top-performer event sponsorship; no individual cash amount or award rule is stated.",
+      "selection": "Official Stellar docs direct people to a regional chapter and intake form. Rise In says selection is ongoing, proof of work is required and a trial applies.",
+      "people": "No recent independent report found.",
+      "safety": "Start at Stellar’s official Ambassador docs or the Rise In partner page. The Rise In-linked Google Form returned an authorization response in this check, so read its live fields and terms before sharing data.",
+      "official_url": "https://www.risein.com/stellar-ambassadors",
+      "status_label": "Confirmed open; country-focused chapters",
+      "last_checked": "20 Sep 2026"
+    },
+    {
+      "id": "midnight-nightforce",
+      "status": "confirmed_open",
+      "project": "Midnight Nightforce",
+      "fit": "Long-term contributors who can support a privacy-focused protocol community. The issuer says the program is for contributors rather than reward seekers.",
+      "work": "Support ecosystem outreach and community work; people with strong contributions can advance to leadership roles that coordinate events, technical knowledge and community channels.",
+      "deadline": "No deadline published. The official page says Apply Now and describes a path operating through 2026.",
+      "reward": "Volunteer program. The issuer says it does not offer immediate financial rewards; consistent contributors may progress in rank.",
+      "selection": "Official Apply Now route. Review time, hours, trial and acceptance criteria are not stated.",
+      "people": "No recent independent report found.",
+      "safety": "Use the Apply Now route from Midnight’s official Nightforce page. Do not infer cash, tokens or an airdrop from a rank or community title.",
+      "official_url": "https://midnight.network/nightforce",
+      "status_label": "Confirmed open; volunteer program",
+      "last_checked": "20 Sep 2026"
+    },
+    {
+      "id": "thrilld-ambassadorship",
+      "status": "confirmed_open",
+      "project": "Thrilld Labs Ambassadorship",
+      "fit": "Web3 professionals worldwide with existing industry connections who can help with outreach, partnerships, content or regional work.",
+      "work": "Seek partnership opportunities, act as a regional representative, make content, join internal calls and represent Thrilld at partner events.",
+      "deadline": "No deadline published. Thrilld’s 27 Mar 2026 page invites applications.",
+      "reward": "Event tickets, networking, badges, paid-feature access, recognition, mentorship and early access. Compensation is tied to participation and KPI-tracked achievements; no amount or rule is stated.",
+      "selection": "Issuer-linked application form; the issuer says it will read applications and contact people whose mission and values align. Review time and criteria are not stated.",
+      "people": "No recent independent report found.",
+      "safety": "Start at Thrilld’s official page. The linked hosted form timed out in this check, so inspect its live fields and do not assume selection or compensation.",
+      "official_url": "https://www.thrilldlabs.io/blog-posts/thrilld-labs-ambassadorship2026",
+      "status_label": "Confirmed open; KPI terms unstated",
+      "last_checked": "20 Sep 2026"
     }
   ]
 }

@@ -300,6 +300,46 @@
       "accessed_at": "2026-09-19T08:14:00.000Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stellar-ambassadors-route-20260920",
+      "source_type": "issuer-partner program page",
+      "source_url": "https://www.risein.com/stellar-ambassadors",
+      "title": "Stellar Ambassadors",
+      "claim": "Rise In’s Stellar partner page visibly says applications are open and selection is ongoing; it names five countries, three tracks, proof of work and a trial.",
+      "accessed_at": "2026-09-20T08:20:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:midnight-nightforce-route-20260920",
+      "source_type": "official program page",
+      "source_url": "https://midnight.network/nightforce",
+      "title": "Midnight Nightforce",
+      "claim": "Midnight visibly links Apply Now and describes Nightforce as a volunteer program that is not for immediate financial rewards.",
+      "accessed_at": "2026-09-20T08:20:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:thrilld-ambassadorship-route-20260920",
+      "source_type": "official program page",
+      "source_url": "https://www.thrilldlabs.io/blog-posts/thrilld-labs-ambassadorship2026",
+      "title": "Thrilld Labs Ambassadorship",
+      "claim": "Thrilld invites applications from global Web3 professionals and says compensation depends on participation and KPI-tracked achievements without publishing an amount or KPI.",
+      "accessed_at": "2026-09-20T08:20:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stellar-ambassador-docs-20260920",
+      "source_type": "official program documentation",
+      "source_url": "https://stellar.gitbook.io/ambassador-program",
+      "title": "Stellar Ambassador Program",
+      "claim": "Stellar’s source-of-truth documentation says SAP 2.0 uses country-focused chapters and directs people who want to join a regional chapter to an ambassador intake form.",
+      "accessed_at": "2026-09-20T08:20:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }
