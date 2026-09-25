@@ -54,6 +54,36 @@
       "changed_at": "2026-09-20T08:20:00.000Z",
       "summary": "Added Stellar Ambassadors, Midnight Nightforce and Thrilld Labs as issuer or issuer-partner application routes; made the Stellar trial, Midnight volunteer status and Thrilld’s unpublished KPI compensation terms visible.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:mica-autheo-conditional-terms",
+      "changed_at": "2026-09-21T08:39:00.000Z",
+      "summary": "Added the MiCA Crypto Alliance and Autheo application routes. MiCA’s €1,000 applies only to each approved, delivered event and its proposed €3,000 event budget is not personal compensation; Autheo publishes five seats and a monthly content commitment but no reward terms.",
+      "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:pivx-form-funding-conflict",
+      "changed_at": "2026-09-22T08:54:00.000Z",
+      "summary": "Moved PIVX from referral-only to not confirmed. Its official page still links a referral form, but a PIVX staff administrator says the Q3 programme was not approved and has no budget or allocated funds for payments. Held out Party Knights pending governance approval and a live join route.",
+      "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:hpp-confirmation-not-published",
+      "changed_at": "2026-09-23T08:03:57.000Z",
+      "summary": "Added HPP Party Knights Cohort 2 as a held-out lead. Its timeline named 23 Sep for confirmation, but the official pages checked did not show a formal proposal, approval result or public join route. Refreshed Hedera, Cyfrin, Soneium, Injective and MetaMask route checks.",
+      "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:sogo-kyc-referral-route",
+      "changed_at": "2026-09-24T08:58:00.000Z",
+      "summary": "Added Sogo’s open ambassador route as referral commission rather than a wage. Its issuer page requires a good-standing account and Tier 2 KYC via BVN or NIN before application; referred users also need Tier 2 KYC before qualifying trades create commission. Rechecked Bitget’s 30 Sep deadline.",
+      "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:rabbithole-held-out-route-rechecks",
+      "changed_at": "2026-09-25T08:06:15.000Z",
+      "summary": "Rechecked eight issuer routes; their displayed routes remain visible and Bitget still names 30 Sep as its close. Added RabbitHole only as a held-out lead because the issuer documentation linked from community posts was unavailable to inspect, so no application or bounty claim was verified.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

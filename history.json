@@ -99,6 +99,61 @@
       "summary": "Stellar, Midnight and Thrilld have issuer or issuer-partner application calls, but their trial, volunteer and KPI-linked compensation terms require different decisions.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-20-stellar-midnight-thrilld-routes",
       "entrypoint": "reports/2026-09-20-stellar-midnight-thrilld-routes/index.html"
+    },
+    {
+      "run_id": "run:c44c2baa-4db4-4f7c-b5df-39e6e2aed297",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-21T08:00:00.000Z",
+      "completed_at": "2026-09-21T08:39:00.000Z",
+      "title": "Two routes added; one states €1,000 only after approved event delivery",
+      "summary": "MiCA adds a local professional event route with conditional €1,000 compensation and a separate proposed budget; Autheo adds five builder seats with a stated monthly workload but no published reward.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-21-mica-autheo-terms",
+      "entrypoint": "reports/2026-09-21-mica-autheo-terms/index.html"
+    },
+    {
+      "run_id": "run:828ce572-e643-4bd3-a9ce-fe69e1eee4eb",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-22T08:00:00.000Z",
+      "completed_at": "2026-09-22T08:54:00.000Z",
+      "title": "PIVX form remains; its current payment budget does not",
+      "summary": "PIVX’s referral form remains visible, but a staff administrator says the Q3 programme was not approved and has no budget or allocated payment funds; its route now moves to not confirmed.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-22-pivx-form-funding-conflict",
+      "entrypoint": "reports/2026-09-22-pivx-form-funding-conflict/index.html"
+    },
+    {
+      "run_id": "run:d4c33f3e-6850-4036-be20-e33949ec6ad2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-23T08:00:00.000Z",
+      "completed_at": "2026-09-23T08:12:29.000Z",
+      "title": "HPP confirmation date, no public join route",
+      "summary": "Party Knights Cohort 2 remains held out because no formal approval result or public join route was displayed on its stated confirmation date.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-23-hpp-confirmation-not-published",
+      "entrypoint": "reports/2026-09-23-hpp-confirmation-not-published/index.html"
+    },
+    {
+      "run_id": "run:a655f05f-f21e-4f82-8866-8bcf9a416cb9",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-24T08:00:00.000Z",
+      "completed_at": "2026-09-24T09:05:00.000Z",
+      "title": "Sogo’s open route requires Tier 2 KYC before application",
+      "summary": "Added Sogo as a referral-commission route with the KYC, qualifying-transaction and vesting conditions visible before application.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-24-sogo-kyc-referral-route",
+      "entrypoint": "reports/2026-09-24-sogo-kyc-referral-route/index.html"
+    },
+    {
+      "run_id": "run:29743e89-ccca-470e-b34e-57a2df9c6321",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-25T08:00:00.000Z",
+      "completed_at": "2026-09-25T08:20:00.000Z",
+      "title": "21 routes rechecked; RabbitHole claim stays out",
+      "summary": "Eight issuer routes still display their prior action paths and terms. RabbitHole is held out because its reported issuer documentation could not be inspected.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-25-route-rechecks-rabbithole-held-out",
+      "entrypoint": "reports/2026-09-25-route-rechecks-rabbithole-held-out/index.html"
     }
   ]
 }

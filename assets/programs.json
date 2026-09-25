@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-20",
-  "source_run_id": "run:7154bf17-67bf-4d2a-9beb-bfb452047b49",
+  "snapshot_date": "2026-09-25",
+  "source_run_id": "run:29743e89-ccca-470e-b34e-57a2df9c6321",
   "items": [
     {
       "id": "hedera",
@@ -16,7 +16,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "19 Sep 2026"
+      "last_checked": "25 Sep 2026"
     },
     {
       "id": "cyfrin",
@@ -31,7 +31,7 @@
       "safety": "Use the Typeform only from Cyfrin’s official page. SSCD+ certification is required within six weeks after onboarding to continue.",
       "official_url": "https://ambassadors.cyfrin.io/",
       "status_label": "Confirmed open",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "25 Sep 2026"
     },
     {
       "id": "soneium",
@@ -46,7 +46,7 @@
       "safety": "The official page explicitly says Apply now and links a Typeform. The hosted page did not expose its questions or a submission-state message. Do not assume selection or payment.",
       "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "19 Sep 2026"
+      "last_checked": "25 Sep 2026"
     },
     {
       "id": "aster",
@@ -76,7 +76,7 @@
       "safety": "The official page links a hosted application. Do not assume post-trial benefits are paid compensation.",
       "official_url": "https://elk.finance/become-an-ambassador/",
       "status_label": "Confirmed open",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "25 Sep 2026"
     },
     {
       "id": "nomis",
@@ -91,7 +91,22 @@
       "safety": "This is a contributor role with referral-linked rewards, not a stated wage or stipend.",
       "official_url": "https://docs.nomis.cc/ambassador-program",
       "status_label": "Open, referral-led",
-      "last_checked": "19 Sep 2026"
+      "last_checked": "25 Sep 2026"
+    },
+    {
+      "id": "sogo-ambassador",
+      "status": "confirmed_open",
+      "project": "Sogo Ambassador Program",
+      "fit": "Sogo users with Tier 2 identity verification via BVN or NIN, a good-standing account, and a genuine audience, community or professional network.",
+      "work": "Share a referral link or code with people who may sell crypto, buy RMB or sell gift cards on Sogo.",
+      "deadline": "No deadline published. The issuer says applications are open.",
+      "reward": "At the starting Silver tier: 20% of Sogo’s crypto-sell fee, ₦0.04/CNY for RMB buys, and ₦3 per $1 of a referred user’s actual gift-card payout. Rates may change; commissions vest 7 days after a qualifying transaction.",
+      "selection": "Sogo says applicants need Tier 2 KYC, a good-standing account and a genuine network. It says review usually takes 1–3 business days.",
+      "people": "No recent independent report found.",
+      "safety": "Creating a Sogo account and Tier 2 KYC via BVN or NIN are required before applying. Referred users also need Tier 2 KYC before a trade creates commission. This is a referral-commission route, not a salary.",
+      "official_url": "https://sogo.africa/ambassadors",
+      "status_label": "Confirmed open; referral commission",
+      "last_checked": "25 Sep 2026"
     },
     {
       "id": "torium",
@@ -166,7 +181,7 @@
       "safety": "This is a trading-community growth campaign, not a general contributor role. Verify any Telegram contact is an official Bitget account.",
       "official_url": "https://www.bitget.com/support/articles/12560603885686",
       "status_label": "Open: trading-builder campaign",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "25 Sep 2026"
     },
     {
       "id": "metamask",
@@ -200,18 +215,18 @@
     },
     {
       "id": "pivx",
-      "status": "referral_only",
+      "status": "not_confirmed",
       "project": "PIVX",
-      "fit": "Contributors with content, outreach, events or community skills who have a referral.",
-      "work": "Advocacy, content, outreach, events, mentoring and local or global initiatives.",
-      "deadline": "No deadline published.",
-      "reward": "Not stated on the inspected program page.",
-      "selection": "The official page says positions are referrals only and asks applicants to name their referrer.",
-      "people": "A May 2026 forum reply from a program representative said there were 13 funded contributors and three mentors unpaid. It is a program response, not pay proof.",
-      "safety": "This is not general open access. Confirm the referrer rule before submitting.",
+      "fit": "A referrer may still be able to share the official route, but current new intake is not confirmed.",
+      "work": "The page describes advocacy, content, outreach, events, mentoring and local or global initiatives.",
+      "deadline": "No deadline published. The programme’s current onboarding status is not confirmed.",
+      "reward": "A PIVX staff administrator wrote on 21 Sep that the Q3 proposal was not approved and there was no budget or allocated funds to make payments. Do not treat the referral form as a paid role.",
+      "selection": "The official page still says positions are referral-only and links a form. Its Q3 programme thread said scaling and onboarding were on pause, and the latest staff update says there is no payment budget. Current intake is not confirmed.",
+      "people": "No recent independent report found. A PIVX staff administrator wrote on 21 Sep that the Q3 proposal was not approved and no budget or allocated funds were available for payments. This is a programme statement, not payout proof.",
+      "safety": "Do not submit only because the form is visible. Ask PIVX to confirm current onboarding and payment or recognition terms in writing before sharing data or committing work.",
       "official_url": "https://pivx.org/ambassador-program",
-      "status_label": "Referral-only",
-      "last_checked": "17 Sep 2026"
+      "status_label": "Not confirmed: referral form remains; no current payment budget",
+      "last_checked": "22 Sep 2026"
     },
     {
       "id": "sideshift",
@@ -331,7 +346,7 @@
       "safety": "Open Zealy from Injective’s official page. The page also describes XP and campaigns; do not treat XP or potential rewards as a cash promise.",
       "official_url": "https://injective.com/ambassadors",
       "status_label": "Confirmed open; reward terms incomplete",
-      "last_checked": "19 Sep 2026"
+      "last_checked": "25 Sep 2026"
     },
     {
       "id": "arc-architects",
@@ -407,6 +422,66 @@
       "official_url": "https://www.thrilldlabs.io/blog-posts/thrilld-labs-ambassadorship2026",
       "status_label": "Confirmed open; KPI terms unstated",
       "last_checked": "20 Sep 2026"
+    },
+    {
+      "id": "mica-crypto-alliance",
+      "status": "confirmed_open",
+      "project": "MiCA Crypto Alliance Ambassador Programme",
+      "fit": "Professionals active in a local digital-asset ecosystem who can convene law firms, projects and market participants in their city.",
+      "work": "Host local industry nights, represent the Alliance at relevant events, and propose and deliver local initiatives.",
+      "deadline": "No deadline published. The issuer says applications are open.",
+      "reward": "€1,000 compensation for each approved and delivered event. An event budget of up to €3,000 may be proposed; this is not personal pay.",
+      "selection": "The issuer says applicants submit a LinkedIn profile, short motivation letter and initial event proposal; the Alliance reviews the application and each initiative separately.",
+      "people": "No recent independent report found.",
+      "safety": "Use the official page. Do not treat the proposed €3,000 event budget as your compensation or front event costs without written approval. Payment is stated only for an approved, delivered event.",
+      "official_url": "https://www.micacryptoalliance.com/mca-ambassadors-program",
+      "status_label": "Confirmed open; €1,000 after approved event",
+      "last_checked": "21 Sep 2026"
+    },
+    {
+      "id": "autheo",
+      "status": "confirmed_open",
+      "project": "Autheo Ambassador Program",
+      "fit": "Early-career blockchain builders who can show shipped work and teach in English; five regional seats cover North America, Latin America, Africa, Europe/MENA and Asia-Pacific.",
+      "work": "Build publicly, make technical content, lead a local developer community, and at entry level produce one livestream and four content pieces each month.",
+      "deadline": "No deadline published. The official page shows five regional seats.",
+      "reward": "No cash, token or benefit amount is stated on the current application page.",
+      "selection": "The page displays an application requesting development experience, technical stack, public profiles and work examples. It says shortlisted applicants hear back within two weeks.",
+      "people": "No recent independent report found.",
+      "safety": "The application asks for contact details and public-profile links. The page promotes THEO elsewhere, but it does not say a token purchase or stake is needed to apply; do not buy or stake a token to apply.",
+      "official_url": "https://www.autheo.com/creators",
+      "status_label": "Confirmed open; five regional seats",
+      "last_checked": "21 Sep 2026"
+    },
+    {
+      "id": "hpp-party-knights-cohort2",
+      "status": "not_confirmed",
+      "project": "HPP Party Knights Cohort 2",
+      "fit": "Contributors who can make public X content and community activity. The proposal says it would remove follower and community restrictions.",
+      "work": "Proposed product storytelling, X-focused community activation and ecosystem expansion.",
+      "deadline": "HPP’s timeline named 23 Sep 2026 for confirmation. The official pages checked that date did not show a formal proposal, approval result or join route.",
+      "reward": "The proposal describes a fixed 35K HPP monthly pool with tier multipliers. No rewards are distributed until formal approval; tracked activity is void if it fails. Individual value would vary with qualifying participation.",
+      "selection": "The proposal says participation would be uncapped. Operational join instructions are not published.",
+      "people": "No recent independent report found.",
+      "safety": "Wait for a formal approved issuer route. Do not start work based on tracking claims or a direct message.",
+      "official_url": "https://forum.hpp.io/t/governance-topic-party-knights-ambassador-program-cohort-2/36",
+      "status_label": "Not confirmed: confirmation or join route not published",
+      "last_checked": "23 Sep 2026"
+    },
+    {
+      "id": "rabbithole-ecosystem-ambassador",
+      "status": "not_confirmed",
+      "project": "RabbitHole Ecosystem Ambassador Program",
+      "fit": "Not confirmed. A community discovery post says the programme targets people with ecosystem connections; the issuer documentation could not be inspected.",
+      "work": "Not confirmed. Community posts describe introductions to protocols, foundations, wallets or infrastructure teams; this was not verified from issuer terms.",
+      "deadline": "No issuer deadline inspected.",
+      "reward": "Not confirmed. Community posts make bounty claims, but the issuer document was unavailable. Do not treat any amount as an offer.",
+      "selection": "Not confirmed. No issuer application route or review process was inspected.",
+      "people": "A community discovery post on 24 Sep 2026 linked an issuer-documentation URL. It is a lead, not independent proof of availability or payment.",
+      "safety": "The issuer-documentation endpoint was unavailable in the 25 Sep check. Do not submit contact, wallet or commercial-network information from a copied post; wait for inspectable issuer terms.",
+      "official_url": "https://docs.rabbithole.gg/campaigns/ecosystem-ambassador-program",
+      "status_label": "Not confirmed: issuer terms unavailable",
+      "last_checked": "25 Sep 2026"
     }
   ]
 }

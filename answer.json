@@ -1,25 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "18 listed ambassador routes have issuer-linked ways to apply and no published passed deadline. Stellar Ambassadors uses country-focused chapters. Official docs point people to an intake form; Rise In’s current partner route covers five named countries and says selection is ongoing, proof of work is required and a trial applies. It does not state a cash award. Midnight Nightforce has an official Apply Now route but is volunteer-based and does not promise immediate financial rewards. Thrilld invites global Web3 professionals for partnership, content and regional work, while leaving KPI compensation terms unpublished. Injective remains an impact-based INJ route with no individual amount, workload or selection terms. Arc is contribution-based rather than a general application, BNB’s old Martians form remains unavailable, Pendulum is Discord enrollment, Wager Predict is unconfirmed, Bitget’s trading-builder campaign ends 30 Sep, MetaMask is not confirmed, Solana and SideShift are closed, and PIVX is referral-only.",
+  "current_answer": "21 routes still meet the confirmed-open test after issuer-page rechecks. A RabbitHole Ecosystem Ambassador lead was held out: community posts link to issuer documentation, but that page was unavailable to inspect, so its application route and bounty terms are not confirmed.",
   "catalogue_card": {
-    "question": "Three application routes, three very different bargains.",
-    "text": "Stellar’s Rise In route asks for proof of work and a trial, Midnight calls its ambassador route volunteer work, and Thrilld leaves KPI compensation terms unpublished. Each has an issuer or issuer-partner route; none is a fixed pay offer."
+    "question": "Can an ambassador bounty claim enter the Radar without terms?",
+    "text": "No. Community posts link to a RabbitHole issuer-docs page, but it was unavailable in this check. The lead is held out; 21 issuer-linked routes still meet the confirmed-open test."
   },
   "summary": [
-    "Stellar’s official Ambassador docs describe country-focused chapters and an intake route. Rise In’s current partner page presents routes in Türkiye, India, Indonesia, Vietnam and the Philippines; it says selection is ongoing, proof of work is required and a trial applies. The pages name potential pathways and rewards but no individual cash amount or allocation rule.",
-    "Midnight Nightforce visibly links an official Apply Now route, but calls the program a volunteer foundation and says immediate financial rewards are not its purpose.",
-    "Thrilld’s official page invites global Web3 professionals to apply for outreach, partnership, content and event work. It says ambassadors decide their monthly time and compensation is tied to KPI-tracked achievements, but no KPI or amount is published.",
-    "Hosted forms were not inspected successfully in this check. An issuer or issuer-partner link does not prove live submission acceptance, selection or payment."
+    "Rechecked issuer pages for Hedera, Cyfrin, Soneium, Elk, Nomis, Injective, Sogo and Bitget. Their displayed routes and previously recorded terms remain visible; Bitget still names 30 Sep 2026 as its recruitment close.",
+    "Added RabbitHole only as a held-out lead. Community posts point to issuer documentation, but the page was unavailable to inspect, so no application, eligibility or bounty claim was verified.",
+    "A popular post or an active community category is not a current route. The useful question before applying is whether you can inspect the issuer action and terms."
   ],
   "uncertainty": [
-    "A visible issuer or issuer-partner application route does not prove that a hosted form accepts submissions, that a person will be selected, or that payment will occur.",
-    "Stellar does not publish an individual cash award, funding-pathway eligibility, prize allocation, hours or trial details.",
-    "Midnight does not publish Nightforce hours, review time, acceptance criteria or a pay, token or airdrop promise.",
-    "Thrilld does not publish its KPI, compensation amount, unit, timing, selection criteria or review time.",
-    "Most listed routes still lack decision-ready cash terms, hours, full selection rules or independent participant reports."
+    "RabbitHole community posts are discovery leads, not proof of a current application or payment terms.",
+    "A visible issuer route does not prove selection, payment or a response.",
+    "Most confirmed-open routes still lack decision-ready cash terms, hours, full selection rules or independent participant reports."
   ],
-  "checked_at": "2026-09-20T08:20:00.000Z",
-  "meaningfully_updated_at": "2026-09-20T08:20:00.000Z",
-  "freshness_note": "Status reflects the last substantive check shown in each row. Stellar Ambassadors, Midnight Nightforce and Thrilld were checked on 20 Sep 2026; other rows retain their individual last-check dates. Recheck every route before sharing data, installing files, promoting trading products or committing recurring work."
+  "checked_at": "2026-09-25T08:06:15.000Z",
+  "meaningfully_updated_at": "2026-09-25T08:06:15.000Z",
+  "freshness_note": "Status reflects the last substantive check shown in each row. Eight issuer routes were rechecked on 25 Sep 2026. RabbitHole was kept out because its issuer-documentation endpoint could not be inspected. Re-open the issuer page before sharing identity data, wallet details, a CV or commercial contacts."
 }

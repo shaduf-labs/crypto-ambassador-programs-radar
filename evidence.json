@@ -340,6 +340,237 @@
       "accessed_at": "2026-09-20T08:20:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:mica-ambassador-program-20260921",
+      "source_type": "official ambassador program page",
+      "source_url": "https://www.micacryptoalliance.com/mca-ambassadors-program",
+      "title": "MiCA Crypto Alliance Ambassador Programme",
+      "claim": "The official page says applicants submit a LinkedIn profile, motivation letter and event proposal; it states €1,000 compensation for each approved and delivered event and a separately proposed budget up to €3,000.",
+      "accessed_at": "2026-09-21T08:39:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:mica-ambassador-announcement-20260921",
+      "source_type": "official program announcement",
+      "source_url": "https://www.micacryptoalliance.com/news/introducing-the-mica-crypto-alliance-ambassador-programme",
+      "title": "Introducing the MiCA Crypto Alliance Ambassador Programme",
+      "claim": "The Alliance says applications are open for local digital-asset professionals and repeats the approved-event compensation condition.",
+      "accessed_at": "2026-09-21T08:39:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:autheo-ambassador-program-20260921",
+      "source_type": "official ambassador application page",
+      "source_url": "https://www.autheo.com/creators",
+      "title": "Autheo Ambassador Program",
+      "claim": "The page shows five regional seats, an application with public work evidence, a part-time content commitment and a two-week shortlist response, while not publishing compensation terms.",
+      "accessed_at": "2026-09-21T08:39:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-recheck-20260921",
+      "source_type": "official program announcement",
+      "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
+      "title": "Soneium Ambassador Program",
+      "claim": "Soneium still explicitly says applications are open and links its Typeform; the hosted form does not expose fields or a submission-state message in this check.",
+      "accessed_at": "2026-09-21T08:39:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:pivx-referral-route-20260922",
+      "source_type": "official program page",
+      "source_url": "https://pivx.org/ambassador-program",
+      "title": "PIVX Ambassador Program",
+      "claim": "PIVX’s page still says positions are referral-only and links an application route.",
+      "accessed_at": "2026-09-22T08:54:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:pivx-q3-funding-20260922",
+      "source_type": "official community forum programme update",
+      "source_url": "https://forum.pivx.org/threads/ambprog-q3-26.3005/",
+      "title": "PIVX Ambassador Program Q3 2026 update",
+      "claim": "A PIVX staff administrator says the Q3 proposal was not approved and the programme has no budget or allocated funds to make payments.",
+      "accessed_at": "2026-09-22T08:54:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hpp-cohort2-terms-20260922",
+      "source_type": "official governance forum topic",
+      "source_url": "https://forum.hpp.io/t/governance-topic-party-knights-ambassador-program-cohort-2/36",
+      "title": "Party Knights Ambassador Program: Cohort 2",
+      "claim": "The proposal says no rewards are distributed until formal approval and tracking is void if the proposal does not pass.",
+      "accessed_at": "2026-09-22T08:54:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hpp-cohort2-recheck-20260923",
+      "source_type": "official governance forum topic",
+      "source_url": "https://forum.hpp.io/t/governance-topic-party-knights-ambassador-program-cohort-2/36",
+      "title": "HPP Party Knights Cohort 2 governance topic",
+      "claim": "The stated confirmation date arrived without a displayed formal proposal, approval result or public join route; the proposal keeps rewards conditional on formal approval.",
+      "accessed_at": "2026-09-23T08:03:57.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:metamask-category-recheck-20260923",
+      "source_type": "official community forum category",
+      "source_url": "https://builder.metamask.io/c/metamask-ambassadors/17",
+      "title": "MetaMask Ambassadors category",
+      "claim": "An active official ambassador category and programme materials do not display a current public application cycle.",
+      "accessed_at": "2026-09-23T08:03:57.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-recheck-20260923",
+      "source_type": "official program page",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "title": "Hedera Ambassador Program",
+      "claim": "Hedera still visibly links an Apply Now route and publishes role and non-cash recognition information.",
+      "accessed_at": "2026-09-23T08:03:57.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cyfrin-recheck-20260923",
+      "source_type": "official program page",
+      "source_url": "https://ambassadors.cyfrin.io/",
+      "title": "Cyfrin Ambassadors",
+      "claim": "Cyfrin still links its application, describes 5–7 business-day review and distinguishes non-cash benefits from pay.",
+      "accessed_at": "2026-09-23T08:03:57.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-recheck-20260923",
+      "source_type": "official announcement",
+      "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
+      "title": "Soneium Ambassador Program",
+      "claim": "Soneium still explicitly says Apply now and links its hosted form while leaving form-level acceptance and reward terms unresolved.",
+      "accessed_at": "2026-09-23T08:03:57.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:injective-recheck-20260923",
+      "source_type": "official program page",
+      "source_url": "https://injective.com/ambassadors",
+      "title": "Injective Ambassador Program",
+      "claim": "Injective still says Apply Now and links its Zealy route for content creators, organizers, developers and educators.",
+      "accessed_at": "2026-09-23T08:03:57.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:sogo-ambassador-route-20260924",
+      "source_type": "issuer ambassador page",
+      "source_url": "https://sogo.africa/ambassadors",
+      "title": "Sogo Ambassador Program",
+      "claim": "Sogo’s page says applications are open and specifies the account, Tier 2 KYC, referral, commission and 7-day vesting conditions.",
+      "accessed_at": "2026-09-24T08:58:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bitget-trading-builder-deadline-20260924",
+      "source_type": "official support article",
+      "source_url": "https://www.bitget.com/support/articles/12560603885686",
+      "title": "Bitget Trading Builder recruitment",
+      "claim": "Bitget still states a 12 Jun to 30 Sep 2026 recruitment period and its published eligibility and shared-pool terms.",
+      "accessed_at": "2026-09-24T08:58:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-route-recheck-20260925",
+      "source_type": "issuer page or issuer-hosted documentation",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "claim": "Hedera still visibly links Apply Now and publishes developer and community ambassador responsibilities.",
+      "accessed_at": "2026-09-25T08:06:15.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cyfrin-route-recheck-20260925",
+      "source_type": "issuer page or issuer-hosted documentation",
+      "source_url": "https://ambassadors.cyfrin.io/",
+      "claim": "Cyfrin still links an application and says it reviews applications in 5–7 business days.",
+      "accessed_at": "2026-09-25T08:06:15.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-route-recheck-20260925",
+      "source_type": "issuer page or issuer-hosted documentation",
+      "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
+      "claim": "Soneium still says applications are open and links its Typeform.",
+      "accessed_at": "2026-09-25T08:06:15.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:elk-route-recheck-20260925",
+      "source_type": "issuer page or issuer-hosted documentation",
+      "source_url": "https://elk.finance/become-an-ambassador/",
+      "claim": "Elk still links Apply now and states that an apprentice is a volunteer during the trial.",
+      "accessed_at": "2026-09-25T08:06:15.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:nomis-route-recheck-20260925",
+      "source_type": "issuer page or issuer-hosted documentation",
+      "source_url": "https://docs.nomis.cc/ambassador-program",
+      "claim": "Nomis still directs applicants to its sign-up form and states referral-linked rewards.",
+      "accessed_at": "2026-09-25T08:06:15.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bitget-route-recheck-20260925",
+      "source_type": "issuer page or issuer-hosted documentation",
+      "source_url": "https://www.bitget.com/support/articles/12560603885686",
+      "claim": "Bitget still states a recruitment period ending 30 Sep 2026, its entry thresholds and shared-pool terms.",
+      "accessed_at": "2026-09-25T08:06:15.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:injective-route-recheck-20260925",
+      "source_type": "issuer page or issuer-hosted documentation",
+      "source_url": "https://injective.com/ambassadors",
+      "claim": "Injective still says Apply Now and links a Zealy route for creators, organizers, developers and educators.",
+      "accessed_at": "2026-09-25T08:06:15.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:sogo-route-recheck-20260925",
+      "source_type": "issuer page or issuer-hosted documentation",
+      "source_url": "https://sogo.africa/ambassadors",
+      "claim": "Sogo still says applications are open and publishes account, Tier 2 KYC, referral and commission conditions.",
+      "accessed_at": "2026-09-25T08:06:15.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:rabbithole-issuer-docs-unavailable-20260925",
+      "source_type": "issuer page or issuer-hosted documentation",
+      "source_url": "https://docs.rabbithole.gg/campaigns/ecosystem-ambassador-program",
+      "claim": "The reported issuer documentation endpoint was unavailable to inspect; its route and terms remain unconfirmed.",
+      "accessed_at": "2026-09-25T08:06:15.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
     }
   ]
 }
