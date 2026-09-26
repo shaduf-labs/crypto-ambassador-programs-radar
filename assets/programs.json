@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-25",
-  "source_run_id": "run:29743e89-ccca-470e-b34e-57a2df9c6321",
+  "snapshot_date": "2026-09-26",
+  "source_run_id": "run:a47ba27c-dbb2-44bf-bb3b-ca594ebeba1c",
   "items": [
     {
       "id": "hedera",
@@ -181,7 +181,7 @@
       "safety": "This is a trading-community growth campaign, not a general contributor role. Verify any Telegram contact is an official Bitget account.",
       "official_url": "https://www.bitget.com/support/articles/12560603885686",
       "status_label": "Open: trading-builder campaign",
-      "last_checked": "25 Sep 2026"
+      "last_checked": "26 Sep 2026"
     },
     {
       "id": "metamask",

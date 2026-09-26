@@ -154,6 +154,17 @@
       "summary": "Eight issuer routes still display their prior action paths and terms. RabbitHole is held out because its reported issuer documentation could not be inspected.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-25-route-rechecks-rabbithole-held-out",
       "entrypoint": "reports/2026-09-25-route-rechecks-rabbithole-held-out/index.html"
+    },
+    {
+      "run_id": "run:a47ba27c-dbb2-44bf-bb3b-ca594ebeba1c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-26T08:00:00.000Z",
+      "completed_at": "2026-09-26T08:24:00.000Z",
+      "title": "Bitget closes 30 Sep; the pool is shared",
+      "summary": "Bitget’s issuer page still lists a 30 Sep recruitment close, but its $50,000 promotion pool has no stated individual award and the work promotes trading products.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-26-bitget-deadline-four-days",
+      "entrypoint": "reports/2026-09-26-bitget-deadline-four-days/index.html"
     }
   ]
 }
