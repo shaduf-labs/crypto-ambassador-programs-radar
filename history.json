@@ -165,6 +165,28 @@
       "summary": "Bitget’s issuer page still lists a 30 Sep recruitment close, but its $50,000 promotion pool has no stated individual award and the work promotes trading products.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-26-bitget-deadline-four-days",
       "entrypoint": "reports/2026-09-26-bitget-deadline-four-days/index.html"
+    },
+    {
+      "run_id": "run:17d21c34-dfeb-4d97-9c7c-d28aafc6d411",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-27T08:00:00.000Z",
+      "completed_at": "2026-09-27T08:34:00.000Z",
+      "title": "XO Market claim held out",
+      "summary": "A community post claimed an open XO Market ambassador wave and USDC rewards, but an issuer post describes the program as invite-only; no current public route was inspected. Bitget still lists 30 Sep as its close.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-27-xo-claim-held-out",
+      "entrypoint": "reports/2026-09-27-xo-claim-held-out/index.html"
+    },
+    {
+      "run_id": "run:manual:0eed35365d7ef6730a284d2e9f2977ea",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-09-27T15:38:23.971Z",
+      "completed_at": "2026-09-27T15:44:20.000Z",
+      "title": "Publication link recovery; no new opportunity finding",
+      "summary": "Corrected five links to historical report routes. The saved 27 Sep research and all public report bytes remain unchanged.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-27-publication-link-recovery",
+      "entrypoint": "reports/2026-09-27-publication-link-recovery/index.html"
     }
   ]
 }

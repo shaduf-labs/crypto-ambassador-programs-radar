@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "21 routes remain on the confirmed-open list. Bitget Trading Builder still invites applications, but its stated recruitment period closes on 30 Sep 2026; it is a trading-promotion campaign with no stated individual award.",
+  "current_answer": "21 routes remain on the confirmed-open list. A community post called XO Market’s Ambassador Program open, but an official XO Market post describes it as invite-only; no current public application route was inspected, so it is held out. Bitget Trading Builder still states a 30 Sep 2026 close.",
   "catalogue_card": {
-    "question": "Bitget Trading Builder closes in four days. Is the $50,000 pool your pay?",
-    "text": "No. The issuer still lists 30 Sep 2026 as the close, but the pool is shared and partly first-come, first-served. It requires an existing trading audience or community and does not state an individual award."
+    "question": "XO Market says ambassadors are invite-only. Why did an “open” claim stay out?",
+    "text": "A 3 Jul community post claimed an open Wave 2 and USDC rewards. XO Market’s official LinkedIn post describes the program as invite-only for specific creators. No current public application route was inspected, so it is not an open listing."
   },
   "summary": [
-    "Bitget’s issuer page still lists 30 Sep 2026 as the Trading Builder recruitment close. It asks for 500+ social followers or a 100+ member community, plus substantial trading experience.",
-    "The work is trading-community promotion across products including spot, futures, CFDs and RWAs. This is not a general entry-level contributor role.",
-    "Its stated $50,000 promotion pool is shared; part is first-come, first-served, and the issuer does not state an individual award. Applications may be reviewed within seven working days."
+    "A 3 Jul community Reddit post claims XO Market opened a second ambassador wave and paid USDC rewards. It is a lead, not issuer terms.",
+    "An official XO Market LinkedIn post describes the ambassador program as invite-only for specific creators. No current public application route was inspected, so XO is held out.",
+    "XO’s terms say relevant platform use can involve social login, a wallet and trading, with jurisdiction limits. These are not ambassador terms; do not take those steps for an unverified claim.",
+    "Bitget Trading Builder still names 30 Sep 2026 as its close. It requires an existing trading audience or community and does not state an individual award from the shared promotion pool."
   ],
   "uncertainty": [
+    "The official XO post does not establish whether a later public application route exists; its current application status and reward conditions remain unconfirmed.",
     "A visible issuer route does not prove selection, payment or a response.",
-    "The Bitget promotion pool is shared and partly first-come, first-served; no individual award amount is stated.",
     "Most confirmed-open routes still lack decision-ready cash terms, hours, full selection rules or independent participant reports."
   ],
-  "checked_at": "2026-09-26T08:12:00.000Z",
-  "meaningfully_updated_at": "2026-09-26T08:12:00.000Z",
-  "freshness_note": "Bitget Trading Builder was substantively rechecked on 26 Sep 2026. Its issuer article still names 30 Sep 2026 as the recruitment close. Other rows retain their own Last checked date. Re-open the issuer route before sharing identity data, wallet details, a CV or commercial contacts."
+  "checked_at": "2026-09-27T15:44:00.000Z",
+  "meaningfully_updated_at": "2026-09-27T08:28:00.000Z",
+  "freshness_note": "XO Market was checked on 27 Sep 2026 after a community post claimed an open ambassador wave. Its official LinkedIn post describes the ambassador program as invite-only; no current public application route was inspected. Bitget Trading Builder was also rechecked and still states a 30 Sep 2026 close. Other rows retain their own Last checked date. Re-open issuer terms before sharing identity data, wallet details, a CV or commercial contacts."
 }

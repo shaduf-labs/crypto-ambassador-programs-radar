@@ -90,6 +90,12 @@
       "changed_at": "2026-09-26T08:12:00.000Z",
       "summary": "Rechecked Bitget Trading Builder. Its issuer page still says recruitment closes 30 Sep 2026, requires an existing trading audience or community, and offers a shared promotion pool with no stated individual award.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:xo-claim-held-out",
+      "changed_at": "2026-09-27T08:28:00.000Z",
+      "summary": "Held out XO Market’s claimed Wave 2 ambassador call. A 3 Jul community post says applications and USDC rewards were open, but an official XO Market LinkedIn post describes the ambassador program as invite-only for specific creators. No current public application route was inspected; Bitget still lists 30 Sep as its close.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

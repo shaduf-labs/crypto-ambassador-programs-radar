@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-26",
-  "source_run_id": "run:a47ba27c-dbb2-44bf-bb3b-ca594ebeba1c",
+  "snapshot_date": "2026-09-27",
+  "source_run_id": "run:17d21c34-dfeb-4d97-9c7c-d28aafc6d411",
   "items": [
     {
       "id": "hedera",
@@ -482,6 +482,22 @@
       "official_url": "https://docs.rabbithole.gg/campaigns/ecosystem-ambassador-program",
       "status_label": "Not confirmed: issuer terms unavailable",
       "last_checked": "25 Sep 2026"
+    },
+    {
+      "id": "xo-market-ambassador",
+      "status": "not_confirmed",
+      "project": "XO Market Ambassador Program",
+      "fit": "Not confirmed. A community post claims a Wave 2 call, but it does not publish issuer-verified eligibility.",
+      "work": "Not confirmed. The community post is not an issuer work brief.",
+      "deadline": "A community post dated 3 Jul 2026 said applications would be open for four weeks. That period has passed. No current issuer deadline or public route was inspected.",
+      "reward": "No current official ambassador reward terms were inspected. Do not treat the community post’s USDC claim as verified.",
+      "selection": "XO Market’s official LinkedIn post describes its ambassador program as invite-only for specific creators. It does not show a public application route.",
+      "people": "A Reddit post on 3 Jul 2026 claims Wave 2 was open and paid in USDC. It is a community claim, not issuer terms.",
+      "safety": "XO’s terms say platform use can involve social login, a wallet and trading, and list restricted regions. Do not connect a wallet, trade or share data based only on the community post.",
+      "official_url": "https://www.linkedin.com/posts/xomarket_xo-market-open-beta-is-live-for-the-first-activity-7429140768965152769-gdLS",
+      "status_label": "Not confirmed: community claim conflicts with issuer invite-only statement",
+      "last_checked": "27 Sep 2026",
+      "community_url": "https://www.reddit.com/r/XOmarket/comments/1um8tte/wave_2_is_here_join_the_xo_market_ambassador/"
     }
   ]
 }

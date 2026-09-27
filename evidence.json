@@ -581,6 +581,46 @@
       "accessed_at": "2026-09-26T08:12:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:xo-market-official-invite-only-20260927",
+      "source_type": "official organization post",
+      "source_url": "https://www.linkedin.com/posts/xomarket_xo-market-open-beta-is-live-for-the-first-activity-7429140768965152769-gdLS",
+      "title": "XO Market Open Beta Launches with Expanded Access",
+      "claim": "XO Market’s official LinkedIn post describes its ambassador program as invite-only for specific creators.",
+      "accessed_at": "2026-09-27T08:28:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:xo-market-community-wave2-20260927",
+      "source_type": "community post",
+      "source_url": "https://www.reddit.com/r/XOmarket/comments/1um8tte/wave_2_is_here_join_the_xo_market_ambassador/",
+      "title": "Wave 2 Is Here — Join the XO Market Ambassador Program",
+      "claim": "A community Reddit post claims a Wave 2 application and USDC rewards; it does not establish current issuer terms or a public route.",
+      "accessed_at": "2026-09-27T08:28:00.000Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:xo-market-platform-terms-20260927",
+      "source_type": "official terms",
+      "source_url": "https://xo.market/terms-of-service",
+      "title": "XO Market Terms of Service",
+      "claim": "XO’s terms say platform use can involve social login, a wallet and trading, and list restricted regions; they do not establish ambassador application terms.",
+      "accessed_at": "2026-09-27T08:28:00.000Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bitget-deadline-recheck-20260927",
+      "source_type": "official support article",
+      "source_url": "https://www.bitget.com/support/articles/12560603885686",
+      "title": "Bitget Trading Builder recruitment",
+      "claim": "Bitget still names 30 Sep 2026 as the recruitment close and does not state an individual award from its shared promotion pool.",
+      "accessed_at": "2026-09-27T08:28:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }
