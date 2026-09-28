@@ -1,23 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "21 routes remain on the confirmed-open list. A community post called XO Market’s Ambassador Program open, but an official XO Market post describes it as invite-only; no current public application route was inspected, so it is held out. Bitget Trading Builder still states a 30 Sep 2026 close.",
+  "current_answer": "21 routes remain on the confirmed-open list. Bitget Trading Builder still states a 30 Sep 2026 close, but its shared promotion pool has no individual award amount. Zengo’s volunteer page links a form that could not be inspected, so current intake is not confirmed.",
   "catalogue_card": {
-    "question": "XO Market says ambassadors are invite-only. Why did an “open” claim stay out?",
-    "text": "A 3 Jul community post claimed an open Wave 2 and USDC rewards. XO Market’s official LinkedIn post describes the program as invite-only for specific creators. No current public application route was inspected, so it is not an open listing."
+    "question": "Bitget closes 30 Sep. Does its $50,000 pool tell you what you would earn?",
+    "text": "No individual award is stated. The campaign requires an established trading audience. Zengo’s volunteer page also links a form, but current intake could not be verified."
   },
   "summary": [
-    "A 3 Jul community Reddit post claims XO Market opened a second ambassador wave and paid USDC rewards. It is a lead, not issuer terms.",
-    "An official XO Market LinkedIn post describes the ambassador program as invite-only for specific creators. No current public application route was inspected, so XO is held out.",
-    "XO’s terms say relevant platform use can involve social login, a wallet and trading, with jurisdiction limits. These are not ambassador terms; do not take those steps for an unverified claim.",
-    "Bitget Trading Builder still names 30 Sep 2026 as its close. It requires an existing trading audience or community and does not state an individual award from the shared promotion pool."
+    "Bitget’s issuer article still gives 30 Sep 2026 as the recruitment close. It requires more than 500 social followers or a community of at least 100 members, plus substantial trading experience.",
+    "The Bitget promotion pool is shared and partly first-come, first-served. It does not state an individual award.",
+    "Zengo’s issuer page invites volunteers for less than an hour a week and links a form. The form response could not be inspected, so current intake stays outside the confirmed-open count."
   ],
   "uncertainty": [
-    "The official XO post does not establish whether a later public application route exists; its current application status and reward conditions remain unconfirmed.",
-    "A visible issuer route does not prove selection, payment or a response.",
-    "Most confirmed-open routes still lack decision-ready cash terms, hours, full selection rules or independent participant reports."
+    "Bitget’s linked Builder page did not expose submission acceptance in this check; selection and individual payment remain unverified.",
+    "Zengo’s form acceptance, fields and current intake are unverified.",
+    "Other routes retain their own Last checked dates; a visible route does not prove selection or payment."
   ],
-  "checked_at": "2026-09-27T15:44:00.000Z",
-  "meaningfully_updated_at": "2026-09-27T08:28:00.000Z",
-  "freshness_note": "XO Market was checked on 27 Sep 2026 after a community post claimed an open ambassador wave. Its official LinkedIn post describes the ambassador program as invite-only; no current public application route was inspected. Bitget Trading Builder was also rechecked and still states a 30 Sep 2026 close. Other rows retain their own Last checked date. Re-open issuer terms before sharing identity data, wallet details, a CV or commercial contacts."
+  "checked_at": "2026-09-28T08:10:00.000Z",
+  "meaningfully_updated_at": "2026-09-28T08:10:00.000Z",
+  "freshness_note": "Bitget and Zengo were checked on 28 Sep 2026. Bitget still lists a 30 Sep close; Zengo’s form response could not be inspected. Other rows keep their own Last checked date. Re-open issuer terms before applying or sharing data."
 }

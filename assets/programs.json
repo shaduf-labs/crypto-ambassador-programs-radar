@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-27",
-  "source_run_id": "run:17d21c34-dfeb-4d97-9c7c-d28aafc6d411",
+  "snapshot_date": "2026-09-28",
+  "source_run_id": "run:43d7c8db-3725-49c6-9891-6fc0f93594b0",
   "items": [
     {
       "id": "hedera",
@@ -172,7 +172,7 @@
       "id": "bitget-trading-builder",
       "status": "time_limited_campaign",
       "project": "Bitget Trading Builder",
-      "fit": "People with 500+ social followers or a 100+ member community, plus substantial trading experience.",
+      "fit": "People with more than 500 social followers or a community of at least 100 members, plus substantial trading experience.",
       "work": "Bring people to Bitget and promote spot, futures, CFDs, RWAs and trading promotions; share trading strategies.",
       "deadline": "30 Sep 2026.",
       "reward": "Access to a $50,000 promotion pool, support fund, rebates up to 50% and bonus credits. Individual award amounts are not stated.",
@@ -181,7 +181,7 @@
       "safety": "This is a trading-community growth campaign, not a general contributor role. Verify any Telegram contact is an official Bitget account.",
       "official_url": "https://www.bitget.com/support/articles/12560603885686",
       "status_label": "Open: trading-builder campaign",
-      "last_checked": "26 Sep 2026"
+      "last_checked": "28 Sep 2026"
     },
     {
       "id": "metamask",
@@ -498,6 +498,21 @@
       "status_label": "Not confirmed: community claim conflicts with issuer invite-only statement",
       "last_checked": "27 Sep 2026",
       "community_url": "https://www.reddit.com/r/XOmarket/comments/1um8tte/wave_2_is_here_join_the_xo_market_ambassador/"
+    },
+    {
+      "id": "zengo-zenbassadors",
+      "status": "not_confirmed",
+      "project": "Zengo Zenbassadors",
+      "fit": "Volunteers active on Twitter, Discord or Reddit who want to discuss Web3 security. Other eligibility rules are not stated.",
+      "work": "Share knowledge and support the Zengo community; the page describes less than one hour a week.",
+      "deadline": "No deadline published. Current form acceptance is unverified.",
+      "reward": "Community access, events, a joining T-shirt and possible swag. Cash pay is not stated.",
+      "selection": "The issuer page says it may invite matching applicants to next steps. The linked Google Form could not be inspected.",
+      "people": "No recent independent participant report found.",
+      "safety": "The issuer page links a Google Form, but its fields and acceptance state were not inspected. Verify the form from the issuer page before sharing personal data.",
+      "official_url": "https://zengo.com/zenbassadors/",
+      "status_label": "Not confirmed: linked form not inspected",
+      "last_checked": "28 Sep 2026"
     }
   ]
 }

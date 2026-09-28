@@ -96,6 +96,12 @@
       "changed_at": "2026-09-27T08:28:00.000Z",
       "summary": "Held out XO Market’s claimed Wave 2 ambassador call. A 3 Jul community post says applications and USDC rewards were open, but an official XO Market LinkedIn post describes the ambassador program as invite-only for specific creators. No current public application route was inspected; Bitget still lists 30 Sep as its close.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:bitget-deadline-zengo-form-unverified",
+      "changed_at": "2026-09-28T08:10:00.000Z",
+      "summary": "Rechecked Bitget’s 30 Sep close and tracked Zengo as an unconfirmed volunteer-form lead; the confirmed-open count stays 21.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

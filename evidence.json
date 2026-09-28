@@ -621,6 +621,26 @@
       "accessed_at": "2026-09-27T08:28:00.000Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bitget-deadline-recheck-20260928",
+      "source_type": "official support article",
+      "source_url": "https://www.bitget.com/support/articles/12560603885686",
+      "title": "Bitget Trading Builder recruitment",
+      "claim": "Bitget still states 30 Sep 2026 as the recruitment close and gives a shared promotion pool, not an individual award.",
+      "accessed_at": "2026-09-28T08:10:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:zengo-official-page-20260928",
+      "source_type": "official program page",
+      "source_url": "https://zengo.com/zenbassadors/",
+      "title": "Zengo Zenbassadors",
+      "claim": "The issuer invites volunteers, describes less than an hour a week, links a form, and names swag and access rather than cash pay.",
+      "accessed_at": "2026-09-28T08:10:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

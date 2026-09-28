@@ -187,6 +187,17 @@
       "summary": "Corrected five links to historical report routes. The saved 27 Sep research and all public report bytes remain unchanged.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-27-publication-link-recovery",
       "entrypoint": "reports/2026-09-27-publication-link-recovery/index.html"
+    },
+    {
+      "run_id": "run:43d7c8db-3725-49c6-9891-6fc0f93594b0",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-28T08:00:00.000Z",
+      "completed_at": "2026-09-28T08:10:30.000Z",
+      "title": "Bitget deadline rechecked; Zengo intake unconfirmed",
+      "summary": "Bitget still states a 30 Sep close and no individual award. Zengo invites volunteers but its linked form could not be inspected, so its intake remains unconfirmed.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-28-bitget-deadline-zengo-form-unverified",
+      "entrypoint": "reports/2026-09-28-bitget-deadline-zengo-form-unverified/index.html"
     }
   ]
 }
