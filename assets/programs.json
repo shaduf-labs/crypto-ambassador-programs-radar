@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-28",
-  "source_run_id": "run:43d7c8db-3725-49c6-9891-6fc0f93594b0",
+  "snapshot_date": "2026-09-29",
+  "source_run_id": "run:00b29131-4089-43ff-9a2a-340ba3a6d6bb",
   "items": [
     {
       "id": "hedera",
@@ -513,6 +513,21 @@
       "official_url": "https://zengo.com/zenbassadors/",
       "status_label": "Not confirmed: linked form not inspected",
       "last_checked": "28 Sep 2026"
+    },
+    {
+      "id": "cardano-ambassadors",
+      "status": "not_confirmed",
+      "project": "Cardano Ambassadors",
+      "fit": "Active Cardano contributors able to show sustained content, events, education, moderation, development or translation work. Country and language eligibility are not specified in the forum guide.",
+      "work": "Contribute first, record evidence of impact, then express interest in the ambassador program.",
+      "deadline": "No dated current application window published in the inspected issuer pages.",
+      "reward": "Recognition, access, support and possible Impact Pot funding for community projects; no individual amount or current award rule stated.",
+      "selection": "The issuer guide calls for proven contributions and links an interest form; a current intake or selection timetable is not stated.",
+      "people": "A Cardano Forum commenter on 13 Apr 2026 said regional impact may mean consistent grassroots education rather than large engagement counts. This is one perspective, not selection policy.",
+      "safety": "The issuer-linked Typeform response could not be inspected. Check its fields and current intake before sharing personal details or contribution evidence.",
+      "official_url": "https://forum.cardano.org/t/cardano-ambassadors-roles-and-responsibilities/154055",
+      "status_label": "Not confirmed: interest form, no dated intake",
+      "last_checked": "29 Sep 2026"
     }
   ]
 }

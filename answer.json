@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "21 routes remain on the confirmed-open list. Bitget Trading Builder still states a 30 Sep 2026 close, but its shared promotion pool has no individual award amount. Zengo’s volunteer page links a form that could not be inspected, so current intake is not confirmed.",
+  "current_answer": "21 routes remain confirmed open. Cardano links an ambassador interest form, not a dated current application. Bitget Trading Builder still publishes a 30 Sep 2026 close, but no individual award amount.",
   "catalogue_card": {
-    "question": "Bitget closes 30 Sep. Does its $50,000 pool tell you what you would earn?",
-    "text": "No individual award is stated. The campaign requires an established trading audience. Zengo’s volunteer page also links a form, but current intake could not be verified."
+    "question": "Cardano has an interest form. Is that an open application?",
+    "text": "Not confirmed: its issuer guide links a form but gives no current intake date. Bitget still names 30 Sep as its close and does not state what one Builder would earn."
   },
   "summary": [
-    "Bitget’s issuer article still gives 30 Sep 2026 as the recruitment close. It requires more than 500 social followers or a community of at least 100 members, plus substantial trading experience.",
-    "The Bitget promotion pool is shared and partly first-come, first-served. It does not state an individual award.",
-    "Zengo’s issuer page invites volunteers for less than an hour a week and links a form. The form response could not be inspected, so current intake stays outside the confirmed-open count."
+    "Cardano’s issuer hub links an April 2026 guide and interest form. The guide asks for sustained contribution evidence; the form state and current selection window could not be inspected.",
+    "Bitget’s issuer article still gives 30 Sep 2026 as the recruitment close. Its $50,000 promotion pool is shared, with no individual award amount.",
+    "Solana’s Spanish university-ambassador page still shows application fields but states a 1 Sep 2026 close. It remains closed in the tracker."
   ],
   "uncertainty": [
-    "Bitget’s linked Builder page did not expose submission acceptance in this check; selection and individual payment remain unverified.",
-    "Zengo’s form acceptance, fields and current intake are unverified.",
-    "Other routes retain their own Last checked dates; a visible route does not prove selection or payment."
+    "Cardano’s interest form fields, submission state, current intake and individual reward rules are unverified.",
+    "Bitget’s linked submission acceptance, selection and individual payment remain unverified.",
+    "Other rows retain their own Last checked dates; a visible form does not prove an open intake."
   ],
-  "checked_at": "2026-09-28T08:10:00.000Z",
-  "meaningfully_updated_at": "2026-09-28T08:10:00.000Z",
-  "freshness_note": "Bitget and Zengo were checked on 28 Sep 2026. Bitget still lists a 30 Sep close; Zengo’s form response could not be inspected. Other rows keep their own Last checked date. Re-open issuer terms before applying or sharing data."
+  "checked_at": "2026-09-29T08:06:45.000Z",
+  "meaningfully_updated_at": "2026-09-29T08:06:45.000Z",
+  "freshness_note": "Cardano, Bitget and Solana’s Spanish page were checked on 29 Sep 2026. Other rows retain their own Last checked dates. Re-open issuer terms before applying or sharing data."
 }

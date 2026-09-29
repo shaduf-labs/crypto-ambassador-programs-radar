@@ -198,6 +198,17 @@
       "summary": "Bitget still states a 30 Sep close and no individual award. Zengo invites volunteers but its linked form could not be inspected, so its intake remains unconfirmed.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-28-bitget-deadline-zengo-form-unverified",
       "entrypoint": "reports/2026-09-28-bitget-deadline-zengo-form-unverified/index.html"
+    },
+    {
+      "run_id": "run:00b29131-4089-43ff-9a2a-340ba3a6d6bb",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-29T08:00:00.000Z",
+      "completed_at": "2026-09-29T08:11:00.000Z",
+      "title": "Cardano interest form is not a confirmed intake",
+      "summary": "Cardano’s issuer-linked form has no dated current selection window; Bitget still states 30 Sep, and Solana’s Spanish page still states a passed 1 Sep close.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-29-cardano-interest-not-intake",
+      "entrypoint": "reports/2026-09-29-cardano-interest-not-intake/index.html"
     }
   ]
 }
