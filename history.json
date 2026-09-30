@@ -209,6 +209,17 @@
       "summary": "Cardano’s issuer-linked form has no dated current selection window; Bitget still states 30 Sep, and Solana’s Spanish page still states a passed 1 Sep close.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-29-cardano-interest-not-intake",
       "entrypoint": "reports/2026-09-29-cardano-interest-not-intake/index.html"
+    },
+    {
+      "run_id": "run:670eed65-c15a-4833-8799-a25cbbb4accd",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-09-30T08:00:00.000Z",
+      "completed_at": "2026-09-30T08:16:42.778Z",
+      "title": "Aster route unverified; Bitget final published date",
+      "summary": "Aster moved out of the current-open list because its issuer page no longer exposed the application action. Bitget still states 30 Sep, without a closing hour or individual award amount.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-30-aster-route-unverified-bitget-last-day",
+      "entrypoint": "reports/2026-09-30-aster-route-unverified-bitget-last-day/index.html"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-29",
-  "source_run_id": "run:00b29131-4089-43ff-9a2a-340ba3a6d6bb",
+  "snapshot_date": "2026-09-30",
+  "source_run_id": "run:670eed65-c15a-4833-8799-a25cbbb4accd",
   "items": [
     {
       "id": "hedera",
@@ -50,18 +50,18 @@
     },
     {
       "id": "aster",
-      "status": "confirmed_open",
+      "status": "not_confirmed",
       "project": "Aster",
       "fit": "Community builders, active Aster users or traders, and people with a track record of community work.",
       "work": "Host meetups, workshops, AMAs or trading sessions; onboard users; give product feedback.",
-      "deadline": "Applications are open year-round.",
+      "deadline": "The 14 Sep issuer check said applications were open year-round; current intake is unverified.",
       "reward": "Event support up to $5,000 per event, toolkit, merchandise, promotion and early product access. Aster says there is no direct salary.",
       "selection": "Application; Aster says it reviews applicants within two weeks and may invite qualified candidates to a screening call.",
       "people": "No recent independent report found.",
-      "safety": "The issuer page did not render its announcement text in this check. The row remains based on the 14 Sep issuer check; the role can involve futures, perpetuals and high-leverage trading education.",
+      "safety": "The tracked issuer URL showed only a loading shell on 30 Sep. A search preview retains older terms but is not a current application check. Do not submit details through an unverified alternative link.",
       "official_url": "https://www.asterdex.com/en/announcement/132?category=ACTIVITY",
-      "status_label": "Confirmed open; recheck pending",
-      "last_checked": "14 Sep 2026"
+      "status_label": "Not confirmed: issuer route not inspectable",
+      "last_checked": "30 Sep 2026"
     },
     {
       "id": "elk",
@@ -174,14 +174,14 @@
       "project": "Bitget Trading Builder",
       "fit": "People with more than 500 social followers or a community of at least 100 members, plus substantial trading experience.",
       "work": "Bring people to Bitget and promote spot, futures, CFDs, RWAs and trading promotions; share trading strategies.",
-      "deadline": "30 Sep 2026.",
+      "deadline": "30 Sep 2026 is the published close; no closing hour or time zone is stated.",
       "reward": "Access to a $50,000 promotion pool, support fund, rebates up to 50% and bonus credits. Individual award amounts are not stated.",
       "selection": "Bitget says applications are reviewed within seven working days; existing affiliates and direct referrals are ineligible.",
       "people": "No recent independent report found.",
-      "safety": "This is a trading-community growth campaign, not a general contributor role. Verify any Telegram contact is an official Bitget account.",
+      "safety": "This is a trading-community growth campaign, not a general contributor role. The linked submission state could not be inspected. Verify any Telegram contact is an official Bitget account.",
       "official_url": "https://www.bitget.com/support/articles/12560603885686",
       "status_label": "Open: trading-builder campaign",
-      "last_checked": "28 Sep 2026"
+      "last_checked": "30 Sep 2026"
     },
     {
       "id": "metamask",
