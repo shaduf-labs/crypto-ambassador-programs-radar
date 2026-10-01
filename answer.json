@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "20 routes remain confirmed open. Aster moved to not confirmed because its tracked issuer page exposed only a loading shell; its current application action could not be checked. Bitget still publishes 30 Sep 2026 as its recruitment close, without a closing hour or individual award amount.",
+  "current_answer": "20 issuer-linked ambassador routes remain confirmed open from their dated checks. Bitget Trading Builder’s published recruitment period ended 30 Sep 2026, so its campaign is no longer listed as open. Aptos Collective links a form but does not verify a current quarterly intake window.",
   "catalogue_card": {
-    "question": "Is Aster still open, and when does Bitget close?",
-    "text": "Aster’s current application route could not be verified, so it left the open list. Bitget names 30 Sep 2026 as its close but does not state a closing hour or what one Builder would earn."
+    "question": "Did Bitget close, and can you apply to Aptos now?",
+    "text": "Bitget’s published Trading Builder window ended 30 Sep. Aptos links a form but names no current quarterly intake window. The 20 confirmed-open routes keep their individual check dates."
   },
   "summary": [
-    "Aster’s issuer URL returned a loading shell without the announcement or application action. Its older year-round wording is retained as history, not current intake proof.",
-    "Bitget’s issuer article still names 30 Sep 2026 as the recruitment close. The shared $50,000 pool gives no individual award amount.",
-    "20 other issuer-linked routes remain in the confirmed-open table, each with its own last-check date."
+    "Bitget’s issuer article still names 30 Sep 2026 as its recruitment end; its linked activity page did not expose submission acceptance.",
+    "Aptos Collective invites applicants but says onboarding is quarterly; the current window and form acceptance were not verified.",
+    "The 20 confirmed-open ambassador rows did not change; check each row’s Last checked date."
   ],
   "uncertainty": [
-    "Aster may still accept applications in a fully rendered browser; the route was not inspectable in this check.",
-    "Bitget gives no closing hour or time zone. Its linked submission state and individual reward remain unverified.",
-    "Most other rows were not rechecked on 30 Sep; use each row’s Last checked date."
+    "A later Bitget extension or private acceptance could change its status.",
+    "Aptos Typeform acceptance state was not inspectable; an application link is not proof of a current cohort.",
+    "Most other routes were not rechecked on 1 Oct."
   ],
-  "checked_at": "2026-09-30T08:15:05.822Z",
-  "meaningfully_updated_at": "2026-09-30T08:15:05.822Z",
-  "freshness_note": "Aster and Bitget were checked on 30 Sep 2026. Other rows keep their own Last checked dates. Open issuer terms again before applying or sharing data."
+  "checked_at": "2026-10-01T11:59:17Z",
+  "meaningfully_updated_at": "2026-10-01T11:59:17Z",
+  "freshness_note": "Bitget and Aptos checked 1 Oct 2026. Other rows retain their individual Last checked dates. Verify the issuer action and terms before sharing data."
 }

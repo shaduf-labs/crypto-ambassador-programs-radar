@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-09-30",
-  "source_run_id": "run:670eed65-c15a-4833-8799-a25cbbb4accd",
+  "snapshot_date": "2026-10-01",
+  "source_run_id": "run:24c5353c-2ec7-47c1-8ac8-ce3d75f3bad2",
   "items": [
     {
       "id": "hedera",
@@ -170,18 +170,18 @@
     },
     {
       "id": "bitget-trading-builder",
-      "status": "time_limited_campaign",
+      "status": "closed",
       "project": "Bitget Trading Builder",
       "fit": "People with more than 500 social followers or a community of at least 100 members, plus substantial trading experience.",
       "work": "Bring people to Bitget and promote spot, futures, CFDs, RWAs and trading promotions; share trading strategies.",
-      "deadline": "30 Sep 2026 is the published close; no closing hour or time zone is stated.",
+      "deadline": "Recruitment period ended 30 Sep 2026. No later extension found in the checked issuer article.",
       "reward": "Access to a $50,000 promotion pool, support fund, rebates up to 50% and bonus credits. Individual award amounts are not stated.",
-      "selection": "Bitget says applications are reviewed within seven working days; existing affiliates and direct referrals are ineligible.",
+      "selection": "The issuer article still says applications were reviewed within seven working days. It gives no current extension; the linked activity page did not expose submission acceptance.",
       "people": "No recent independent report found.",
-      "safety": "This is a trading-community growth campaign, not a general contributor role. The linked submission state could not be inspected. Verify any Telegram contact is an official Bitget account.",
+      "safety": "Do not rely on the still-visible Join now link as proof of current intake. This is a trading-product promotion campaign, not a general contributor role. Verify any Telegram contact from Bitget itself.",
       "official_url": "https://www.bitget.com/support/articles/12560603885686",
-      "status_label": "Open: trading-builder campaign",
-      "last_checked": "30 Sep 2026"
+      "status_label": "Closed by published date; form state unverified",
+      "last_checked": "1 Oct 2026"
     },
     {
       "id": "metamask",
@@ -528,6 +528,21 @@
       "official_url": "https://forum.cardano.org/t/cardano-ambassadors-roles-and-responsibilities/154055",
       "status_label": "Not confirmed: interest form, no dated intake",
       "last_checked": "29 Sep 2026"
+    },
+    {
+      "id": "aptos-collective",
+      "status": "not_confirmed",
+      "project": "Aptos Collective",
+      "fit": "Global developers, designers, educators, creators and community leaders, including people new to Web3. Multilingual applicants are encouraged.",
+      "work": "Create or translate educational content, support projects, test products and host local events.",
+      "deadline": "No current quarterly application window or deadline verified.",
+      "reward": "No set monthly stipend. Top Vanguard contributors may receive monthly awards; grants and event support are conditional. Individual amounts are not stated.",
+      "selection": "The issuer says onboarding uses quarterly cohorts and asks readers to watch for application-window announcements. A linked Typeform exists, but submission acceptance was not inspectable.",
+      "people": "No recent independent participant report found.",
+      "safety": "Do not treat the form link as proof of a current cohort. Verify timing and data fields before submitting.",
+      "official_url": "https://aptosnetwork.com/collective",
+      "status_label": "Not confirmed: quarterly cohort window unstated",
+      "last_checked": "1 Oct 2026"
     }
   ]
 }

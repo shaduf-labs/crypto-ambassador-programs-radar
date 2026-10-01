@@ -701,6 +701,46 @@
       "accessed_at": "2026-09-30T08:15:05.822Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bitget-window-ended-20261001",
+      "source_type": "official announcement",
+      "source_url": "https://www.bitget.com/support/articles/12560603885686",
+      "title": "Bitget Trading Builder recruitment",
+      "claim": "Bitget still publishes 30 Sep 2026 as the recruitment end date; no later extension appears in the checked article.",
+      "accessed_at": "2026-10-01T11:59:17Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bitget-submission-uninspectable-20261001",
+      "source_type": "issuer-linked activity page",
+      "source_url": "https://www.bitget.com/activity/builder-program",
+      "title": "Bitget Builder activity page",
+      "claim": "The linked activity page did not expose a readable submission state; technical closure is unverified.",
+      "accessed_at": "2026-10-01T11:59:17Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:aptos-collective-20261001",
+      "source_type": "official program page",
+      "source_url": "https://aptosnetwork.com/collective",
+      "title": "Aptos Collective",
+      "claim": "The page links an application but says onboarding is quarterly and to watch for application-window announcements; it says there is no set monthly stipend.",
+      "accessed_at": "2026-10-01T11:59:17Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:aptos-form-20261001",
+      "source_type": "issuer-linked form",
+      "source_url": "https://aptosfoundation.typeform.com/collective",
+      "title": "Aptos Collective form",
+      "claim": "The linked Typeform yielded no inspectable acceptance state in this check.",
+      "accessed_at": "2026-10-01T11:59:17Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

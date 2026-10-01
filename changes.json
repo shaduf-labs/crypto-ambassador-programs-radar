@@ -114,6 +114,12 @@
       "changed_at": "2026-09-30T08:15:05.822Z",
       "summary": "Moved Aster out of the confirmed-open count after its tracked issuer URL exposed only a loading shell; rechecked Bitget’s published 30 Sep close and noted the missing closing hour and individual award.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:bitget-window-ended-aptos-held",
+      "changed_at": "2026-10-01T11:59:17Z",
+      "summary": "Moved Bitget Trading Builder out of current-open campaign status after its published 30 Sep close; added Aptos Collective as an unconfirmed quarterly-cohort lead. The 20 confirmed-open ambassador rows are unchanged.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

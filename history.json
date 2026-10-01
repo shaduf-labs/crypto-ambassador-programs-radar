@@ -220,6 +220,17 @@
       "summary": "Aster moved out of the current-open list because its issuer page no longer exposed the application action. Bitget still states 30 Sep, without a closing hour or individual award amount.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-30-aster-route-unverified-bitget-last-day",
       "entrypoint": "reports/2026-09-30-aster-route-unverified-bitget-last-day/index.html"
+    },
+    {
+      "run_id": "run:24c5353c-2ec7-47c1-8ac8-ce3d75f3bad2",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-01T11:56:00Z",
+      "completed_at": "2026-10-01T12:02:30Z",
+      "title": "Bitget window ended; Aptos current intake unverified",
+      "summary": "Bitget’s published recruitment date passed. Aptos has a form but no verified current quarterly cohort window.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-01-bitget-window-ended-aptos-intake-unverified",
+      "entrypoint": "reports/2026-10-01-bitget-window-ended-aptos-intake-unverified/index.html"
     }
   ]
 }
