@@ -231,6 +231,17 @@
       "summary": "Bitget’s published recruitment date passed. Aptos has a form but no verified current quarterly cohort window.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-01-bitget-window-ended-aptos-intake-unverified",
       "entrypoint": "reports/2026-10-01-bitget-window-ended-aptos-intake-unverified/index.html"
+    },
+    {
+      "run_id": "run:61a06480-7713-4209-a8ac-5f69e1ab920a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-02T08:03:00Z",
+      "completed_at": "2026-10-02T08:24:00Z",
+      "title": "Bit2Me intake unverified; payout asset conflict",
+      "summary": "A Bit2Me form remains linked but no current selection window was verified; its issuer pages disagree on the payment asset. Three existing open routes were rechecked.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-02-bit2me-intake-unverified-payout-conflict",
+      "entrypoint": "reports/2026-10-02-bit2me-intake-unverified-payout-conflict/index.html"
     }
   ]
 }

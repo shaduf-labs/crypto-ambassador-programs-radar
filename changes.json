@@ -120,6 +120,12 @@
       "changed_at": "2026-10-01T11:59:17Z",
       "summary": "Moved Bitget Trading Builder out of current-open campaign status after its published 30 Sep close; added Aptos Collective as an unconfirmed quarterly-cohort lead. The 20 confirmed-open ambassador rows are unchanged.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:bit2me-intake-payout-conflict",
+      "changed_at": "2026-10-02T08:16:14Z",
+      "summary": "Tracked Bit2Me outside the current-open count: its form was not inspectable for a current intake, and issuer pages disagree on USDC, USDT or another payout asset. Rechecked Hedera, Cyfrin and Bybit Africa; the confirmed-open total remains 20.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

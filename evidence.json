@@ -741,6 +741,76 @@
       "accessed_at": "2026-10-01T11:59:17Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bit2me-landing-20261002",
+      "source_type": "issuer program page",
+      "source_url": "https://bit2me.com/pt-PT/embaixadores",
+      "title": "issuer program page",
+      "claim": "The page links a request-access form, states verified-account and invoice requirements, and describes USDT pay without a current review date.",
+      "accessed_at": "2026-10-02T08:16:14Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bit2me-blog-20261002",
+      "source_type": "issuer launch article",
+      "source_url": "https://blog.bit2me.com/pt/programa-embaixadores-bit2me-como-funciona/",
+      "title": "issuer launch article",
+      "claim": "The May Portuguese article describes USDC monthly compensation by rank and review one month after launch.",
+      "accessed_at": "2026-10-02T08:16:14Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bit2me-legal-20261002",
+      "source_type": "issuer program terms",
+      "source_url": "https://legal.bit2me.com/en/support/solutions/articles/35000318566-specific-conditions-of-the-ambassador-program",
+      "title": "issuer program terms",
+      "claim": "The terms allow a crypto asset of Bit2Me’s choice and list USDT at Space Gardener rank subject to whitelisting.",
+      "accessed_at": "2026-10-02T08:16:14Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bit2me-form-20261002",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://form.typeform.com/to/nQ2Y7lGZ",
+      "title": "issuer-linked hosted form",
+      "claim": "The form response did not expose acceptance state; the form link alone cannot confirm intake.",
+      "accessed_at": "2026-10-02T08:16:14Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bybit-campus-recheck-20261002",
+      "source_type": "issuer program page",
+      "source_url": "https://www.bybit.com/en/learn/institutional-services/bybit-africa-campus-ambassadors-program",
+      "title": "issuer program page",
+      "claim": "Bybit still says the six-country campus route accepts applications on a rolling basis.",
+      "accessed_at": "2026-10-02T08:16:14Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cyfrin-recheck-20261002",
+      "source_type": "issuer program page",
+      "source_url": "https://ambassadors.cyfrin.io/",
+      "title": "issuer program page",
+      "claim": "Cyfrin still links an ambassador form and says it reviews applications in five to seven business days.",
+      "accessed_at": "2026-10-02T08:16:14Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-recheck-20261002",
+      "source_type": "issuer program page",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "title": "issuer program page",
+      "claim": "Hedera still links an Apply Now form for its developer and community roles.",
+      "accessed_at": "2026-10-02T08:16:14Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

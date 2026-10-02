@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-01",
-  "source_run_id": "run:24c5353c-2ec7-47c1-8ac8-ce3d75f3bad2",
+  "snapshot_date": "2026-10-02",
+  "source_run_id": "run:61a06480-7713-4209-a8ac-5f69e1ab920a",
   "items": [
     {
       "id": "hedera",
@@ -16,7 +16,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "25 Sep 2026"
+      "last_checked": "2 Oct 2026"
     },
     {
       "id": "cyfrin",
@@ -31,7 +31,7 @@
       "safety": "Use the Typeform only from Cyfrin’s official page. SSCD+ certification is required within six weeks after onboarding to continue.",
       "official_url": "https://ambassadors.cyfrin.io/",
       "status_label": "Confirmed open",
-      "last_checked": "25 Sep 2026"
+      "last_checked": "2 Oct 2026"
     },
     {
       "id": "soneium",
@@ -256,7 +256,7 @@
       "safety": "The official page links a hosted Lark form. Inspect its fields before sharing student, contact or social information. This is an exchange-affiliated education and product-promotion role.",
       "official_url": "https://www.bybit.com/en/learn/institutional-services/bybit-africa-campus-ambassadors-program",
       "status_label": "Confirmed open; country-limited",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "2 Oct 2026"
     },
     {
       "id": "hela",
@@ -543,6 +543,21 @@
       "official_url": "https://aptosnetwork.com/collective",
       "status_label": "Not confirmed: quarterly cohort window unstated",
       "last_checked": "1 Oct 2026"
+    },
+    {
+      "id": "bit2me-ambassadors",
+      "status": "not_confirmed",
+      "project": "Bit2Me Ambassador Program",
+      "fit": "People aged 18+ who can create content, moderate communities, organize events, train ambassadors or introduce partners. A verified Bit2Me account is required to participate; the issuer focuses on Europe and Spanish-speaking markets.",
+      "work": "Create education and product content, moderate channels, organize events or introduce partners; label promotional content and include crypto-risk warnings.",
+      "deadline": "No current application or review window verified. The page still refers to a review one month after its May 2026 launch.",
+      "reward": "Monthly crypto compensation depends on validated activity and rank; no individual amount stated. The May blog says USDC, the landing page says USDT, and the terms allow another crypto asset. An invoice is required for payment.",
+      "selection": "Issuer page links a Typeform, but form acceptance could not be inspected. Review schedule appears tied to launch, not a new cohort.",
+      "people": "No recent independent ambassador pay report found. Issuer-hosted user testimonials are not payout evidence.",
+      "safety": "Use the issuer page to reach the form. Confirm current intake, payout asset, rank threshold, account verification and invoice rules before submitting personal data.",
+      "official_url": "https://bit2me.com/pt-PT/embaixadores",
+      "status_label": "Not confirmed: current intake and payout unit unresolved",
+      "last_checked": "2 Oct 2026"
     }
   ]
 }

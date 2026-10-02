@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "20 issuer-linked ambassador routes remain confirmed open from their dated checks. Bitget Trading Builder’s published recruitment period ended 30 Sep 2026, so its campaign is no longer listed as open. Aptos Collective links a form but does not verify a current quarterly intake window.",
+  "current_answer": "20 ambassador routes remain confirmed open from their individual checks. Hedera, Cyfrin and Bybit Africa were rechecked on 2 Oct. Bit2Me links a form, but its current review window is unverified and issuer pages conflict on whether compensation is USDC, USDT or another crypto asset.",
   "catalogue_card": {
-    "question": "Did Bitget close, and can you apply to Aptos now?",
-    "text": "Bitget’s published Trading Builder window ended 30 Sep. Aptos links a form but names no current quarterly intake window. The 20 confirmed-open routes keep their individual check dates."
+    "question": "Is Bit2Me accepting ambassadors, and what would it pay?",
+    "text": "Bit2Me links a form, but no current intake window was verified. Its own pages disagree on the payout asset. The 20 confirmed-open routes remain, with individual check dates."
   },
   "summary": [
-    "Bitget’s issuer article still names 30 Sep 2026 as its recruitment end; its linked activity page did not expose submission acceptance.",
-    "Aptos Collective invites applicants but says onboarding is quarterly; the current window and form acceptance were not verified.",
-    "The 20 confirmed-open ambassador rows did not change; check each row’s Last checked date."
+    "Hedera, Cyfrin and Bybit Africa still show issuer-linked routes on 2 Oct; 17 other open rows retain earlier checks.",
+    "Bit2Me’s review timing refers to its May launch, while its Typeform acceptance state was not inspectable.",
+    "Bit2Me says validated monthly work may be paid, but its pages conflict on the asset and give no individual amount; account verification and an invoice are required."
   ],
   "uncertainty": [
-    "A later Bitget extension or private acceptance could change its status.",
-    "Aptos Typeform acceptance state was not inspectable; an application link is not proof of a current cohort.",
-    "Most other routes were not rechecked on 1 Oct."
+    "Bit2Me’s current intake and form acceptance were not verified.",
+    "Bit2Me’s payout asset, amount and practical rank rule remain unresolved.",
+    "Most other routes were not rechecked on 2 Oct; analytics were unavailable."
   ],
-  "checked_at": "2026-10-01T11:59:17Z",
-  "meaningfully_updated_at": "2026-10-01T11:59:17Z",
-  "freshness_note": "Bitget and Aptos checked 1 Oct 2026. Other rows retain their individual Last checked dates. Verify the issuer action and terms before sharing data."
+  "checked_at": "2026-10-02T08:16:14Z",
+  "meaningfully_updated_at": "2026-10-02T08:16:14Z",
+  "freshness_note": "Bit2Me, Hedera, Cyfrin and Bybit Africa checked 2 Oct 2026. Other rows retain their individual Last checked dates. Verify issuer terms before sharing data."
 }
