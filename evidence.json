@@ -811,6 +811,46 @@
       "accessed_at": "2026-10-02T08:16:14Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:nexo-route-20261003",
+      "source_type": "issuer program page",
+      "source_url": "https://nexo.com/ambassadors",
+      "title": "Nexo ambassadors",
+      "claim": "The ambassador page still displays an embedded contact form, senior B2B fit and broad salary language without an amount.",
+      "accessed_at": "2026-10-03T08:03:17Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:mica-route-20261003",
+      "source_type": "issuer program page",
+      "source_url": "https://www.micacryptoalliance.com/mca-ambassadors-program",
+      "title": "MiCA Crypto Alliance ambassadors",
+      "claim": "The Alliance still invites applications and event proposals; it distinguishes €1,000 per approved event from a possible event budget up to €3,000.",
+      "accessed_at": "2026-10-03T08:03:17Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:zerion-route-20261003",
+      "source_type": "issuer program page",
+      "source_url": "https://www.zerion.io/community",
+      "title": "Zerion community",
+      "claim": "Zerion still invites ambassador applications and says it reviews them on a rolling basis.",
+      "accessed_at": "2026-10-03T08:03:17Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:zerion-form-move-20261003",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://zerion-io.typeform.com/to/T2XNFuP2",
+      "title": "Zerion form move notice",
+      "claim": "The old hosted form address shows a move notice to zerionhq.typeform.com; destination acceptance was not inspectable.",
+      "accessed_at": "2026-10-03T08:03:17Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

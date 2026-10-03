@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "20 ambassador routes remain confirmed open from their individual checks. Hedera, Cyfrin and Bybit Africa were rechecked on 2 Oct. Bit2Me links a form, but its current review window is unverified and issuer pages conflict on whether compensation is USDC, USDT or another crypto asset.",
+  "current_answer": "20 ambassador routes remain confirmed open from their individual checks. Nexo, MiCA Crypto Alliance and Zerion retained their status on 3 Oct. Zerion’s hosted form moved; its destination acceptance was not inspectable. Bit2Me intake and payout terms remain unresolved.",
   "catalogue_card": {
-    "question": "Is Bit2Me accepting ambassadors, and what would it pay?",
-    "text": "Bit2Me links a form, but no current intake window was verified. Its own pages disagree on the payout asset. The 20 confirmed-open routes remain, with individual check dates."
+    "question": "Did the older ambassador routes stay open?",
+    "text": "Nexo, MiCA Crypto Alliance and Zerion still show issuer invitations on 3 Oct. Zerion’s form link moved, and acceptance at the new host was not verified. The 20-route count is unchanged."
   },
   "summary": [
-    "Hedera, Cyfrin and Bybit Africa still show issuer-linked routes on 2 Oct; 17 other open rows retain earlier checks.",
-    "Bit2Me’s review timing refers to its May launch, while its Typeform acceptance state was not inspectable.",
-    "Bit2Me says validated monthly work may be paid, but its pages conflict on the asset and give no individual amount; account verification and an invoice are required."
+    "Nexo still displays an embedded contact form but publishes no salary amount or jurisdiction list.",
+    "MiCA Crypto Alliance still invites event proposals; €1,000 is stated for organizing each approved event, while its possible €3,000 event budget is not personal pay.",
+    "Zerion still says applications receive rolling review, but its linked Typeform shows a move notice and the new destination could not be inspected."
   ],
   "uncertainty": [
-    "Bit2Me’s current intake and form acceptance were not verified.",
-    "Bit2Me’s payout asset, amount and practical rank rule remain unresolved.",
-    "Most other routes were not rechecked on 2 Oct; analytics were unavailable."
+    "Zerion’s new hosted form acceptance and fields were not verified; its issuer page still invites rolling applications.",
+    "Bit2Me’s current intake and payout asset remain unresolved.",
+    "Most other confirmed-open routes retain older individual check dates; analytics were unavailable."
   ],
-  "checked_at": "2026-10-02T08:16:14Z",
+  "checked_at": "2026-10-03T08:03:17Z",
   "meaningfully_updated_at": "2026-10-02T08:16:14Z",
-  "freshness_note": "Bit2Me, Hedera, Cyfrin and Bybit Africa checked 2 Oct 2026. Other rows retain their individual Last checked dates. Verify issuer terms before sharing data."
+  "freshness_note": "Nexo, MiCA Crypto Alliance and Zerion checked 3 Oct 2026. Other rows retain their individual Last checked dates. Verify issuer terms before sharing data."
 }

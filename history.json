@@ -242,6 +242,17 @@
       "summary": "A Bit2Me form remains linked but no current selection window was verified; its issuer pages disagree on the payment asset. Three existing open routes were rechecked.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-02-bit2me-intake-unverified-payout-conflict",
       "entrypoint": "reports/2026-10-02-bit2me-intake-unverified-payout-conflict/index.html"
+    },
+    {
+      "run_id": "run:5033f97d-3d68-48af-b119-d2812684da5d",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-03T08:00:00Z",
+      "completed_at": "2026-10-03T08:08:15Z",
+      "title": "Three routes rechecked; Zerion form host moved",
+      "summary": "Nexo, MiCA Crypto Alliance and Zerion retain their listed status. Zerion’s hosted form moved to a new host that could not be inspected.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-03-three-route-rechecks-zerion-form-moved",
+      "entrypoint": "reports/2026-10-03-three-route-rechecks-zerion-form-moved/index.html"
     }
   ]
 }

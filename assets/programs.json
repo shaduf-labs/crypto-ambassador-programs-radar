@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-02",
-  "source_run_id": "run:61a06480-7713-4209-a8ac-5f69e1ab920a",
+  "snapshot_date": "2026-10-03",
+  "source_run_id": "run:5033f97d-3d68-48af-b119-d2812684da5d",
   "items": [
     {
       "id": "hedera",
@@ -133,10 +133,10 @@
       "reward": "Nexo says “competitive salary” and result-based incentives. It does not state an amount, targets, payment schedule or jurisdiction limits.",
       "selection": "The official page shows a contact form. Its review process and response time are not stated.",
       "people": "No recent independent report found.",
-      "safety": "On 16 Sep, the tracked official page displayed name, email, phone, LinkedIn and contribution fields after it did not render a route on 15 Sep. Re-open the official page and read the privacy terms before submitting.",
+      "safety": "The official page displays name, email, phone, LinkedIn and contribution fields. Read its privacy terms before submitting; form submission and selection were not tested.",
       "official_url": "https://nexo.com/ambassadors",
       "status_label": "Confirmed open",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "3 Oct 2026"
     },
     {
       "id": "oasis-sentinels",
@@ -328,10 +328,10 @@
       "reward": "No ambassador salary. The issuer says exceptional contributions are rewarded, but does not state the unit, amount, condition or timing.",
       "selection": "Official application form; rolling review and quarterly decisions, according to the issuer.",
       "people": "No recent independent report found.",
-      "safety": "The issuer-linked Typeform did not expose fields or a submission-state message in this check. Read every field before sharing contact, social or wallet information.",
+      "safety": "The issuer-linked Typeform shows a move notice to a new host; its destination acceptance and fields were not inspectable on 3 Oct. Read every field before sharing contact, social or wallet information.",
       "official_url": "https://www.zerion.io/community",
       "status_label": "Confirmed open; rolling review",
-      "last_checked": "18 Sep 2026"
+      "last_checked": "3 Oct 2026"
     },
     {
       "id": "injective",
@@ -436,7 +436,7 @@
       "safety": "Use the official page. Do not treat the proposed €3,000 event budget as your compensation or front event costs without written approval. Payment is stated only for an approved, delivered event.",
       "official_url": "https://www.micacryptoalliance.com/mca-ambassadors-program",
       "status_label": "Confirmed open; €1,000 after approved event",
-      "last_checked": "21 Sep 2026"
+      "last_checked": "3 Oct 2026"
     },
     {
       "id": "autheo",

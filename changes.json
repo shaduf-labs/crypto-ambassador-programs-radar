@@ -126,6 +126,12 @@
       "changed_at": "2026-10-02T08:16:14Z",
       "summary": "Tracked Bit2Me outside the current-open count: its form was not inspectable for a current intake, and issuer pages disagree on USDC, USDT or another payout asset. Rechecked Hedera, Cyfrin and Bybit Africa; the confirmed-open total remains 20.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:three-route-rechecks-zerion-form-move",
+      "changed_at": "2026-10-03T08:03:17Z",
+      "summary": "Rechecked Nexo, MiCA Crypto Alliance and Zerion with no status change. Zerion’s issuer-linked hosted form displays a move notice; acceptance at the destination was not inspectable. The confirmed-open count remains 20.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }
