@@ -851,6 +851,36 @@
       "accessed_at": "2026-10-03T08:03:17Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:elk-route-20261004",
+      "source_type": "issuer program page",
+      "source_url": "https://elk.finance/become-an-ambassador/",
+      "title": "Elk ambassador program",
+      "claim": "Elk still links an application and describes a volunteer apprentice trial without a stated duration or post-trial cash amount.",
+      "accessed_at": "2026-10-04T08:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:nomis-route-20261004",
+      "source_type": "issuer program documentation",
+      "source_url": "https://docs.nomis.cc/ambassador-program",
+      "title": "Nomis Ambassador Program",
+      "claim": "Nomis still links a sign-up form and states a 30% referral minting-fee share plus a 30% Score-minting discount, without payout unit or timing.",
+      "accessed_at": "2026-10-04T08:08:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:nomis-community-hub-20261004",
+      "source_type": "issuer documentation for a separate program",
+      "source_url": "https://docs.nomis.cc/nomis-community-hub",
+      "title": "Nomis Community Hub",
+      "claim": "A separate Hub describes BD Hunter tasks, a minted Score prerequisite and task payments; these are not stated as ambassador-program compensation.",
+      "accessed_at": "2026-10-04T08:08:00Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

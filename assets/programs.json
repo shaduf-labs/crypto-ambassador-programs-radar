@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-03",
-  "source_run_id": "run:5033f97d-3d68-48af-b119-d2812684da5d",
+  "snapshot_date": "2026-10-04",
+  "source_run_id": "run:e16a4996-3e7d-4e8a-86c7-8ded963f9c93",
   "items": [
     {
       "id": "hedera",
@@ -76,7 +76,7 @@
       "safety": "The official page links a hosted application. Do not assume post-trial benefits are paid compensation.",
       "official_url": "https://elk.finance/become-an-ambassador/",
       "status_label": "Confirmed open",
-      "last_checked": "25 Sep 2026"
+      "last_checked": "4 Oct 2026"
     },
     {
       "id": "nomis",
@@ -91,7 +91,7 @@
       "safety": "This is a contributor role with referral-linked rewards, not a stated wage or stipend.",
       "official_url": "https://docs.nomis.cc/ambassador-program",
       "status_label": "Open, referral-led",
-      "last_checked": "25 Sep 2026"
+      "last_checked": "4 Oct 2026"
     },
     {
       "id": "sogo-ambassador",

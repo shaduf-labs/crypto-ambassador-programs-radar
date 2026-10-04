@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "20 ambassador routes remain confirmed open from their individual checks. Nexo, MiCA Crypto Alliance and Zerion retained their status on 3 Oct. Zerion’s hosted form moved; its destination acceptance was not inspectable. Bit2Me intake and payout terms remain unresolved.",
+  "current_answer": "20 ambassador routes remain confirmed open from their individual checks. Elk and Nomis still invite applications on 4 Oct. Elk's trial is unpaid; Nomis states a referral-fee share but not a payout unit or timing. Hosted-form acceptance was not verified.",
   "catalogue_card": {
-    "question": "Did the older ambassador routes stay open?",
-    "text": "Nexo, MiCA Crypto Alliance and Zerion still show issuer invitations on 3 Oct. Zerion’s form link moved, and acceptance at the new host was not verified. The 20-route count is unchanged."
+    "question": "Are Elk and Nomis still taking ambassador applications?",
+    "text": "Their issuer pages still link applications on 4 Oct. Elk requires an unpaid trial; Nomis states referral-fee rewards without payout unit or timing. Neither hosted form could be checked for submission acceptance."
   },
   "summary": [
-    "Nexo still displays an embedded contact form but publishes no salary amount or jurisdiction list.",
-    "MiCA Crypto Alliance still invites event proposals; €1,000 is stated for organizing each approved event, while its possible €3,000 event budget is not personal pay.",
-    "Zerion still says applications receive rolling review, but its linked Typeform shows a move notice and the new destination could not be inspected."
+    "Elk's official page still links an application, interview and volunteer trial; trial length and post-trial compensation are not stated.",
+    "Nomis still links a sign-up form and states 30% of referral minting fees plus a 30% Score-minting discount; payout unit and timing are not stated.",
+    "The 20-route count is unchanged. Elk and Nomis hosted forms were not inspectable, and other routes retain their own check dates."
   ],
   "uncertainty": [
-    "Zerion’s new hosted form acceptance and fields were not verified; its issuer page still invites rolling applications.",
-    "Bit2Me’s current intake and payout asset remain unresolved.",
-    "Most other confirmed-open routes retain older individual check dates; analytics were unavailable."
+    "Elk and Nomis hosted-form acceptance was not verified; no form was submitted.",
+    "Zerion's moved form and Bit2Me's current intake and payout terms remain unresolved.",
+    "Most other routes retain older individual checks; first-party analytics were unavailable."
   ],
-  "checked_at": "2026-10-03T08:03:17Z",
+  "checked_at": "2026-10-04T08:08:00Z",
   "meaningfully_updated_at": "2026-10-02T08:16:14Z",
-  "freshness_note": "Nexo, MiCA Crypto Alliance and Zerion checked 3 Oct 2026. Other rows retain their individual Last checked dates. Verify issuer terms before sharing data."
+  "freshness_note": "Elk and Nomis issuer pages checked 4 Oct 2026. Other rows retain individual Last checked dates. An issuer link does not prove form acceptance or payout."
 }

@@ -132,6 +132,12 @@
       "changed_at": "2026-10-03T08:03:17Z",
       "summary": "Rechecked Nexo, MiCA Crypto Alliance and Zerion with no status change. Zerion’s issuer-linked hosted form displays a move notice; acceptance at the destination was not inspectable. The confirmed-open count remains 20.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:elk-nomis-route-recheck-20261004",
+      "changed_at": "2026-10-04T08:08:00Z",
+      "summary": "Rechecked Elk and Nomis issuer invitations and their stated terms. Hosted forms were not inspectable for acceptance; the 20-route total is unchanged.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

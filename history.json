@@ -253,6 +253,17 @@
       "summary": "Nexo, MiCA Crypto Alliance and Zerion retain their listed status. Zerion’s hosted form moved to a new host that could not be inspected.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-03-three-route-rechecks-zerion-form-moved",
       "entrypoint": "reports/2026-10-03-three-route-rechecks-zerion-form-moved/index.html"
+    },
+    {
+      "run_id": "run:e16a4996-3e7d-4e8a-86c7-8ded963f9c93",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-04T08:00:00Z",
+      "completed_at": "2026-10-04T08:11:30Z",
+      "title": "Elk and Nomis routes rechecked",
+      "summary": "Elk and Nomis still link ambassador applications, but hosted-form acceptance was not verified; the 20-route total is unchanged.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-04-elk-nomis-routes-rechecked",
+      "entrypoint": "reports/2026-10-04-elk-nomis-routes-rechecked/index.html"
     }
   ]
 }
