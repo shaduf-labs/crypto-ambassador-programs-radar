@@ -881,6 +881,56 @@
       "accessed_at": "2026-10-04T08:08:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-route-20261006",
+      "source_type": "official program page",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "title": "official program page",
+      "claim": "Hedera still links Apply Now and describes developer and community work plus certificates, swag and badges; form acceptance and cash pay were not established.",
+      "accessed_at": "2026-10-06T04:34:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cyfrin-route-20261006",
+      "source_type": "official program page",
+      "source_url": "https://ambassadors.cyfrin.io/",
+      "title": "official program page",
+      "claim": "Cyfrin still links a Typeform, states its application process and non-cash benefits, and warns that response may take longer than its 5–7-business-day target.",
+      "accessed_at": "2026-10-06T04:34:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:polkadot-old-salary-20261006",
+      "source_type": "executed governance referendum",
+      "source_url": "https://polkadot.polkassembly.io/referenda/487",
+      "title": "executed governance referendum",
+      "claim": "The former Head Ambassador tier was assigned 10,000 USDT per month; lower tiers had no regular salary.",
+      "accessed_at": "2026-10-06T04:34:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:polkadot-fellowship-20261006",
+      "source_type": "executed governance referendum",
+      "source_url": "https://polkadot.polkassembly.io/referenda/1267",
+      "title": "executed governance referendum",
+      "claim": "The later Polkadot Ambassador Fellowship is described as uncoupled from salaries.",
+      "accessed_at": "2026-10-06T04:34:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:polkadot-programme-update-20261006",
+      "source_type": "programme forum update",
+      "source_url": "https://forum.polkadot.network/t/transition-to-the-on-chain-collective-next-steps-for-the-ambassador-fellowship/13686",
+      "title": "programme forum update",
+      "claim": "A July 2025 programme update says the Fellowship ambassador role is recognition- and reputation-based, not salaried.",
+      "accessed_at": "2026-10-06T04:34:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

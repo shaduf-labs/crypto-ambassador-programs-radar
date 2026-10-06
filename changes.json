@@ -138,6 +138,12 @@
       "changed_at": "2026-10-04T08:08:00Z",
       "summary": "Rechecked Elk and Nomis issuer invitations and their stated terms. Hosted forms were not inspectable for acceptance; the 20-route total is unchanged.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:polkadot-old-salary-held-out-20261006",
+      "changed_at": "2026-10-06T04:34:30Z",
+      "summary": "Held Polkadot Fellowship outside the open count: 10,000 USDT monthly was a former Head Ambassador term; its executed successor is uncoupled from salaries and current intake was not verified. Rechecked Hedera and Cyfrin routes; the 20 open-row count is unchanged.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

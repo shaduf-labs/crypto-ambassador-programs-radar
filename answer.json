@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "20 ambassador routes remain confirmed open from their individual checks. Elk and Nomis still invite applications on 4 Oct. Elk's trial is unpaid; Nomis states a referral-fee share but not a payout unit or timing. Hosted-form acceptance was not verified.",
+  "current_answer": "20 ambassador routes remain confirmed open from individual checks. Hedera and Cyfrin still link applications on 6 Oct, but their hosted forms were not verified for acceptance. Polkadot’s 10,000 USDT Head Ambassador salary belongs to an earlier programme; its successor is uncoupled from salaries and current intake was not verified.",
   "catalogue_card": {
-    "question": "Are Elk and Nomis still taking ambassador applications?",
-    "text": "Their issuer pages still link applications on 4 Oct. Elk requires an unpaid trial; Nomis states referral-fee rewards without payout unit or timing. Neither hosted form could be checked for submission acceptance."
+    "question": "Is Polkadot’s 10,000 USDT ambassador pay a current opening?",
+    "text": "No current offer was verified. The 10,000 USDT figure belonged to an earlier Head Ambassador tier; the executed successor separates rank from salary. Hedera and Cyfrin still link forms, but acceptance was not checked."
   },
   "summary": [
-    "Elk's official page still links an application, interview and volunteer trial; trial length and post-trial compensation are not stated.",
-    "Nomis still links a sign-up form and states 30% of referral minting fees plus a 30% Score-minting discount; payout unit and timing are not stated.",
-    "The 20-route count is unchanged. Elk and Nomis hosted forms were not inspectable, and other routes retain their own check dates."
+    "The former Polkadot programme paid only Head Ambassadors 10,000 USDT monthly. The later Fellowship says it is uncoupled from salaries; a 2025 programme update calls the role not salaried.",
+    "No current public Polkadot Fellowship intake or paid role was verified from the inspected sources; it is not added to the open count.",
+    "Hedera and Cyfrin still show issuer-linked application routes on 6 Oct. Cyfrin warns that high request volume may delay its stated 5–7-business-day reply."
   ],
   "uncertainty": [
-    "Elk and Nomis hosted-form acceptance was not verified; no form was submitted.",
-    "Zerion's moved form and Bit2Me's current intake and payout terms remain unresolved.",
-    "Most other routes retain older individual checks; first-party analytics were unavailable."
+    "Polkadot current joining route, intake window and any separate paid role are unverified.",
+    "Hedera and Cyfrin hosted-form acceptance and actual selection or payout were not verified.",
+    "The other 18 open routes retain individual check dates; first-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-04T08:08:00Z",
-  "meaningfully_updated_at": "2026-10-02T08:16:14Z",
-  "freshness_note": "Elk and Nomis issuer pages checked 4 Oct 2026. Other rows retain individual Last checked dates. An issuer link does not prove form acceptance or payout."
+  "checked_at": "2026-10-06T04:34:30Z",
+  "meaningfully_updated_at": "2026-10-06T04:34:30Z",
+  "freshness_note": "Polkadot governance records and Hedera/Cyfrin issuer pages checked 6 Oct 2026. Other rows retain individual Last checked dates. The old Polkadot pay figure is not a current opening."
 }

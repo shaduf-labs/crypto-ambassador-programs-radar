@@ -264,6 +264,17 @@
       "summary": "Elk and Nomis still link ambassador applications, but hosted-form acceptance was not verified; the 20-route total is unchanged.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-04-elk-nomis-routes-rechecked",
       "entrypoint": "reports/2026-10-04-elk-nomis-routes-rechecked/index.html"
+    },
+    {
+      "run_id": "run:manual:e208398f5341fd9275626e1a643ee91f",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-06T04:30:00.893Z",
+      "completed_at": "2026-10-06T04:38:15Z",
+      "title": "Polkadot’s old salary is not a current offer",
+      "summary": "A current roundup repeats a former 10,000 USDT Head Ambassador term; the successor Fellowship is not salaried by rank. Current intake was not verified; Hedera and Cyfrin were rechecked.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-06-polkadot-old-salary-not-current-route",
+      "entrypoint": "reports/2026-10-06-polkadot-old-salary-not-current-route/index.html"
     }
   ]
 }
