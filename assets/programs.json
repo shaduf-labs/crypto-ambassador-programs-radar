@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "snapshot_date": "2026-10-06",
-  "source_run_id": "run:manual:e208398f5341fd9275626e1a643ee91f",
+  "source_run_id": "run:3f03cdb7-2b9b-4609-b69f-54107cee582b",
   "items": [
     {
       "id": "hedera",
@@ -521,13 +521,13 @@
       "fit": "Active Cardano contributors able to show sustained content, events, education, moderation, development or translation work. Country and language eligibility are not specified in the forum guide.",
       "work": "Contribute first, record evidence of impact, then express interest in the ambassador program.",
       "deadline": "No dated current application window published in the inspected issuer pages.",
-      "reward": "Recognition, access, support and possible Impact Pot funding for community projects; no individual amount or current award rule stated.",
-      "selection": "The issuer guide calls for proven contributions and links an interest form; a current intake or selection timetable is not stated.",
+      "reward": "Recognition and possible Impact Pot funding for ambassador-proposed projects. The Foundation reported US$10,000 for eight proposals involving ten ambassadors in August 2026; this is not new-applicant pay. No individual amount or current award rule is stated.",
+      "selection": "The issuer guide asks contributors to show proven work and links an interest form. A September call welcomed new members, but no dated current public intake or selection timetable was found.",
       "people": "A Cardano Forum commenter on 13 Apr 2026 said regional impact may mean consistent grassroots education rather than large engagement counts. This is one perspective, not selection policy.",
       "safety": "The issuer-linked Typeform response could not be inspected. Check its fields and current intake before sharing personal details or contribution evidence.",
       "official_url": "https://forum.cardano.org/t/cardano-ambassadors-roles-and-responsibilities/154055",
       "status_label": "Not confirmed: interest form, no dated intake",
-      "last_checked": "29 Sep 2026"
+      "last_checked": "6 Oct 2026"
     },
     {
       "id": "aptos-collective",

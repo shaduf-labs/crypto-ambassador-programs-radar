@@ -931,6 +931,56 @@
       "accessed_at": "2026-10-06T04:34:30Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cardano-hub-20261006",
+      "source_type": "official program hub",
+      "source_url": "https://cardano.org/ambassadors/",
+      "title": "Cardano Ambassadors hub",
+      "claim": "The hub shows current ambassadors and links to a forum guide, but does not itself date a public intake.",
+      "accessed_at": "2026-10-06T08:09:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cardano-forum-20261006",
+      "source_type": "official program forum guide",
+      "source_url": "https://forum.cardano.org/t/cardano-ambassadors-roles-and-responsibilities/154055",
+      "title": "Cardano Ambassador roles and responsibilities",
+      "claim": "The guide asks contributors to show work, links an interest form and defines the Impact Pot as funding for ambassador-proposed projects.",
+      "accessed_at": "2026-10-06T08:09:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cardano-august-update-20261006",
+      "source_type": "official Foundation update",
+      "source_url": "https://cardanofoundation.org/blog/august-2026-activities",
+      "title": "Cardano Foundation August 2026 update",
+      "claim": "The Foundation reports US$10,000 across eight Impact Pot proposals involving ten ambassadors.",
+      "accessed_at": "2026-10-06T08:09:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cardano-september-call-20261006",
+      "source_type": "official community call recap",
+      "source_url": "https://forum.cardano.org/t/public-september-2026-ambassador-call-recap-amaru-rust-node-45b-enablement-9th-anniversary/157018",
+      "title": "September 2026 Ambassador call recap",
+      "claim": "The recap welcomes four new ambassadors, showing programme activity but not a public October intake.",
+      "accessed_at": "2026-10-06T08:09:03Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:solana-jobs-board-20261006",
+      "source_type": "ecosystem job board",
+      "source_url": "https://jobs.solana.com/jobs",
+      "title": "Solana Network jobs board",
+      "claim": "The board lists an Orca community-support job with a USD 10k–20k per year range; vacancy and actual pay were not independently verified.",
+      "accessed_at": "2026-10-06T08:09:03Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

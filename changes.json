@@ -144,6 +144,12 @@
       "changed_at": "2026-10-06T04:34:30Z",
       "summary": "Held Polkadot Fellowship outside the open count: 10,000 USDT monthly was a former Head Ambassador term; its executed successor is uncoupled from salaries and current intake was not verified. Rechecked Hedera and Cyfrin routes; the 20 open-row count is unchanged.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:cardano-impact-pot-not-applicant-pay-20261006",
+      "changed_at": "2026-10-06T08:09:03Z",
+      "summary": "Clarified that Cardano’s reported US$10,000 Impact Pot financed eight ambassador project proposals involving ten existing ambassadors, not a stated payment to a new applicant. Its interest form still lacks a dated current intake; the 20 open-route count is unchanged.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

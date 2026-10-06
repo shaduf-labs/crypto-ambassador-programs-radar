@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "20 ambassador routes remain confirmed open from individual checks. Hedera and Cyfrin still link applications on 6 Oct, but their hosted forms were not verified for acceptance. Polkadot’s 10,000 USDT Head Ambassador salary belongs to an earlier programme; its successor is uncoupled from salaries and current intake was not verified.",
+  "current_answer": "20 ambassador routes remain confirmed open from individual checks. Cardano is not one of them: its hub links an interest form, not a dated current intake. The Foundation reported US$10,000 across eight Impact Pot project proposals involving ten ambassadors in August 2026; that is not a stated award for a new applicant.",
   "catalogue_card": {
-    "question": "Is Polkadot’s 10,000 USDT ambassador pay a current opening?",
-    "text": "No current offer was verified. The 10,000 USDT figure belonged to an earlier Head Ambassador tier; the executed successor separates rank from salary. Hedera and Cyfrin still link forms, but acceptance was not checked."
+    "question": "Does Cardano’s US$10,000 ambassador fund pay new applicants?",
+    "text": "No entrant payment is stated. The Foundation says US$10,000 funded eight ambassador project proposals involving ten existing ambassadors. Its hub still has no dated current public intake; the 20 checked open routes are unchanged."
   },
   "summary": [
-    "The former Polkadot programme paid only Head Ambassadors 10,000 USDT monthly. The later Fellowship says it is uncoupled from salaries; a 2025 programme update calls the role not salaried.",
-    "No current public Polkadot Fellowship intake or paid role was verified from the inspected sources; it is not added to the open count.",
-    "Hedera and Cyfrin still show issuer-linked application routes on 6 Oct. Cyfrin warns that high request volume may delay its stated 5–7-business-day reply."
+    "Cardano’s August Impact Pot report describes project funding, not a salary or automatic payment to a new ambassador.",
+    "The Cardano hub and forum still link an interest form; a September call welcomed new ambassadors but did not announce a current public application window.",
+    "The 20 confirmed-open routes retain their individual check dates. Polkadot’s former Head Ambassador salary is still not a verified current offer."
   ],
   "uncertainty": [
-    "Polkadot current joining route, intake window and any separate paid role are unverified.",
-    "Hedera and Cyfrin hosted-form acceptance and actual selection or payout were not verified.",
-    "The other 18 open routes retain individual check dates; first-party analytics are unavailable."
+    "Cardano interest-form acceptance, next selection window, individual award rule and amount remain unverified.",
+    "Other open routes retain their individual check dates; issuer invitations do not prove selection or payout.",
+    "First-party pool analytics remain unavailable."
   ],
-  "checked_at": "2026-10-06T04:34:30Z",
-  "meaningfully_updated_at": "2026-10-06T04:34:30Z",
-  "freshness_note": "Polkadot governance records and Hedera/Cyfrin issuer pages checked 6 Oct 2026. Other rows retain individual Last checked dates. The old Polkadot pay figure is not a current opening."
+  "checked_at": "2026-10-06T08:09:03Z",
+  "meaningfully_updated_at": "2026-10-06T08:09:03Z",
+  "freshness_note": "Cardano hub, forum, Foundation August update and September call checked 6 Oct 2026. Other program rows retain their Last checked dates. The 20-route count did not change."
 }

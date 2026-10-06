@@ -275,6 +275,17 @@
       "summary": "A current roundup repeats a former 10,000 USDT Head Ambassador term; the successor Fellowship is not salaried by rank. Current intake was not verified; Hedera and Cyfrin were rechecked.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-06-polkadot-old-salary-not-current-route",
       "entrypoint": "reports/2026-10-06-polkadot-old-salary-not-current-route/index.html"
+    },
+    {
+      "run_id": "run:3f03cdb7-2b9b-4609-b69f-54107cee582b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-06T08:00:00Z",
+      "completed_at": "2026-10-06T08:11:23Z",
+      "title": "Cardano project fund is not entrant pay",
+      "summary": "Cardano reported US$10,000 across eight approved ambassador projects, not a personal award for a new applicant; current public intake remains unverified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-06-cardano-fund-not-applicant-pay",
+      "entrypoint": "reports/2026-10-06-cardano-fund-not-applicant-pay/index.html"
     }
   ]
 }
