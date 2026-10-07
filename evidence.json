@@ -981,6 +981,46 @@
       "accessed_at": "2026-10-06T08:09:03Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stellar-official-intake-20261007",
+      "source_type": "official program documentation",
+      "source_url": "https://stellar.gitbook.io/ambassador-program/get-involved/become-an-ambassador",
+      "title": "Become an Ambassador",
+      "claim": "Links a program-wide Airtable intake, describes chapter email follow-up and voluntary weekly meetings, events and content.",
+      "accessed_at": "2026-10-07T08:03:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stellar-partner-recheck-20261007",
+      "source_type": "issuer-partner page",
+      "source_url": "https://www.risein.com/stellar-ambassadors",
+      "title": "Stellar Ambassadors",
+      "claim": "Says applications and selection are ongoing, with proof of work and trial; individual salary and award rule not stated.",
+      "accessed_at": "2026-10-07T08:03:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stellar-airtable-shell-20261007",
+      "source_type": "officially linked hosted form",
+      "source_url": "https://airtable.com/appWdW69QmA0v16SM/pagLIW9lbEHzkWU4V/form",
+      "title": "Stellar program-wide intake form",
+      "claim": "Only a shell was accessible; fields and submission acceptance could not be inspected.",
+      "accessed_at": "2026-10-07T08:03:56Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-recheck-20261007",
+      "source_type": "official program page",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "title": "Hedera Ambassador Program",
+      "claim": "Still links Apply Now and lists certificate, swag and badge benefits without a cash amount.",
+      "accessed_at": "2026-10-07T08:03:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

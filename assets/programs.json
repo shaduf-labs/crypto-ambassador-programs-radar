@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-06",
-  "source_run_id": "run:3f03cdb7-2b9b-4609-b69f-54107cee582b",
+  "snapshot_date": "2026-10-07",
+  "source_run_id": "run:a2f166d8-2cef-46e7-90d7-b0850e098988",
   "items": [
     {
       "id": "hedera",
@@ -16,7 +16,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "6 Oct 2026"
+      "last_checked": "7 Oct 2026"
     },
     {
       "id": "cyfrin",
@@ -383,15 +383,15 @@
       "status": "confirmed_open",
       "project": "Stellar Ambassadors",
       "fit": "Builders, educators, organizers and contributors seeking a local Stellar chapter. Official docs say chapters are country-focused; Rise In currently presents routes in Türkiye, India, Indonesia, Vietnam and the Philippines.",
-      "work": "Join a local chapter to organize activations, developer engagement, education, referrals or community building. Rise In presents Builder, Catalyst and Voice tracks.",
+      "work": "Join a country-focused chapter for developer support, events, education or content. Official docs describe weekly Discord meetings and voluntary event and content work; Rise In names Builder, Catalyst and Voice tracks.",
       "deadline": "No deadline published. The page says applications are open and selection is ongoing.",
       "reward": "Recognition, direct access and possible ecosystem pathways. Rise In names possible funding paths, creator rewards and top-performer event sponsorship; no individual cash amount or award rule is stated.",
-      "selection": "Official Stellar docs direct people to a regional chapter and intake form. Rise In says selection is ongoing, proof of work is required and a trial applies.",
+      "selection": "The official program-wide form says applicants receive an email with chapter next steps. Rise In says selection is ongoing, proof of work is required and a trial applies; exact review and acceptance are not verified.",
       "people": "No recent independent report found.",
-      "safety": "Start at Stellar’s official Ambassador docs or the Rise In partner page. The Rise In-linked Google Form returned an authorization response in this check, so read its live fields and terms before sharing data.",
-      "official_url": "https://www.risein.com/stellar-ambassadors",
+      "safety": "Start at Stellar’s official handbook. Its Airtable form showed only a shell here, and Rise In’s separate Google Form returned an authorization response; inspect the live fields and terms before sharing data.",
+      "official_url": "https://stellar.gitbook.io/ambassador-program/get-involved/become-an-ambassador",
       "status_label": "Confirmed open; country-focused chapters",
-      "last_checked": "20 Sep 2026"
+      "last_checked": "7 Oct 2026"
     },
     {
       "id": "midnight-nightforce",

@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "20 ambassador routes remain confirmed open from individual checks. Cardano is not one of them: its hub links an interest form, not a dated current intake. The Foundation reported US$10,000 across eight Impact Pot project proposals involving ten ambassadors in August 2026; that is not a stated award for a new applicant.",
+  "current_answer": "20 ambassador routes remain issuer-linked and open by their individual checks. Stellar’s official handbook now points to a program-wide intake and describes weekly meetings, events and content as voluntary commitments; the linked form’s fields and acceptance could not be inspected. No individual cash pay or award rule is stated.",
   "catalogue_card": {
-    "question": "Does Cardano’s US$10,000 ambassador fund pay new applicants?",
-    "text": "No entrant payment is stated. The Foundation says US$10,000 funded eight ambassador project proposals involving ten existing ambassadors. Its hub still has no dated current public intake; the 20 checked open routes are unchanged."
+    "question": "Is Stellar’s ambassador intake open, and what does it pay?",
+    "text": "Stellar’s official handbook links a program-wide intake and weekly community duties. Rise In says selection is ongoing. No individual cash amount or award rule is stated, and we could not inspect form acceptance. The 20 open-route count is unchanged."
   },
   "summary": [
-    "Cardano’s August Impact Pot report describes project funding, not a salary or automatic payment to a new ambassador.",
-    "The Cardano hub and forum still link an interest form; a September call welcomed new ambassadors but did not announce a current public application window.",
-    "The 20 confirmed-open routes retain their individual check dates. Polkadot’s former Head Ambassador salary is still not a verified current offer."
+    "Stellar’s official enrollment guide now supplies a program-wide route and says applicants receive chapter follow-up by email.",
+    "The handbook describes weekly Discord meetings, events and content as voluntary commitments; Rise In also requires proof of work and a trial.",
+    "Individual pay, award rules and both forms’ submission states remain unverified. Hedera’s official form link is still visible."
   ],
   "uncertainty": [
-    "Cardano interest-form acceptance, next selection window, individual award rule and amount remain unverified.",
-    "Other open routes retain their individual check dates; issuer invitations do not prove selection or payout.",
-    "First-party pool analytics remain unavailable."
+    "The Stellar Airtable form exposed only a shell; its fields and submission acceptance were not inspectable.",
+    "Stellar’s weekly meeting commitment is published, but full hours, individual pay and conditional award rules remain unverified.",
+    "Other open routes keep their individual check dates; issuer pages do not prove selection or payout. First-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-06T08:09:03Z",
-  "meaningfully_updated_at": "2026-10-06T08:09:03Z",
-  "freshness_note": "Cardano hub, forum, Foundation August update and September call checked 6 Oct 2026. Other program rows retain their Last checked dates. The 20-route count did not change."
+  "checked_at": "2026-10-07T08:03:56Z",
+  "meaningfully_updated_at": "2026-10-07T08:03:56Z",
+  "freshness_note": "Stellar official handbook, Rise In partner page, linked Airtable shell and Hedera page checked 7 Oct 2026. Other routes retain their own Last checked dates; the 20-route count did not change."
 }

@@ -286,6 +286,17 @@
       "summary": "Cardano reported US$10,000 across eight approved ambassador projects, not a personal award for a new applicant; current public intake remains unverified.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-06-cardano-fund-not-applicant-pay",
       "entrypoint": "reports/2026-10-06-cardano-fund-not-applicant-pay/index.html"
+    },
+    {
+      "run_id": "run:a2f166d8-2cef-46e7-90d7-b0850e098988",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-07T08:00:00Z",
+      "completed_at": "2026-10-07T08:06:23Z",
+      "title": "Stellar official intake and weekly duties",
+      "summary": "The issuer handbook links a program-wide form and specifies recurring community work; actual form acceptance and individual pay remain unverified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-07-stellar-intake-weekly-work-pay-unstated",
+      "entrypoint": "reports/2026-10-07-stellar-intake-weekly-work-pay-unstated/index.html"
     }
   ]
 }
