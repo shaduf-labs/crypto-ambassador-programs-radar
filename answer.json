@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "21 issuer-linked ambassador routes meet the open-row standard by their individual checks. Tangem now publishes an Apply link and an official open-applications announcement. It asks for content, events and onboarding, but gives no ambassador commission rate or fixed pay; its hosted form’s acceptance could not be inspected.",
+  "current_answer": "21 issuer-linked routes remain in the open table by their individual check dates. ChainGPT’s Buzz page describes automatic activity tiers and a separate invitation-only Council, but publishes no current Council application batch on the inspected page. It is not a confirmed open application. Tangem still links an Apply form; its enhanced commission rate and form acceptance remain unverified.",
   "catalogue_card": {
-    "question": "Tangem applications: what does increased commission pay?",
-    "text": "Tangem links an ambassador application and asks for content, events and onboarding. It advertises an increased referral commission but gives no ambassador rate or fixed pay. The hosted form’s acceptance was not inspectable. The open-route table now has 21 rows."
+    "question": "Is ChainGPT’s Buzz Council taking applications now?",
+    "text": "ChainGPT lists activity-based ambassador tiers, but its selective Council opens applications only in batches. The inspected issuer page gives no current batch or form. The open-route table remains at 21 issuer-linked invitations; Tangem’s enhanced commission rate is still unstated."
   },
   "summary": [
-    "Tangem’s issuer page links an Apply form and an official announcement says applications are open.",
-    "The role combines education and community work with product referrals; its enhanced commission rate and any fixed pay are not stated.",
-    "The hosted form showed no inspectable fields or acceptance state. The ordinary 5 USDT referral offer is not evidence of ambassador pay."
+    "ChainGPT’s first four Buzz ambassador tiers use activity and score, not a public application.",
+    "Its separate invitation-only Buzz Council says applications open in limited batches, but no current batch or form was verified on the inspected page.",
+    "Tangem still links Apply, but its enhanced commission rate and hosted form acceptance remain unverified. The open-row count remains 21."
   ],
   "uncertainty": [
-    "Tangem’s Typeform displayed no inspectable fields or submission state.",
-    "Tangem does not state its ambassador commission rate, qualifying-sale rules, selection process or fixed pay. Its ordinary referral rate is not the ambassador rate.",
-    "Other open routes retain their individual check dates; issuer invitations do not prove selection or payment. First-party analytics are unavailable."
+    "No current ChainGPT Buzz Council batch announcement or application form was verified; the issuer may announce one separately.",
+    "Tangem’s Typeform did not expose inspectable fields or a submission state. Its ambassador commission rate and fixed pay are unstated.",
+    "Other open routes retain their individual check dates. Issuer pages do not establish selection, actual payment or applicant outcomes; first-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-08T08:06:28Z",
-  "meaningfully_updated_at": "2026-10-08T08:06:28Z",
-  "freshness_note": "Tangem’s official ambassador page, announcement, Typeform shell and ordinary referral help checked 8 Oct 2026. Other routes retain their own Last checked dates."
+  "checked_at": "2026-10-09T08:05:30Z",
+  "meaningfully_updated_at": "2026-10-09T08:05:30Z",
+  "freshness_note": "ChainGPT official program documentation and Tangem route checked 9 Oct 2026. Other rows retain their individual Last checked dates."
 }

@@ -308,6 +308,17 @@
       "summary": "Tangem publishes an Apply route and open-applications announcement, but no enhanced ambassador rate, fixed pay or inspectable form acceptance. The open-row count rises to 21.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-08-tangem-open-commission-rate-unstated",
       "entrypoint": "reports/2026-10-08-tangem-open-commission-rate-unstated/index.html"
+    },
+    {
+      "run_id": "run:d1f43b58-6962-4f9e-805c-0cf8d66298c5",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-09T08:00:00Z",
+      "completed_at": "2026-10-09T08:07:28Z",
+      "title": "ChainGPT Council intake unverified",
+      "summary": "Automatic Buzz tiers are not a formal open application; Council applications use limited batches, with no current batch verified. Tangem still links Apply. The open-row count remains 21.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-09-chaingpt-council-batch-unverified",
+      "entrypoint": "reports/2026-10-09-chaingpt-council-batch-unverified/index.html"
     }
   ]
 }

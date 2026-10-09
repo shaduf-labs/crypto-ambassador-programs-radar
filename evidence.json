@@ -1061,6 +1061,36 @@
       "accessed_at": "2026-10-08T08:06:28Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:chaingpt-program-docs-20261009",
+      "source_type": "official program documentation",
+      "source_url": "https://docs.chaingpt.org/our-ecosystem/buzz-by-chaingpt/ambassador-program",
+      "title": "ChainGPT Buzz Ambassador Program",
+      "claim": "Automatic Buzz tiers are separate from an invitation-only Council whose formal applications open in limited batches; no current batch or form is stated on this page.",
+      "accessed_at": "2026-10-09T08:05:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:tangem-page-recheck-20261009",
+      "source_type": "official ambassador page",
+      "source_url": "https://tangem.com/en-GB/ambassadors/",
+      "title": "Tangem Ambassadors",
+      "claim": "The issuer page still links Apply and advertises increased referral commission without an ambassador rate.",
+      "accessed_at": "2026-10-09T08:05:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:tangem-form-recheck-20261009",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://tangem.typeform.com/Ambassador",
+      "title": "Tangem Ambassador Application Form",
+      "claim": "The inspection surface did not expose fields or submission acceptance.",
+      "accessed_at": "2026-10-09T08:05:30Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

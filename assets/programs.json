@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-08",
-  "source_run_id": "run:f881ebd4-b23c-4cc2-b5fc-a9728bbc09c0",
+  "snapshot_date": "2026-10-09",
+  "source_run_id": "run:d1f43b58-6962-4f9e-805c-0cf8d66298c5",
   "items": [
     {
       "id": "tangem",
@@ -16,7 +16,7 @@
       "safety": "The issuer-linked Typeform exposed no inspectable fields or submission state. Open it from Tangem’s official page; do not assume the ordinary referral rate is the ambassador rate.",
       "official_url": "https://tangem.com/en-GB/ambassadors/",
       "status_label": "Confirmed open; referral-linked reward",
-      "last_checked": "8 Oct 2026"
+      "last_checked": "9 Oct 2026"
     },
     {
       "id": "hedera",
@@ -588,6 +588,21 @@
       "official_url": "https://polkadot.polkassembly.io/referenda/1267",
       "status_label": "Not confirmed: old salary is not a current offer",
       "last_checked": "6 Oct 2026"
+    },
+    {
+      "id": "chaingpt-buzz-council",
+      "status": "not_confirmed",
+      "project": "ChainGPT Buzz Council",
+      "fit": "Creators interested in AI and crypto who can make original educational content. Core Buzz tiers list smart-follower and, at higher levels, total-follower thresholds. Council selection criteria are qualitative and seats are limited.",
+      "work": "Make explainers, tutorials, videos or community sessions; use products and complete campaigns for automatic Buzz tier progression. Council work and participation terms for a current batch were not verified.",
+      "deadline": "No current Council application batch or closing date published on the inspected page.",
+      "reward": "Core tiers receive badges and Buzz Points multipliers of 1.00× to 1.30×. Council perks include a 1.50× points boost, recognition and possible access. No personal cash amount is stated.",
+      "selection": "Core tiers are activity-based. Council is invitation-only and says formal applications open in limited batches; no current form or batch was verified.",
+      "people": "No recent independent Council applicant or payout report found.",
+      "safety": "Do not mistake points multipliers or a badge for cash pay. Wait for a dated issuer batch and inspect its form before submitting identity or social details.",
+      "official_url": "https://docs.chaingpt.org/our-ecosystem/buzz-by-chaingpt/ambassador-program",
+      "status_label": "Not confirmed: Council batch not published",
+      "last_checked": "9 Oct 2026"
     }
   ]
 }
