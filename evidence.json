@@ -1021,6 +1021,46 @@
       "accessed_at": "2026-10-07T08:03:56Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:tangem-landing-20261008",
+      "source_type": "official program page",
+      "source_url": "https://tangem.com/en-GB/ambassadors/",
+      "title": "Tangem Ambassadors",
+      "claim": "Official Apply link, tasks and perks; no rate or fixed pay.",
+      "accessed_at": "2026-10-08T08:06:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:tangem-announcement-20261008",
+      "source_type": "official announcement",
+      "source_url": "https://www.linkedin.com/posts/tangem_tangem-ambassador-program-applications-are-activity-7478846386067742720-jyjK",
+      "title": "Tangem open-applications announcement",
+      "claim": "Says applications are open and a large audience is not required.",
+      "accessed_at": "2026-10-08T08:06:28Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:tangem-form-shell-20261008",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://tangem.typeform.com/Ambassador",
+      "title": "Tangem Ambassador Application Form",
+      "claim": "Only a shell was inspectable; fields and acceptance are unknown.",
+      "accessed_at": "2026-10-08T08:06:28Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:tangem-ordinary-referral-20261008",
+      "source_type": "official referral help",
+      "source_url": "https://tangem.com/en-GB/help-center/referral-program/",
+      "title": "Tangem Referral Program",
+      "claim": "Ordinary referrals state 5 USDT per qualifying wallet purchase after 30 days; this is not the ambassador rate.",
+      "accessed_at": "2026-10-08T08:06:28Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

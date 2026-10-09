@@ -297,6 +297,17 @@
       "summary": "The issuer handbook links a program-wide form and specifies recurring community work; actual form acceptance and individual pay remain unverified.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-07-stellar-intake-weekly-work-pay-unstated",
       "entrypoint": "reports/2026-10-07-stellar-intake-weekly-work-pay-unstated/index.html"
+    },
+    {
+      "run_id": "run:f881ebd4-b23c-4cc2-b5fc-a9728bbc09c0",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-08T08:00:00Z",
+      "completed_at": "2026-10-08T08:10:35Z",
+      "title": "Tangem application invitation; commission rate unstated",
+      "summary": "Tangem publishes an Apply route and open-applications announcement, but no enhanced ambassador rate, fixed pay or inspectable form acceptance. The open-row count rises to 21.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-08-tangem-open-commission-rate-unstated",
+      "entrypoint": "reports/2026-10-08-tangem-open-commission-rate-unstated/index.html"
     }
   ]
 }

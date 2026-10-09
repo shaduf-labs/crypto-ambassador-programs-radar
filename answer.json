@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "20 ambassador routes remain issuer-linked and open by their individual checks. Stellar’s official handbook now points to a program-wide intake and describes weekly meetings, events and content as voluntary commitments; the linked form’s fields and acceptance could not be inspected. No individual cash pay or award rule is stated.",
+  "current_answer": "21 issuer-linked ambassador routes meet the open-row standard by their individual checks. Tangem now publishes an Apply link and an official open-applications announcement. It asks for content, events and onboarding, but gives no ambassador commission rate or fixed pay; its hosted form’s acceptance could not be inspected.",
   "catalogue_card": {
-    "question": "Is Stellar’s ambassador intake open, and what does it pay?",
-    "text": "Stellar’s official handbook links a program-wide intake and weekly community duties. Rise In says selection is ongoing. No individual cash amount or award rule is stated, and we could not inspect form acceptance. The 20 open-route count is unchanged."
+    "question": "Tangem applications: what does increased commission pay?",
+    "text": "Tangem links an ambassador application and asks for content, events and onboarding. It advertises an increased referral commission but gives no ambassador rate or fixed pay. The hosted form’s acceptance was not inspectable. The open-route table now has 21 rows."
   },
   "summary": [
-    "Stellar’s official enrollment guide now supplies a program-wide route and says applicants receive chapter follow-up by email.",
-    "The handbook describes weekly Discord meetings, events and content as voluntary commitments; Rise In also requires proof of work and a trial.",
-    "Individual pay, award rules and both forms’ submission states remain unverified. Hedera’s official form link is still visible."
+    "Tangem’s issuer page links an Apply form and an official announcement says applications are open.",
+    "The role combines education and community work with product referrals; its enhanced commission rate and any fixed pay are not stated.",
+    "The hosted form showed no inspectable fields or acceptance state. The ordinary 5 USDT referral offer is not evidence of ambassador pay."
   ],
   "uncertainty": [
-    "The Stellar Airtable form exposed only a shell; its fields and submission acceptance were not inspectable.",
-    "Stellar’s weekly meeting commitment is published, but full hours, individual pay and conditional award rules remain unverified.",
-    "Other open routes keep their individual check dates; issuer pages do not prove selection or payout. First-party analytics are unavailable."
+    "Tangem’s Typeform displayed no inspectable fields or submission state.",
+    "Tangem does not state its ambassador commission rate, qualifying-sale rules, selection process or fixed pay. Its ordinary referral rate is not the ambassador rate.",
+    "Other open routes retain their individual check dates; issuer invitations do not prove selection or payment. First-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-07T08:03:56Z",
-  "meaningfully_updated_at": "2026-10-07T08:03:56Z",
-  "freshness_note": "Stellar official handbook, Rise In partner page, linked Airtable shell and Hedera page checked 7 Oct 2026. Other routes retain their own Last checked dates; the 20-route count did not change."
+  "checked_at": "2026-10-08T08:06:28Z",
+  "meaningfully_updated_at": "2026-10-08T08:06:28Z",
+  "freshness_note": "Tangem’s official ambassador page, announcement, Typeform shell and ordinary referral help checked 8 Oct 2026. Other routes retain their own Last checked dates."
 }

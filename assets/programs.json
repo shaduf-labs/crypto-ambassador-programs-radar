@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-07",
-  "source_run_id": "run:a2f166d8-2cef-46e7-90d7-b0850e098988",
+  "snapshot_date": "2026-10-08",
+  "source_run_id": "run:f881ebd4-b23c-4cc2-b5fc-a9728bbc09c0",
   "items": [
+    {
+      "id": "tangem",
+      "status": "confirmed_open",
+      "project": "Tangem",
+      "fit": "Communicators, creators, educators and local community builders. The official announcement says a large audience is not required; country limits were not stated.",
+      "work": "Make content, host workshops or meetups, help users onboard, answer questions, give local feedback and promote Tangem products.",
+      "deadline": "No deadline published. Tangem says applications are open.",
+      "reward": "Customized Tangem wallet, increased referral commission, visibility and possible event sponsorship. Ambassador commission rate, sales conditions and any fixed pay are not stated.",
+      "selection": "Official Apply link opens a Typeform; review criteria and response time are not stated.",
+      "people": "No recent independent participant pay report found. One commenter on Tangem’s announcement said they applied; that does not establish selection.",
+      "safety": "The issuer-linked Typeform exposed no inspectable fields or submission state. Open it from Tangem’s official page; do not assume the ordinary referral rate is the ambassador rate.",
+      "official_url": "https://tangem.com/en-GB/ambassadors/",
+      "status_label": "Confirmed open; referral-linked reward",
+      "last_checked": "8 Oct 2026"
+    },
     {
       "id": "hedera",
       "status": "confirmed_open",
