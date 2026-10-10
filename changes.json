@@ -168,6 +168,12 @@
       "changed_at": "2026-10-09T08:05:30Z",
       "summary": "Added ChainGPT Buzz Council as a held-out lead, not an open application: the issuer documents automatic activity tiers and a separate limited-batch Council without a current batch or form on the inspected page. Tangem invitation remains visible; open-row count stays 21.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:hedera-cyfrin-routes-rechecked-20261010",
+      "changed_at": "2026-10-10T08:04:44.312Z",
+      "summary": "Rechecked Hedera and Cyfrin invitations; neither hosted form exposed a confirmable submission state. No open-route count change.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

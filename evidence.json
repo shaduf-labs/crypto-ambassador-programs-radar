@@ -1091,6 +1091,46 @@
       "accessed_at": "2026-10-09T08:05:30Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-page-20261010",
+      "source_type": "official program page",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "title": "Hedera Ambassador Program",
+      "claim": "The issuer still links Apply Now and lists non-cash benefits; no deadline or cash amount appears.",
+      "accessed_at": "2026-10-10T08:04:44.312Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-form-20261010",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://forms.gle/Sxp7CvZawygvH2tH6",
+      "title": "Hedera linked form",
+      "claim": "The linked Google Form was inaccessible through the inspection tool; submission state was not verified.",
+      "accessed_at": "2026-10-10T08:04:44.312Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cyfrin-page-20261010",
+      "source_type": "official program page",
+      "source_url": "https://ambassadors.cyfrin.io/",
+      "title": "Cyfrin Ambassadors",
+      "claim": "The issuer still invites applications and states a 5–7 business-day review response, but no cash amount or deadline.",
+      "accessed_at": "2026-10-10T08:04:44.312Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cyfrin-form-20261010",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://cyfrin.typeform.com/ambassadors",
+      "title": "Cyfrin linked form",
+      "claim": "The hosted form exposed only a shell; fields and submission state were not verified.",
+      "accessed_at": "2026-10-10T08:04:44.312Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

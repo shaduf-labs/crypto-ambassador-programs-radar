@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-09",
-  "source_run_id": "run:d1f43b58-6962-4f9e-805c-0cf8d66298c5",
+  "snapshot_date": "2026-10-10",
+  "source_run_id": "run:df004455-7a74-4450-b9ce-79c84789ab74",
   "items": [
     {
       "id": "tangem",
@@ -31,7 +31,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "7 Oct 2026"
+      "last_checked": "10 Oct 2026"
     },
     {
       "id": "cyfrin",
@@ -46,7 +46,7 @@
       "safety": "Use the Typeform only from Cyfrin’s official page. SSCD+ certification is required within six weeks after onboarding to continue.",
       "official_url": "https://ambassadors.cyfrin.io/",
       "status_label": "Confirmed open",
-      "last_checked": "6 Oct 2026"
+      "last_checked": "10 Oct 2026"
     },
     {
       "id": "soneium",

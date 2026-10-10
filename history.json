@@ -319,6 +319,17 @@
       "summary": "Automatic Buzz tiers are not a formal open application; Council applications use limited batches, with no current batch verified. Tangem still links Apply. The open-row count remains 21.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-09-chaingpt-council-batch-unverified",
       "entrypoint": "reports/2026-10-09-chaingpt-council-batch-unverified/index.html"
+    },
+    {
+      "run_id": "run:df004455-7a74-4450-b9ce-79c84789ab74",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-10T08:00:00Z",
+      "completed_at": "2026-10-10T08:05:18.950Z",
+      "title": "Hedera and Cyfrin invitations rechecked",
+      "summary": "Both issuer pages still invite applicants; form acceptance and cash pay remain unverified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/research/2026-10-10-hedera-cyfrin-routes-rechecked",
+      "entrypoint": "research/2026-10-10-hedera-cyfrin-routes-rechecked/index.html"
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "21 issuer-linked routes remain in the open table by their individual check dates. ChainGPT’s Buzz page describes automatic activity tiers and a separate invitation-only Council, but publishes no current Council application batch on the inspected page. It is not a confirmed open application. Tangem still links an Apply form; its enhanced commission rate and form acceptance remain unverified.",
+  "current_answer": "21 issuer-linked routes remain in the open table by their individual check dates. Hedera and Cyfrin still publish application invitations on 10 Oct 2026; neither linked hosted form exposed a confirmable submission state in this check. ChainGPT Council and Bit2Me remain unverified current intakes. Issuer pages do not establish selection or payment.",
   "catalogue_card": {
-    "question": "Is ChainGPT’s Buzz Council taking applications now?",
-    "text": "ChainGPT lists activity-based ambassador tiers, but its selective Council opens applications only in batches. The inspected issuer page gives no current batch or form. The open-route table remains at 21 issuer-linked invitations; Tangem’s enhanced commission rate is still unstated."
+    "question": "Are Hedera and Cyfrin still inviting applicants?",
+    "text": "Both issuer pages still link applications on 10 Oct. Hedera’s Google Form was inaccessible and Cyfrin’s Typeform showed only a shell, so neither submission state was confirmed. The 21-row table keeps each route’s own check date."
   },
   "summary": [
-    "ChainGPT’s first four Buzz ambassador tiers use activity and score, not a public application.",
-    "Its separate invitation-only Buzz Council says applications open in limited batches, but no current batch or form was verified on the inspected page.",
-    "Tangem still links Apply, but its enhanced commission rate and hosted form acceptance remain unverified. The open-row count remains 21."
+    "Hedera still links Apply Now for developer and community ambassador work; cash pay and a deadline are not stated.",
+    "Cyfrin still links an application and says it reviews within 5–7 business days; cash pay and a deadline are not stated.",
+    "Neither hosted form exposed a confirmable submission state. The open-route count remains 21."
   ],
   "uncertainty": [
-    "No current ChainGPT Buzz Council batch announcement or application form was verified; the issuer may announce one separately.",
-    "Tangem’s Typeform did not expose inspectable fields or a submission state. Its ambassador commission rate and fixed pay are unstated.",
-    "Other open routes retain their individual check dates. Issuer pages do not establish selection, actual payment or applicant outcomes; first-party analytics are unavailable."
+    "Hedera’s Google Form was inaccessible to the inspection tool; Cyfrin’s Typeform exposed only a shell. Neither submission state was verified.",
+    "The remaining 19 open rows retain their individual check dates. No current ChainGPT Council or Bit2Me intake was verified in this run.",
+    "No first-party pool analytics are available, and issuer invitations do not establish applicant outcomes or personal pay."
   ],
-  "checked_at": "2026-10-09T08:05:30Z",
+  "checked_at": "2026-10-10T08:04:44.312Z",
   "meaningfully_updated_at": "2026-10-09T08:05:30Z",
-  "freshness_note": "ChainGPT official program documentation and Tangem route checked 9 Oct 2026. Other rows retain their individual Last checked dates."
+  "freshness_note": "Hedera and Cyfrin issuer pages checked 10 Oct 2026. Other rows retain their individual Last checked dates."
 }
