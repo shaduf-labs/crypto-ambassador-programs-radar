@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-10",
-  "source_run_id": "run:df004455-7a74-4450-b9ce-79c84789ab74",
+  "snapshot_date": "2026-10-11",
+  "source_run_id": "run:ce45b079-f799-42b5-8823-bfafed9c863c",
   "items": [
+    {
+      "id": "action-model",
+      "status": "confirmed_open",
+      "project": "Action Model Ambassador Network",
+      "fit": "People who can explain an AI and Web3 product, create public content or lead a community. The form asks for an X username, country, audience size and relevant skills; no country list or follower minimum was stated in the inspected text.",
+      "work": "Before selection, publish an X quote-repost introducing Action Model and submit its link. Proposed ambassador work is community education and growth; ongoing hours or deliverables are not stated.",
+      "deadline": "No closing deadline published on the inspected form.",
+      "reward": "The issuer lists exclusive rewards, early access and recognition. No personal cash or token amount, unit, payout condition or schedule is stated for ambassadors. Separate $LAM product claims are not ambassador pay.",
+      "selection": "The public form asks about experience, audience and planned contribution, then requires the quote-repost link. Review timing and acceptance rules are not stated.",
+      "people": "No independent selected-ambassador or payout report found in this check.",
+      "safety": "A public endorsement is required before selection. The form also requests name, email, X handle and country; a required terms checkbox showed no terms link in inspected text. Read the terms before submitting.",
+      "official_url": "https://actionmodel.com/ambassadors",
+      "status_label": "Confirmed open; public post required before selection",
+      "last_checked": "11 Oct 2026"
+    },
     {
       "id": "tangem",
       "status": "confirmed_open",
@@ -61,7 +76,7 @@
       "safety": "The official page explicitly says Apply now and links a Typeform. The hosted page did not expose its questions or a submission-state message. Do not assume selection or payment.",
       "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "25 Sep 2026"
+      "last_checked": "11 Oct 2026"
     },
     {
       "id": "aster",
@@ -151,7 +166,7 @@
       "safety": "The official page displays name, email, phone, LinkedIn and contribution fields. Read its privacy terms before submitting; form submission and selection were not tested.",
       "official_url": "https://nexo.com/ambassadors",
       "status_label": "Confirmed open",
-      "last_checked": "3 Oct 2026"
+      "last_checked": "11 Oct 2026"
     },
     {
       "id": "oasis-sentinels",
@@ -163,10 +178,10 @@
       "reward": "Exclusive bounties, professional mentorship and early ecosystem access. Cash or token amount not stated.",
       "selection": "The official community hub links a “Become a Sentinel” form; review and response terms are not stated on the hub.",
       "people": "No recent independent report found.",
-      "safety": "The issuer-linked route is a Google Form. Inspect its fields before sharing contact, social or wallet information.",
+      "safety": "The issuer-linked Google Form was inaccessible in this inspection. Check its fields before sharing contact, social or wallet information.",
       "official_url": "https://oasis.net/community-hub",
       "status_label": "Confirmed open",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "11 Oct 2026"
     },
     {
       "id": "fiber-community-ambassador",
@@ -356,12 +371,12 @@
       "work": "Write threads, produce videos, host meetups or build tutorials; begin on the issuer-linked Zealy route.",
       "deadline": "No deadline published.",
       "reward": "INJ rewards based on the impact of your work. Amount, impact measure, timing and payout terms are not stated.",
-      "selection": "Official page says Apply Now and links Injective Zealy. Review process and response time are not stated.",
+      "selection": "The official page says Apply Now, but the linked Zealy route exposed only a questboard title in this inspection; a formal application or review was not confirmed.",
       "people": "No recent independent report found.",
-      "safety": "Open Zealy from Injective’s official page. The page also describes XP and campaigns; do not treat XP or potential rewards as a cash promise.",
+      "safety": "Open Zealy from Injective’s official page. The linked questboard did not expose a formal application or submission state; do not treat XP or potential rewards as pay.",
       "official_url": "https://injective.com/ambassadors",
       "status_label": "Confirmed open; reward terms incomplete",
-      "last_checked": "25 Sep 2026"
+      "last_checked": "11 Oct 2026"
     },
     {
       "id": "arc-architects",

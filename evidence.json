@@ -1131,6 +1131,106 @@
       "accessed_at": "2026-10-10T08:04:44.312Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:action-model-form-20261011",
+      "source_type": "issuer program page",
+      "source_url": "https://actionmodel.com/ambassadors",
+      "title": "Action Model Ambassadors",
+      "claim": "The issuer’s visible form requires an X quote-repost before selection and requests contact, social and audience data; personal pay and deadline are unstated.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:action-model-main-20261011",
+      "source_type": "issuer program page",
+      "source_url": "https://actionmodel.com/",
+      "title": "Action Model Main",
+      "claim": "Separate platform pages describe $LAM earning; they do not state ambassador compensation.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:action-model-linkedin-20261011",
+      "source_type": "issuer social announcement",
+      "source_url": "https://www.linkedin.com/posts/actionmodelai_every-great-movement-starts-with-its-earliest-activity-7489221075478937601-fB6A",
+      "title": "Action Model Linkedin",
+      "claim": "The issuer has publicly described applications as open and the programme as selective, but that post is not a current payout or review result.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:nexo-recheck-20261011",
+      "source_type": "official ambassador program page",
+      "source_url": "https://nexo.com/ambassadors",
+      "title": "Nexo Ambassadors",
+      "claim": "The issuer still shows a contact form and broad salary and incentive language; individual amount and targets remain unstated.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-recheck-20261011",
+      "source_type": "official program announcement",
+      "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
+      "title": "Soneium Ambassador Announcement",
+      "claim": "The issuer still says Apply now and links a Typeform.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-form-20261011",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://form.typeform.com/to/yXfi1CeG",
+      "title": "Soneium Ambassador Form",
+      "claim": "The hosted Typeform exposed only a shell; submission state was not verified.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:oasis-recheck-20261011",
+      "source_type": "official community program page",
+      "source_url": "https://oasis.net/community-hub",
+      "title": "Oasis Community Hub",
+      "claim": "The official hub still links Become a Sentinel and lists bounties without personal amounts.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:oasis-form-20261011",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://forms.gle/ekh8PtB4aTstQrTF9",
+      "title": "Oasis Sentinels Form",
+      "claim": "The linked Google Form was inaccessible to the inspection tool.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:injective-recheck-20261011",
+      "source_type": "official program page",
+      "source_url": "https://injective.com/ambassadors",
+      "title": "Injective Ambassador Program",
+      "claim": "The issuer still links Apply Now to Zealy and describes impact-based INJ rewards without payout terms.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:injective-zealy-20261011",
+      "source_type": "issuer-linked hosted community route",
+      "source_url": "https://zealy.io/cw/injectivemissions/questboard",
+      "title": "Injective Ambassador Zealy",
+      "claim": "The linked Zealy destination exposed a questboard title, not an inspectable formal application.",
+      "accessed_at": "2026-10-11T08:04:20Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

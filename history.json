@@ -330,6 +330,17 @@
       "summary": "Both issuer pages still invite applicants; form acceptance and cash pay remain unverified.",
       "report_path": "/p/crypto-ambassador-programs-radar/research/2026-10-10-hedera-cyfrin-routes-rechecked",
       "entrypoint": "research/2026-10-10-hedera-cyfrin-routes-rechecked/index.html"
+    },
+    {
+      "run_id": "run:ce45b079-f799-42b5-8823-bfafed9c863c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-11T08:00:00Z",
+      "completed_at": "2026-10-11T08:05:05Z",
+      "title": "Action Model public post before selection",
+      "summary": "A visible application requires public promotion before selection while personal pay remains unstated; the dated open table rises to 22.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-11-action-model-public-post-before-selection",
+      "entrypoint": "reports/2026-10-11-action-model-public-post-before-selection/index.html"
     }
   ]
 }
