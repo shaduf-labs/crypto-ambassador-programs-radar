@@ -1231,6 +1231,36 @@
       "accessed_at": "2026-10-11T08:04:20Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:arxon-issuer-index-20261012",
+      "source_type": "issuer page (search-indexed text)",
+      "source_url": "https://www.arxon.io/ambassadors",
+      "title": "Arxon Ambassador Program",
+      "claim": "Indexed issuer text says applications are closed and describes the 30-day work and shared ARX pool at TGE; direct fetch failed.",
+      "accessed_at": "2026-10-12T08:51:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:arxon-home-index-20261012",
+      "source_type": "issuer homepage (search-indexed text)",
+      "source_url": "https://arxon.io/",
+      "title": "Arxon homepage",
+      "claim": "Indexed homepage also labels ambassador applications closed and points earlier applicants to a status portal.",
+      "accessed_at": "2026-10-12T08:51:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:chaingpt-recheck-20261012",
+      "source_type": "official documentation",
+      "source_url": "https://docs.chaingpt.org/our-ecosystem/buzz-by-chaingpt/ambassador-program",
+      "title": "ChainGPT Ambassador Program",
+      "claim": "The page describes limited-batch Council applications but no current batch form.",
+      "accessed_at": "2026-10-12T08:51:56Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

@@ -341,6 +341,17 @@
       "summary": "A visible application requires public promotion before selection while personal pay remains unstated; the dated open table rises to 22.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-11-action-model-public-post-before-selection",
       "entrypoint": "reports/2026-10-11-action-model-public-post-before-selection/index.html"
+    },
+    {
+      "run_id": "run:768c7c6a-c763-4b40-a0cb-69a31f90016d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-12T08:00:00Z",
+      "completed_at": "2026-10-12T08:52:47Z",
+      "title": "Arxon applications closed; shared token pool is not personal pay",
+      "summary": "Indexed issuer text says closed despite a LIVE label; the token figure is a shared TGE-linked pool, not applicant pay.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-12-arxon-application-closed-token-pool-conditional",
+      "entrypoint": "reports/2026-10-12-arxon-application-closed-token-pool-conditional/index.html"
     }
   ]
 }

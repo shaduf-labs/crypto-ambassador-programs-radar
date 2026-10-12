@@ -180,6 +180,12 @@
       "changed_at": "2026-10-11T08:04:20Z",
       "summary": "Added Action Model’s visible application as a 22nd issuer-linked route. Its form requires a public X quote-repost before selection but states no personal pay, hours or deadline. Rechecked Nexo, Soneium, Oasis and Injective without confirming hosted submission or selection.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:arxon-closed-token-pool-20261012",
+      "changed_at": "2026-10-12T08:51:56Z",
+      "summary": "Held Arxon out of the open count: indexed issuer text says applications closed despite a LIVE campaign label. The $100,000 ARX figure is a shared TGE-linked pool, not an individual pay offer. ChainGPT Council remains without a verified current batch.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

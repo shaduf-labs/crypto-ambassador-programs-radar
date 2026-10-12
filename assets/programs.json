@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-11",
-  "source_run_id": "run:ce45b079-f799-42b5-8823-bfafed9c863c",
+  "snapshot_date": "2026-10-12",
+  "source_run_id": "run:768c7c6a-c763-4b40-a0cb-69a31f90016d",
   "items": [
     {
       "id": "action-model",
@@ -618,6 +618,21 @@
       "official_url": "https://docs.chaingpt.org/our-ecosystem/buzz-by-chaingpt/ambassador-program",
       "status_label": "Not confirmed: Council batch not published",
       "last_checked": "9 Oct 2026"
+    },
+    {
+      "id": "arxon",
+      "status": "closed",
+      "project": "Arxon Ambassador Campaign",
+      "fit": "The campaign addresses creators and local community promoters; no current new-applicant eligibility can be confirmed while applications are closed.",
+      "work": "The published 30-day challenge requires at least eight posts, two X Spaces, 40 verified new-user referrals and campaign tags. A mining account is described as part of the route.",
+      "deadline": "The indexed issuer page says applications closed; no closing date or reopening date was stated in the inspected text.",
+      "reward": "The issuer advertises a shared $100,000 ARX token pool for top performers, distributed at TGE. It does not state an individual allocation, TGE date or verified token value.",
+      "selection": "The page directs earlier applicants to a status portal; current selection outcomes were not verified.",
+      "people": "No independent applicant payout report verified in this check.",
+      "safety": "Do not treat the LIVE campaign label as an open application. Direct page fetch failed in this research browser; verify the current issuer page before creating an account or sharing data.",
+      "official_url": "https://www.arxon.io/ambassadors",
+      "status_label": "Closed in indexed issuer text; direct page not fetched",
+      "last_checked": "12 Oct 2026 (indexed text crawled 8 Oct)"
     }
   ]
 }
