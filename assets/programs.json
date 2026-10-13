@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-12",
-  "source_run_id": "run:768c7c6a-c763-4b40-a0cb-69a31f90016d",
+  "snapshot_date": "2026-10-13",
+  "source_run_id": "run:d606ac6b-36f3-4f45-b8f7-7f292ced976a",
   "items": [
     {
       "id": "action-model",
@@ -633,6 +633,21 @@
       "official_url": "https://www.arxon.io/ambassadors",
       "status_label": "Closed in indexed issuer text; direct page not fetched",
       "last_checked": "12 Oct 2026 (indexed text crawled 8 Oct)"
+    },
+    {
+      "id": "kambria-spotlight",
+      "status": "referral_only",
+      "project": "Kambria Ambassador Spotlight",
+      "fit": "People with a real community or relevant project network who can introduce qualified participants. No follower threshold is stated for CED; other eligibility and country restrictions were not verified.",
+      "work": "Introduce suitable social-impact projects to DEP 3 or bring CED Guides and Explorers who register and complete two sessions; make original content and follow up with referred people.",
+      "deadline": "The DEP 3 project-referral call covers about 21 Sep–31 Oct 2026. No ambassador-registration deadline stated. CED referral cycles continue separately.",
+      "reward": "Issuer-stated USDT: $10 if a referred eligible DEP 3 project reaches the top-nine shortlist, plus $20 if selected (selection bonus capped at three); scheduled by end-November. CED: $2 only after a linked person registers and completes two sessions, paid by cycle. No guaranteed income.",
+      "selection": "The issuer links an Ambassador Spotlight registration form and says it reviews real-person and community fit within days. Form submission state could not be checked.",
+      "people": "No independent payout report for this campaign verified. The linked issuer dashboard did not load in the research browser.",
+      "safety": "This is primarily referral and content work, not a general paid contributor role. The issuer says a wallet address is needed for USDT payment. Verify the linked form from the issuer page before sharing data or doing unpaid outreach.",
+      "official_url": "https://kambria.io/docs/oin/program-network/kambria-ambassadors/ambassador-spotlight-program-invitation/",
+      "status_label": "Separate referral-led route; registration form not inspected",
+      "last_checked": "13 Oct 2026"
     }
   ]
 }

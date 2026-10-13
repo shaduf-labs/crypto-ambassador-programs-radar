@@ -352,6 +352,17 @@
       "summary": "Indexed issuer text says closed despite a LIVE label; the token figure is a shared TGE-linked pool, not applicant pay.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-12-arxon-application-closed-token-pool-conditional",
       "entrypoint": "reports/2026-10-12-arxon-application-closed-token-pool-conditional/index.html"
+    },
+    {
+      "run_id": "run:d606ac6b-36f3-4f45-b8f7-7f292ced976a",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-13T08:00:00Z",
+      "completed_at": "2026-10-13T08:06:54Z",
+      "title": "Kambria referral fees depend on qualified outcomes",
+      "summary": "The DEP 3 project call ends 31 Oct, but $10 and $20 USDT fees require shortlisting or selection; the separate CED route pays only after two sessions. Form state and payouts remain unverified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-13-kambria-referral-window-not-core-open-route",
+      "entrypoint": "reports/2026-10-13-kambria-referral-window-not-core-open-route/index.html"
     }
   ]
 }

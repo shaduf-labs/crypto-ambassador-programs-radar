@@ -186,6 +186,12 @@
       "changed_at": "2026-10-12T08:51:56Z",
       "summary": "Held Arxon out of the open count: indexed issuer text says applications closed despite a LIVE campaign label. The $100,000 ARX figure is a shared TGE-linked pool, not an individual pay offer. ChainGPT Council remains without a verified current batch.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:kambria-referral-conditions-20261013",
+      "changed_at": "2026-10-13T08:05:40Z",
+      "summary": "Added Kambria as a separate referral-led route, not a 23rd core open opportunity. Its DEP 3 call ends 31 Oct; the $10 and $20 USDT amounts depend on shortlisting or selection, while a CED $2 fee needs two sessions. Form state and payouts remain unverified.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

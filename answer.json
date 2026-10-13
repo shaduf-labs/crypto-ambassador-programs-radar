@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "22 issuer-linked routes have open invitations by their own check dates; they were not all rechecked on 12 Oct 2026. Arxon is not a 23rd open route: indexed issuer text says applications are closed despite a LIVE campaign label. Its $100,000 ARX allocation is a shared, TGE-linked pool for top performers, not stated personal pay. ChainGPT still gives no current Buzz Council batch form.",
+  "current_answer": "22 issuer-linked ambassador routes still carry open invitations by their individual check dates; they were not all rechecked on 13 Oct 2026. Kambria separately invites ambassador registration for a referral-led program, not a general contributor role: its DEP 3 referral call runs through 31 Oct, with $10 for a shortlisted project and $20 more if selected, paid in USDT after the wave. A separate CED referral pays $2 only after two sessions. Form acceptance and actual payouts were not verified.",
   "catalogue_card": {
-    "question": "Can a LIVE ambassador campaign still be closed?",
-    "text": "Arxon labels its campaign LIVE, but indexed issuer text says applications are closed. The $100,000 ARX figure is a shared pool at TGE, not an individual pay offer; the 22 dated open routes were not all rechecked today."
+    "question": "Does a $10 ambassador referral pay for signing up?",
+    "text": "Kambria says its DEP 3 $10 fee requires a referred project to make the top-nine shortlist; $20 more depends on selection. The call runs through 31 Oct. Its registration form and payouts were not verified. The 22 core open routes keep their own check dates."
   },
   "summary": [
-    "Arxon stays outside the open table: indexed issuer text says applications closed while a campaign label says LIVE.",
-    "Its 30-day challenge includes posts, X Spaces and verified referrals; the $100,000 ARX figure is a shared TGE-linked pool, not personal pay.",
-    "ChainGPT documentation still gives no current Council batch form; the 22 open routes retain their own check dates."
+    "Kambria invites registration for a separate referral-led Ambassador Spotlight programme; it is not added to the 22 core open routes.",
+    "DEP 3 pays only on shortlisting or selection, while CED pays after a referred person completes two sessions. The 31 Oct date covers the DEP 3 project call, not ambassador registration.",
+    "The linked form returned 401 and the public payout sheet did not load in this research browser."
   ],
   "uncertainty": [
-    "Arxon’s direct issuer page could not be fetched in the research browser on 12 Oct; closed status rests on indexed issuer text from an 8 Oct crawl. A later reopening was not ruled out.",
-    "Arxon’s TGE date, individual ARX award, token valuation and payout were not verified.",
-    "The 22 open rows retain their individual check dates; ChainGPT Council intake remains unverified, and first-party pool analytics are unavailable."
+    "Kambria’s linked registration Google Form returned 401 to the research browser; application fields and submission state could not be checked.",
+    "Kambria’s linked payout dashboard did not load; the stated rates are issuer terms, not verified earnings.",
+    "The 31 Oct date governs DEP 3 project referrals, not ambassador registration. The 22 open rows retain individual check dates and were not all rechecked today."
   ],
-  "checked_at": "2026-10-12T08:51:56Z",
-  "meaningfully_updated_at": "2026-10-12T08:51:56Z",
-  "freshness_note": "Arxon issuer text was indexed after an 8 Oct crawl and checked 12 Oct; direct page fetch failed. ChainGPT documentation checked 12 Oct. Open rows keep their individual Last checked dates."
+  "checked_at": "2026-10-13T08:05:40Z",
+  "meaningfully_updated_at": "2026-10-13T08:05:40Z",
+  "freshness_note": "Kambria issuer terms read 13 Oct 2026; linked form and dashboard could not be inspected. The core open rows retain individual Last checked dates."
 }

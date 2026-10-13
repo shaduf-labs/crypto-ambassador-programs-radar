@@ -1261,6 +1261,16 @@
       "accessed_at": "2026-10-12T08:51:56Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:kambria-spotlight-20261013",
+      "source_type": "official campaign terms",
+      "source_url": "https://kambria.io/docs/oin/program-network/kambria-ambassadors/ambassador-spotlight-program-invitation/",
+      "title": "Kambria Ambassador Spotlight Program Invitation",
+      "claim": "The issuer describes a referral-led registration route, a DEP 3 project call ending 31 Oct 2026, conditional USDT fees of $10 and $20, and a separate $2 CED fee after two sessions.",
+      "accessed_at": "2026-10-13T08:05:40Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }
