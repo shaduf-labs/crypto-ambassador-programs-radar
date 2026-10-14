@@ -192,6 +192,12 @@
       "changed_at": "2026-10-13T08:05:40Z",
       "summary": "Added Kambria as a separate referral-led route, not a 23rd core open opportunity. Its DEP 3 call ends 31 Oct; the $10 and $20 USDT amounts depend on shortlisting or selection, while a CED $2 fee needs two sessions. Form state and payouts remain unverified.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:soneium-bit2me-recheck-20261014",
+      "changed_at": "2026-10-14T08:04:22Z",
+      "summary": "Rechecked Soneium’s issuer invitation and Bit2Me’s Spanish issuer page. Soneium still links Apply now, but hosted acceptance is unverified. Bit2Me stays out because no current review window or resolved payment asset was found. Core open count remains 22.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

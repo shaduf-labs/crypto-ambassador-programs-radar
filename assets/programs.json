@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-13",
-  "source_run_id": "report-7d57a290de00703b582bc98e",
+  "snapshot_date": "2026-10-14",
+  "source_run_id": "report-62e52203e31fa7f35fc5f92b",
   "items": [
     {
       "id": "action-model",
@@ -76,7 +76,7 @@
       "safety": "The official page explicitly says Apply now and links a Typeform. The hosted page did not expose its questions or a submission-state message. Do not assume selection or payment.",
       "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "11 Oct 2026"
+      "last_checked": "14 Oct 2026"
     },
     {
       "id": "aster",
@@ -582,12 +582,12 @@
       "work": "Create education and product content, moderate channels, organize events or introduce partners; label promotional content and include crypto-risk warnings.",
       "deadline": "No current application or review window verified. The page still refers to a review one month after its May 2026 launch.",
       "reward": "Monthly crypto compensation depends on validated activity and rank; no individual amount stated. The May blog says USDC, the landing page says USDT, and the terms allow another crypto asset. An invoice is required for payment.",
-      "selection": "Issuer page links a Typeform, but form acceptance could not be inspected. Review schedule appears tied to launch, not a new cohort.",
+      "selection": "The Spanish issuer page links a Typeform, but form acceptance could not be inspected. Its review schedule still refers to one month after the May launch, not a new October cohort.",
       "people": "No recent independent ambassador pay report found. Issuer-hosted user testimonials are not payout evidence.",
-      "safety": "Use the issuer page to reach the form. Confirm current intake, payout asset, rank threshold, account verification and invoice rules before submitting personal data.",
-      "official_url": "https://bit2me.com/pt-PT/embaixadores",
+      "safety": "Use the issuer page to reach its form. Confirm current intake, payout asset, rank threshold, account verification and invoice rules before submitting personal data.",
+      "official_url": "https://bit2me.com/es/embajadores",
       "status_label": "Not confirmed: current intake and payout unit unresolved",
-      "last_checked": "2 Oct 2026"
+      "last_checked": "14 Oct 2026"
     },
     {
       "id": "polkadot-ambassador-fellowship",

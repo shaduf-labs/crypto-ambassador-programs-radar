@@ -1271,6 +1271,36 @@
       "accessed_at": "2026-10-13T08:05:40Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-page-20261014",
+      "source_type": "official program page",
+      "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
+      "title": "Soneium Ambassador Program",
+      "claim": "The issuer page still says Apply now, names selection factors and links a Typeform; the hosted form did not expose submission state.",
+      "accessed_at": "2026-10-14T08:04:22Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bit2me-es-page-20261014",
+      "source_type": "issuer program page",
+      "source_url": "https://bit2me.com/es/embajadores",
+      "title": "Bit2Me Ambassador Program",
+      "claim": "The page still links a form, describes review one month after its May launch and says validated monthly contributions are paid in USDT after invoicing.",
+      "accessed_at": "2026-10-14T08:04:22Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:bit2me-legal-20261014",
+      "source_type": "issuer legal terms",
+      "source_url": "https://legal.bit2me.com/en/support/solutions/articles/35000318566-specific-conditions-of-the-ambassador-program",
+      "title": "Bit2Me ambassador conditions",
+      "claim": "May terms allow the issuer to choose another crypto asset and do not establish individual pay or October intake.",
+      "accessed_at": "2026-10-14T08:04:22Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

@@ -1,22 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "22 issuer-linked ambassador routes still carry open invitations by their individual check dates; they were not all rechecked on 13 Oct 2026. Kambria separately invites ambassador registration for a referral-led program, not a general contributor role: its DEP 3 referral call runs through 31 Oct, with $10 for a shortlisted project and $20 more if selected, paid in USDT after the wave. A separate CED referral pays $2 only after two sessions. Form acceptance and actual payouts were not verified.",
+  "current_answer": "22 issuer-linked ambassador routes retain open invitations by their individual check dates; only Soneium was rechecked on 14 Oct 2026. Its issuer page still says Apply now, but its Typeform did not expose submission state. Bit2Me remains outside the open list: its current-looking application link does not establish an October review window, and its issuer pages disagree about the payment asset. Kambria remains a separate conditional referral route.",
   "catalogue_card": {
-    "question": "Does a $10 ambassador referral pay for signing up?",
-    "text": "Kambria says its DEP 3 $10 fee requires a referred project to make the top-nine shortlist; $20 more depends on selection. The call runs through 31 Oct. Its registration form and payouts were not verified. The 22 core open routes keep their own check dates."
+    "question": "Does an Apply now button prove an October intake?",
+    "text": "Soneium still invites applications, but its hosted form did not show submission state. Bit2Me still links a form without a verified October review window or settled payment asset. The 22 core rows keep individual check dates."
   },
   "summary": [
-    "Kambria invites registration for a separate referral-led Ambassador Spotlight programme; it is not added to the 22 core open routes.",
-    "DEP 3 pays only on shortlisting or selection, while CED pays after a referred person completes two sessions. The 31 Oct date covers the DEP 3 project call, not ambassador registration.",
-    "The linked form returned 401 and the public payout sheet did not load in this research browser."
+    "Soneium still says Apply now; its Typeform did not expose submission state.",
+    "Bit2Me still links a form but has no verified October review window or resolved payout asset.",
+    "The core open count remains 22 by individual check dates; Kambria is a separate conditional referral route."
   ],
   "uncertainty": [
-    "Kambria’s linked registration Google Form returned 401 to the research browser; application fields and submission state could not be checked.",
-    "Kambria’s linked payout dashboard did not load; the stated rates are issuer terms, not verified earnings.",
-    "The 31 Oct date governs DEP 3 project referrals, not ambassador registration. The 22 open rows retain individual check dates and were not all rechecked today."
+    "Only Soneium and Bit2Me issuer surfaces were rechecked on 14 Oct; the other open rows keep their own check dates.",
+    "Neither issuer-linked Typeform exposed fields or a submission-state message in this research browser.",
+    "Bit2Me has no verified October review window, individual payment amount or resolved payout asset.",
+    "Kambria registration and actual payouts remain unverified."
   ],
-  "checked_at": "2026-10-13T08:05:40Z",
+  "checked_at": "2026-10-14T08:04:22Z",
   "meaningfully_updated_at": "2026-10-13T08:05:40Z",
-  "freshness_note": "Kambria issuer terms read 13 Oct 2026; linked form and dashboard could not be inspected. The core open rows retain individual Last checked dates."
+  "freshness_note": "Soneium issuer invitation and Bit2Me Spanish issuer page checked 14 Oct 2026; hosted form acceptance was not inspectable. All other open rows retain their individual check dates."
 }

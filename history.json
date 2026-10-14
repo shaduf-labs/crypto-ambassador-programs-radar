@@ -363,6 +363,17 @@
       "summary": "The DEP 3 project call ends 31 Oct, but $10 and $20 USDT fees require shortlisting or selection; the separate CED route pays only after two sessions. Form state and payouts remain unverified.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-13-kambria-referral-window-not-core-open-route",
       "entrypoint": "reports/2026-10-13-kambria-referral-window-not-core-open-route/index.html"
+    },
+    {
+      "run_id": "report-62e52203e31fa7f35fc5f92b",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-14T08:00:00Z",
+      "completed_at": "2026-10-14T08:08:04Z",
+      "title": "Soneium invitation rechecked; Bit2Me intake still unverified",
+      "summary": "Soneium still publishes an issuer invitation; Typeform acceptance was not visible. Bit2Me still lacks an October review window and settled payout asset. The core count remains 22.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-14-soneium-recheck-bit2me-still-unverified",
+      "entrypoint": "reports/2026-10-14-soneium-recheck-bit2me-still-unverified/index.html"
     }
   ]
 }
