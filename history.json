@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "runs": [
     {
-      "run_id": "run:9644327e-a9c8-4bcc-bec8-2092db913a6c",
+      "run_id": "report-8e5069e4c8b07e511e7b50f4",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-12T17:00:00.000Z",
@@ -13,7 +13,7 @@
       "entrypoint": "research/2026-09-12-first-radar/index.html"
     },
     {
-      "run_id": "run:d8eca446-0711-4f80-8163-2882625d399b",
+      "run_id": "report-ebbf84d5287efb6d5d1cc2b3",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-13T08:00:00.000Z",
@@ -24,7 +24,7 @@
       "entrypoint": "research/2026-09-13-open-routes-and-trading-deadline/index.html"
     },
     {
-      "run_id": "run:cba74045-efa3-4430-986d-0cc939122c87",
+      "run_id": "report-59555523350dfa60069ba743",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-14T08:00:00.000Z",
@@ -35,7 +35,7 @@
       "entrypoint": "research/2026-09-14-public-form-status/index.html"
     },
     {
-      "run_id": "run:acbff9da-0380-4dff-a8cf-094ae77c26cb",
+      "run_id": "report-43e72df0882a9637a838bb3c",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-15T08:00:00.000Z",
@@ -46,7 +46,7 @@
       "entrypoint": "research/2026-09-15-soneium-open-nexo-route-removed/index.html"
     },
     {
-      "run_id": "run:196ded20-d7dd-430e-9094-46d6aca8a344",
+      "run_id": "report-060145309bf6895e598d8da8",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-16T08:00:00.000Z",
@@ -57,7 +57,7 @@
       "entrypoint": "research/2026-09-16-nexo-route-restored-new-openings/index.html"
     },
     {
-      "run_id": "run:993ccdb2-8347-4d64-a0a0-5f07b38b32f5",
+      "run_id": "report-31e2668896785d1a582df16b",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-17T08:00:00.000Z",
@@ -68,7 +68,7 @@
       "entrypoint": "research/2026-09-17-bybit-hela-open-torium-thresholds/index.html"
     },
     {
-      "run_id": "run:0777474a-40c8-428c-a51d-40855227c770",
+      "run_id": "report-6ba9ce3e741a177dc8a61bc6",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-18T08:00:00.000Z",
@@ -79,7 +79,7 @@
       "entrypoint": "research/2026-09-18-cronos-zerion-routes-data-cost/index.html"
     },
     {
-      "run_id": "run:7fe85b84-4c21-463f-8c2e-64dfdb830490",
+      "run_id": "report-215d52cd4737a1257a004ad7",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-19T08:00:00.000Z",
@@ -90,7 +90,7 @@
       "entrypoint": "research/2026-09-19-injective-open-arc-no-application/index.html"
     },
     {
-      "run_id": "run:7154bf17-67bf-4d2a-9beb-bfb452047b49",
+      "run_id": "report-c6514be9617b311db6b140e3",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-20T08:00:00.000Z",
@@ -101,7 +101,7 @@
       "entrypoint": "reports/2026-09-20-stellar-midnight-thrilld-routes/index.html"
     },
     {
-      "run_id": "run:c44c2baa-4db4-4f7c-b5df-39e6e2aed297",
+      "run_id": "report-bffba41a26f186f6d9c6a599",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-21T08:00:00.000Z",
@@ -112,7 +112,7 @@
       "entrypoint": "reports/2026-09-21-mica-autheo-terms/index.html"
     },
     {
-      "run_id": "run:828ce572-e643-4bd3-a9ce-fe69e1eee4eb",
+      "run_id": "report-ce06ff1fb38dc83c168fd1a9",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-22T08:00:00.000Z",
@@ -123,7 +123,7 @@
       "entrypoint": "reports/2026-09-22-pivx-form-funding-conflict/index.html"
     },
     {
-      "run_id": "run:d4c33f3e-6850-4036-be20-e33949ec6ad2",
+      "run_id": "report-5eac4a296bde8e60b609b135",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-23T08:00:00.000Z",
@@ -134,7 +134,7 @@
       "entrypoint": "reports/2026-09-23-hpp-confirmation-not-published/index.html"
     },
     {
-      "run_id": "run:a655f05f-f21e-4f82-8866-8bcf9a416cb9",
+      "run_id": "report-307ca0c53b455d571f09a14d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-24T08:00:00.000Z",
@@ -145,7 +145,7 @@
       "entrypoint": "reports/2026-09-24-sogo-kyc-referral-route/index.html"
     },
     {
-      "run_id": "run:29743e89-ccca-470e-b34e-57a2df9c6321",
+      "run_id": "report-c34b902abdc8b6b87d0cea9b",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-25T08:00:00.000Z",
@@ -156,7 +156,7 @@
       "entrypoint": "reports/2026-09-25-route-rechecks-rabbithole-held-out/index.html"
     },
     {
-      "run_id": "run:a47ba27c-dbb2-44bf-bb3b-ca594ebeba1c",
+      "run_id": "report-7f7187cb64e0f27c91ec1bdf",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-26T08:00:00.000Z",
@@ -167,7 +167,7 @@
       "entrypoint": "reports/2026-09-26-bitget-deadline-four-days/index.html"
     },
     {
-      "run_id": "run:17d21c34-dfeb-4d97-9c7c-d28aafc6d411",
+      "run_id": "report-bbc81e5cdccd40506a86ffc1",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-27T08:00:00.000Z",
@@ -178,18 +178,18 @@
       "entrypoint": "reports/2026-09-27-xo-claim-held-out/index.html"
     },
     {
-      "run_id": "run:manual:0eed35365d7ef6730a284d2e9f2977ea",
+      "run_id": "report-6e8406583131f42dde791b79",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-09-27T15:38:23.971Z",
       "completed_at": "2026-09-27T15:44:20.000Z",
-      "title": "Publication link recovery; no new opportunity finding",
-      "summary": "Corrected five links to historical report routes. The saved 27 Sep research and all public report bytes remain unchanged.",
-      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-27-publication-link-recovery",
-      "entrypoint": "reports/2026-09-27-publication-link-recovery/index.html"
+      "title": "XO Market and Bitget: eligibility and award limits, 27 September 2026",
+      "summary": "The 27 September notes describe XO Market’s invite-only program and Bitget’s stated 30 September close, without establishing a current public application route or individual award.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-09-27-xo-market-bitget-eligibility",
+      "entrypoint": "reports/2026-09-27-xo-market-bitget-eligibility/index.html"
     },
     {
-      "run_id": "run:43d7c8db-3725-49c6-9891-6fc0f93594b0",
+      "run_id": "report-81f892e5ca2cc110ef6e380d",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-28T08:00:00.000Z",
@@ -200,7 +200,7 @@
       "entrypoint": "reports/2026-09-28-bitget-deadline-zengo-form-unverified/index.html"
     },
     {
-      "run_id": "run:00b29131-4089-43ff-9a2a-340ba3a6d6bb",
+      "run_id": "report-87ab207fa1a172703de36224",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-29T08:00:00.000Z",
@@ -211,7 +211,7 @@
       "entrypoint": "reports/2026-09-29-cardano-interest-not-intake/index.html"
     },
     {
-      "run_id": "run:670eed65-c15a-4833-8799-a25cbbb4accd",
+      "run_id": "report-78d72b636160c682a059a3d5",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-09-30T08:00:00.000Z",
@@ -222,7 +222,7 @@
       "entrypoint": "reports/2026-09-30-aster-route-unverified-bitget-last-day/index.html"
     },
     {
-      "run_id": "run:24c5353c-2ec7-47c1-8ac8-ce3d75f3bad2",
+      "run_id": "report-c14195c648b2b7928c575348",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-01T11:56:00Z",
@@ -233,7 +233,7 @@
       "entrypoint": "reports/2026-10-01-bitget-window-ended-aptos-intake-unverified/index.html"
     },
     {
-      "run_id": "run:61a06480-7713-4209-a8ac-5f69e1ab920a",
+      "run_id": "report-b1e6c3a4f332a90488746f65",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-02T08:03:00Z",
@@ -244,7 +244,7 @@
       "entrypoint": "reports/2026-10-02-bit2me-intake-unverified-payout-conflict/index.html"
     },
     {
-      "run_id": "run:5033f97d-3d68-48af-b119-d2812684da5d",
+      "run_id": "report-5e2147da6e310cf4d8287cc9",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-10-03T08:00:00Z",
@@ -255,7 +255,7 @@
       "entrypoint": "reports/2026-10-03-three-route-rechecks-zerion-form-moved/index.html"
     },
     {
-      "run_id": "run:e16a4996-3e7d-4e8a-86c7-8ded963f9c93",
+      "run_id": "report-0a64b0fa7129bfefdb3c1951",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-10-04T08:00:00Z",
@@ -266,7 +266,7 @@
       "entrypoint": "reports/2026-10-04-elk-nomis-routes-rechecked/index.html"
     },
     {
-      "run_id": "run:manual:e208398f5341fd9275626e1a643ee91f",
+      "run_id": "report-e8705dc76de5b97607697e1f",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-06T04:30:00.893Z",
@@ -277,7 +277,7 @@
       "entrypoint": "reports/2026-10-06-polkadot-old-salary-not-current-route/index.html"
     },
     {
-      "run_id": "run:3f03cdb7-2b9b-4609-b69f-54107cee582b",
+      "run_id": "report-e5e8b1599b077a216ea3fd91",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-06T08:00:00Z",
@@ -288,7 +288,7 @@
       "entrypoint": "reports/2026-10-06-cardano-fund-not-applicant-pay/index.html"
     },
     {
-      "run_id": "run:a2f166d8-2cef-46e7-90d7-b0850e098988",
+      "run_id": "report-64f48df93f602d7ec674f3fa",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-07T08:00:00Z",
@@ -299,7 +299,7 @@
       "entrypoint": "reports/2026-10-07-stellar-intake-weekly-work-pay-unstated/index.html"
     },
     {
-      "run_id": "run:f881ebd4-b23c-4cc2-b5fc-a9728bbc09c0",
+      "run_id": "report-bf963665587fbc43e90dc2ed",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-08T08:00:00Z",
@@ -310,7 +310,7 @@
       "entrypoint": "reports/2026-10-08-tangem-open-commission-rate-unstated/index.html"
     },
     {
-      "run_id": "run:d1f43b58-6962-4f9e-805c-0cf8d66298c5",
+      "run_id": "report-55f6cda7c5c76a48a28013ca",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-09T08:00:00Z",
@@ -321,7 +321,7 @@
       "entrypoint": "reports/2026-10-09-chaingpt-council-batch-unverified/index.html"
     },
     {
-      "run_id": "run:df004455-7a74-4450-b9ce-79c84789ab74",
+      "run_id": "report-9e91287d8b8f56e8893598c5",
       "status": "completed",
       "answer_change": "no_meaningful_change",
       "started_at": "2026-10-10T08:00:00Z",
@@ -332,7 +332,7 @@
       "entrypoint": "research/2026-10-10-hedera-cyfrin-routes-rechecked/index.html"
     },
     {
-      "run_id": "run:ce45b079-f799-42b5-8823-bfafed9c863c",
+      "run_id": "report-49fd925d1cc68f602f35cd0e",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-11T08:00:00Z",
@@ -343,7 +343,7 @@
       "entrypoint": "reports/2026-10-11-action-model-public-post-before-selection/index.html"
     },
     {
-      "run_id": "run:768c7c6a-c763-4b40-a0cb-69a31f90016d",
+      "run_id": "report-0f3d2b377520ff832dfba6b7",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-12T08:00:00Z",
@@ -354,7 +354,7 @@
       "entrypoint": "reports/2026-10-12-arxon-application-closed-token-pool-conditional/index.html"
     },
     {
-      "run_id": "run:d606ac6b-36f3-4f45-b8f7-7f292ced976a",
+      "run_id": "report-7d57a290de00703b582bc98e",
       "status": "completed",
       "answer_change": "meaningful_change",
       "started_at": "2026-10-13T08:00:00Z",
