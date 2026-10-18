@@ -374,6 +374,28 @@
       "summary": "Soneium still publishes an issuer invitation; Typeform acceptance was not visible. Bit2Me still lacks an October review window and settled payout asset. The core count remains 22.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-14-soneium-recheck-bit2me-still-unverified",
       "entrypoint": "reports/2026-10-14-soneium-recheck-bit2me-still-unverified/index.html"
+    },
+    {
+      "run_id": "report-0e46612925e5ce38590ca344",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-10-17T22:37:00Z",
+      "completed_at": "2026-10-17T22:40:57Z",
+      "title": "Hedera and Cyfrin invitations rechecked",
+      "summary": "Both issuer pages still invite applications; hosted form acceptance and individual cash pay remain unverified. Other rows retain earlier check dates.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-17-hedera-cyfrin-routes-rechecked",
+      "entrypoint": "reports/2026-10-17-hedera-cyfrin-routes-rechecked/index.html"
+    },
+    {
+      "run_id": "report-c1a821b52eb46a81ac96d27b",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-18T08:04:00Z",
+      "completed_at": "2026-10-18T08:08:00Z",
+      "title": "Vara application visible; rewards discretionary",
+      "summary": "Vara adds an issuer-linked on-site application first step for voluntary contributor work, with no stated personal reward rate. Soneium invitation persists; hosted form acceptance is unknown.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-18-vara-voluntary-route-soneium-recheck",
+      "entrypoint": "reports/2026-10-18-vara-voluntary-route-soneium-recheck/index.html"
     }
   ]
 }

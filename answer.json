@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "22 issuer-linked ambassador routes retain open invitations by their individual check dates; only Soneium was rechecked on 14 Oct 2026. Its issuer page still says Apply now, but its Typeform did not expose submission state. Bit2Me remains outside the open list: its current-looking application link does not establish an October review window, and its issuer pages disagree about the payment asset. Kambria remains a separate conditional referral route.",
+  "current_answer": "23 issuer-linked ambassador routes retain open invitations by their individual check dates. Vara Network adds a visible on-site application first step, but the program is voluntary and task incentives are discretionary; no individual rate or payout unit is stated. Soneium still links Apply now, though its Typeform did not expose submission acceptance. The other 21 open rows retain earlier checks; Bit2Me remains unverified and Kambria is a separate referral route.",
   "catalogue_card": {
-    "question": "Does an Apply now button prove an October intake?",
-    "text": "Soneium still invites applications, but its hosted form did not show submission state. Bit2Me still links a form without a verified October review window or settled payment asset. The 22 core rows keep individual check dates."
+    "question": "Is Vara’s ambassador role paid?",
+    "text": "Vara’s application has a visible first step, but the program calls participation voluntary and task rewards discretionary. No personal rate is published. Soneium still links a form; its submission state is unverified."
   },
   "summary": [
-    "Soneium still says Apply now; its Typeform did not expose submission state.",
-    "Bit2Me still links a form but has no verified October review window or resolved payout asset.",
-    "The core open count remains 22 by individual check dates; Kambria is a separate conditional referral route."
+    "Vara invites technical, content, event and community contributors through an on-site form. It does not state a personal reward rate or deadline.",
+    "Soneium still says Apply now; its hosted form did not expose submission acceptance.",
+    "23 core rows retain individual check dates. Bit2Me remains unverified and Kambria is a separate referral route."
   ],
   "uncertainty": [
-    "Only Soneium and Bit2Me issuer surfaces were rechecked on 14 Oct; the other open rows keep their own check dates.",
-    "Neither issuer-linked Typeform exposed fields or a submission-state message in this research browser.",
-    "Bit2Me has no verified October review window, individual payment amount or resolved payout asset.",
-    "Kambria registration and actual payouts remain unverified."
+    "Vara’s later form steps, submission acceptance, country eligibility and task payment terms were not verified.",
+    "Soneium’s linked Typeform did not expose an acceptance message.",
+    "Only Vara and Soneium received 18 Oct checks among 23 open rows; 21 retain earlier dates.",
+    "First-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-14T08:04:22Z",
-  "meaningfully_updated_at": "2026-10-13T08:05:40Z",
-  "freshness_note": "Soneium issuer invitation and Bit2Me Spanish issuer page checked 14 Oct 2026; hosted form acceptance was not inspectable. All other open rows retain their individual check dates."
+  "checked_at": "2026-10-18T08:05:33Z",
+  "meaningfully_updated_at": "2026-10-18T08:05:33Z",
+  "freshness_note": "Vara and Soneium checked 18 Oct 2026; the other 21 open rows retain earlier checks."
 }

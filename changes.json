@@ -198,6 +198,18 @@
       "changed_at": "2026-10-14T08:04:22Z",
       "summary": "Rechecked Soneium’s issuer invitation and Bit2Me’s Spanish issuer page. Soneium still links Apply now, but hosted acceptance is unverified. Bit2Me stays out because no current review window or resolved payment asset was found. Core open count remains 22.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:hedera-cyfrin-routes-rechecked-20261017",
+      "changed_at": "2026-10-17T22:38:48Z",
+      "summary": "Rechecked Hedera and Cyfrin issuer invitations. Both still link forms, but hosted submission acceptance remains unverified. Neither page states individual cash pay; 22 core rows retain their own check dates.",
+      "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:vara-route-soneium-recheck-20261018",
+      "changed_at": "2026-10-18T08:05:33Z",
+      "summary": "Added Vara’s voluntary contributor route with discretionary rewards and a visible first form step. Rechecked Soneium’s issuer invitation; its Typeform submission state remains unknown. 23 core rows retain individual dates.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

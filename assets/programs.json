@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-14",
-  "source_run_id": "report-62e52203e31fa7f35fc5f92b",
+  "snapshot_date": "2026-10-18",
+  "source_run_id": "report-c1a821b52eb46a81ac96d27b",
   "items": [
+    {
+      "id": "vara-network",
+      "status": "confirmed_open",
+      "project": "Vara Network Ambassador Program",
+      "fit": "Technical contributors, writers, event organizers and community leaders. The form asks for region, country, city, social and language skills; eligible countries and minimum experience are not stated in the inspected text.",
+      "work": "Build or document Vara projects, create educational content, organize events or lead community activity through a selective task portal.",
+      "deadline": "No closing deadline published on the inspected pages.",
+      "reward": "Voluntary program. Selective, discretionary task incentives; possible event support, conference tickets, promotion, merchandise and senior roles. No individual reward unit, rate or payment schedule stated.",
+      "selection": "The official four-step form begins with name, email, region, country and city, then names social/language skills, experience/role and intended impact. Later fields, review time and submission acceptance were not inspected.",
+      "people": "No recent independent applicant or payout report found.",
+      "safety": "The first form step asks for personal and location data. The page calls participation voluntary; do not treat task incentives as guaranteed pay or connect a wallet based on an unrelated message.",
+      "official_url": "https://vara.network/ambassadors",
+      "status_label": "Confirmed open; voluntary, selective task rewards",
+      "last_checked": "18 Oct 2026"
+    },
     {
       "id": "action-model",
       "status": "confirmed_open",
@@ -46,7 +61,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "10 Oct 2026"
+      "last_checked": "17 Oct 2026"
     },
     {
       "id": "cyfrin",
@@ -61,7 +76,7 @@
       "safety": "Use the Typeform only from Cyfrin’s official page. SSCD+ certification is required within six weeks after onboarding to continue.",
       "official_url": "https://ambassadors.cyfrin.io/",
       "status_label": "Confirmed open",
-      "last_checked": "10 Oct 2026"
+      "last_checked": "17 Oct 2026"
     },
     {
       "id": "soneium",
@@ -76,7 +91,7 @@
       "safety": "The official page explicitly says Apply now and links a Typeform. The hosted page did not expose its questions or a submission-state message. Do not assume selection or payment.",
       "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "14 Oct 2026"
+      "last_checked": "18 Oct 2026"
     },
     {
       "id": "aster",

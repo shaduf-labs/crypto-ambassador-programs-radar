@@ -1301,6 +1301,86 @@
       "accessed_at": "2026-10-14T08:04:22Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-page-20261017",
+      "source_type": "official program page",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "title": "Hedera Ambassador Program",
+      "claim": "The issuer still links Apply Now and lists certificates, swag and badges without a cash or token amount.",
+      "accessed_at": "2026-10-17T22:38:48Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cyfrin-page-20261017",
+      "source_type": "official program page",
+      "source_url": "https://ambassadors.cyfrin.io/",
+      "title": "Cyfrin Ambassadors",
+      "claim": "The issuer still links a Typeform; it lists non-cash benefits, possible interviews and SSCD+ certification within six weeks after onboarding.",
+      "accessed_at": "2026-10-17T22:38:48Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-form-20261017",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://forms.gle/Sxp7CvZawygvH2tH6",
+      "title": "Hedera application form",
+      "claim": "The linked Google Form could not be inspected for submission acceptance.",
+      "accessed_at": "2026-10-17T22:38:48Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:cyfrin-form-20261017",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://cyfrin.typeform.com/ambassadors",
+      "title": "Cyfrin application form",
+      "claim": "The linked Typeform did not expose fields or a submission-state message in this browser.",
+      "accessed_at": "2026-10-17T22:38:48Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:vara-page-20261018",
+      "source_type": "official program page",
+      "source_url": "https://vara.network/ambassadors",
+      "title": "Vara Network Ambassador Program",
+      "claim": "Vara invites voluntary technical, content, event and community contributors and describes discretionary task incentives without an individual reward rate.",
+      "accessed_at": "2026-10-18T08:05:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:vara-form-20261018",
+      "source_type": "official application form",
+      "source_url": "https://vara.network/ambassadors/apply",
+      "title": "Vara ambassador application",
+      "claim": "The first step requests name, email and location; later steps and submission acceptance were not checked.",
+      "accessed_at": "2026-10-18T08:05:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-page-20261018",
+      "source_type": "official program page",
+      "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
+      "title": "Soneium Ambassador Program",
+      "claim": "The page still invites applications and links its Typeform.",
+      "accessed_at": "2026-10-18T08:05:33Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-form-20261018",
+      "source_type": "issuer-linked hosted form",
+      "source_url": "https://form.typeform.com/to/yXfi1CeG",
+      "title": "Soneium application Typeform",
+      "claim": "The hosted page did not expose a submission-state message in this browser.",
+      "accessed_at": "2026-10-18T08:05:33Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }
