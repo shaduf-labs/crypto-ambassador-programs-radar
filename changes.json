@@ -210,6 +210,12 @@
       "changed_at": "2026-10-18T08:05:33Z",
       "summary": "Added Vara’s voluntary contributor route with discretionary rewards and a visible first form step. Rechecked Soneium’s issuer invitation; its Typeform submission state remains unknown. 23 core rows retain individual dates.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:sogo-referral-separated-elk-hela-rechecked",
+      "changed_at": "2026-10-19T08:26:05Z",
+      "summary": "Sogo remains an open issuer invitation but moves to the separate referral-only category, reducing the contributor count to 22. Elk and HeLa issuer routes were rechecked; hosted submission acceptance and personal payout remain unverified.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

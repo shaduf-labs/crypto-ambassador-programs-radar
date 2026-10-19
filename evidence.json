@@ -1381,6 +1381,56 @@
       "accessed_at": "2026-10-18T08:05:33Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:sogo-issuer-20261019",
+      "source_type": "official program page",
+      "source_url": "https://sogo.africa/ambassadors",
+      "title": "Issuer page",
+      "claim": "Sogo says applications are open, but describes only trade referrals with Tier 2 KYC and conditional commission.",
+      "accessed_at": "2026-10-19T08:26:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:sogo-login-20261019",
+      "source_type": "issuer-linked application route",
+      "source_url": "https://app.sogo.africa/login?redirect=%2Fprofile%3Ftab%3Dambassador",
+      "title": "Issuer-linked route",
+      "claim": "The issuer Apply link reaches login; form fields and submission acceptance were not inspectable.",
+      "accessed_at": "2026-10-19T08:26:05Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:elk-page-20261019",
+      "source_type": "official program page",
+      "source_url": "https://elk.finance/become-an-ambassador/",
+      "title": "Issuer page",
+      "claim": "Elk still links an application and describes interview plus voluntary apprentice trial.",
+      "accessed_at": "2026-10-19T08:26:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:elk-form-20261019",
+      "source_type": "issuer-linked application route",
+      "source_url": "https://noteforms.com/forms/ambassadors?notionforms=1",
+      "title": "Issuer-linked route",
+      "claim": "The hosted form destination did not expose acceptance in this check.",
+      "accessed_at": "2026-10-19T08:26:05Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hela-page-20261019",
+      "source_type": "official program page",
+      "source_url": "https://ambassador.helalabs.com/",
+      "title": "Issuer page",
+      "claim": "HeLa still invites applicants; a six-month role has milestone tracking, no fixed salary, and unclear points-to-token terms.",
+      "accessed_at": "2026-10-19T08:26:05Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

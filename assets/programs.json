@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-18",
-  "source_run_id": "report-c1a821b52eb46a81ac96d27b",
+  "snapshot_date": "2026-10-19",
+  "source_run_id": "report-ca139593dec800319e76a0e0",
   "items": [
     {
       "id": "vara-network",
@@ -116,12 +116,12 @@
       "work": "Community work, content, events, partnerships, translation, design or development.",
       "deadline": "No deadline published.",
       "reward": "The selected apprentice works as a volunteer during the trial. Post-trial benefits and their value are not stated.",
-      "selection": "Application, then an interview subject to qualification, then a trial period.",
+      "selection": "Official page describes application, team interview and volunteer trial. Its hosted form redirected to a destination that was not inspectable here; submission acceptance is unverified.",
       "people": "No recent independent report found.",
       "safety": "The official page links a hosted application. Do not assume post-trial benefits are paid compensation.",
       "official_url": "https://elk.finance/become-an-ambassador/",
       "status_label": "Confirmed open",
-      "last_checked": "4 Oct 2026"
+      "last_checked": "19 Oct 2026"
     },
     {
       "id": "nomis",
@@ -140,18 +140,18 @@
     },
     {
       "id": "sogo-ambassador",
-      "status": "confirmed_open",
+      "status": "referral_only",
       "project": "Sogo Ambassador Program",
       "fit": "Sogo users with Tier 2 identity verification via BVN or NIN, a good-standing account, and a genuine audience, community or professional network.",
       "work": "Share a referral link or code with people who may sell crypto, buy RMB or sell gift cards on Sogo.",
       "deadline": "No deadline published. The issuer says applications are open.",
       "reward": "At the starting Silver tier: 20% of Sogo’s crypto-sell fee, ₦0.04/CNY for RMB buys, and ₦3 per $1 of a referred user’s actual gift-card payout. Rates may change; commissions vest 7 days after a qualifying transaction.",
-      "selection": "Sogo says applicants need Tier 2 KYC, a good-standing account and a genuine network. It says review usually takes 1–3 business days.",
+      "selection": "The issuer says Apply now, but its route redirects to a Sogo login before an account-gated application. Form fields and acceptance were not inspected.",
       "people": "No recent independent report found.",
-      "safety": "Creating a Sogo account and Tier 2 KYC via BVN or NIN are required before applying. Referred users also need Tier 2 KYC before a trade creates commission. This is a referral-commission route, not a salary.",
+      "safety": "Applicant and referred users must complete Tier 2 KYC via BVN or NIN before qualifying trades can generate commission. Verify the account-gated route and payout terms before sharing personal data.",
       "official_url": "https://sogo.africa/ambassadors",
-      "status_label": "Confirmed open; referral commission",
-      "last_checked": "25 Sep 2026"
+      "status_label": "Referral-only; issuer says applications open",
+      "last_checked": "19 Oct 2026"
     },
     {
       "id": "torium",
@@ -310,13 +310,13 @@
       "fit": "Global developers, creators, students and professionals. Choose Developer or Community Ambassador work.",
       "work": "Developer track: build, test and advocate for the tech stack; host hackathons and workshops. Community track: lead meetups, content and collaborations.",
       "deadline": "No deadline published. Each stated term lasts six months and tracks milestones.",
-      "reward": "Token rewards, NFTs and ecosystem perks. The issuer says this is not a fixed salary; token unit, value and redemption terms are not stated.",
+      "reward": "Issuer mentions redeemable points post-TGE, token rewards, NFTs and ecosystem perks, but not a fixed salary. Token unit, points conversion, current cash value and payout timing are not stated.",
       "selection": "Form, past-work review, optional interview, onboarding and contract, according to the issuer.",
       "people": "No recent independent report found.",
       "safety": "The official page shows an application form but its fields were not available in this check. Read fields and contract terms before sharing personal, social or wallet information.",
       "official_url": "https://ambassador.helalabs.com/",
       "status_label": "Confirmed open; six-month term",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "19 Oct 2026"
     },
     {
       "id": "pendulum",

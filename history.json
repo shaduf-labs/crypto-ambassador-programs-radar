@@ -396,6 +396,17 @@
       "summary": "Vara adds an issuer-linked on-site application first step for voluntary contributor work, with no stated personal reward rate. Soneium invitation persists; hosted form acceptance is unknown.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-18-vara-voluntary-route-soneium-recheck",
       "entrypoint": "reports/2026-10-18-vara-voluntary-route-soneium-recheck/index.html"
+    },
+    {
+      "run_id": "report-ca139593dec800319e76a0e0",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-19T08:00:00Z",
+      "completed_at": "2026-10-19T08:32:16Z",
+      "title": "Sogo referral route separated; Elk and HeLa rechecked",
+      "summary": "Sogo stays open by issuer statement but is referral-only; 22 contributor routes remain, with Elk and HeLa checked today.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-19-sogo-referral-separated-elk-hela-rechecked",
+      "entrypoint": "reports/2026-10-19-sogo-referral-separated-elk-hela-rechecked/index.html"
     }
   ]
 }
