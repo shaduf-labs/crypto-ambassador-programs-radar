@@ -1431,6 +1431,36 @@
       "accessed_at": "2026-10-19T08:26:05Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gomining-docs-20261020",
+      "source_type": "official program documentation",
+      "source_url": "https://docs.gomining.com/en/product/promos/referral-program",
+      "title": "GoMining referral documentation",
+      "claim": "Ambassador status is discretionary; extra electricity rewards apply to post-status referrals and pause after 180 days without a qualifying purchase.",
+      "accessed_at": "2026-10-20T08:06:09Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gomining-blog-20261020",
+      "source_type": "official historical announcement",
+      "source_url": "https://gomining.com/blog/gomining-ambassador-referral-programs-just-leveled-up",
+      "title": "GoMining 2025 ambassador announcement",
+      "claim": "The May 2025 issuer post listed KYC, Digital Miner ownership, a quiz and $0.005 per kWh; these are not verified current entry terms or payout.",
+      "accessed_at": "2026-10-20T08:06:09Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gomining-community-question-20261020",
+      "source_type": "community question",
+      "source_url": "https://www.reddit.com/r/gomining/comments/1qds4j7/clarification_needed_ambassador_program_tied_to/",
+      "title": "Participant question about transfers",
+      "claim": "One user asked whether a transferred miner affects ambassador rewards; no official answer was inspected.",
+      "accessed_at": "2026-10-20T08:06:09Z",
+      "relation": "context",
+      "publication_basis": "linked-summary"
     }
   ]
 }

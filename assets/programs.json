@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-19",
-  "source_run_id": "report-ca139593dec800319e76a0e0",
+  "snapshot_date": "2026-10-20",
+  "source_run_id": "report-e8d41547a5cb23c2c0f6673e",
   "items": [
     {
       "id": "vara-network",
@@ -663,6 +663,21 @@
       "official_url": "https://kambria.io/docs/oin/program-network/kambria-ambassadors/ambassador-spotlight-program-invitation/",
       "status_label": "Separate referral-led route; registration form not inspected",
       "last_checked": "13 Oct 2026"
+    },
+    {
+      "id": "gomining-ambassador",
+      "status": "referral_only",
+      "project": "GoMining Ambassador Program",
+      "fit": "Existing GoMining users who regularly refer people or promote the platform. Current public docs do not confirm country eligibility, KYC, miner ownership or selection thresholds.",
+      "work": "Refer new users or promote GoMining. Extra electricity rewards apply only to users referred after ambassador status is granted.",
+      "deadline": "No public closing date found; account-gated form acceptance was not inspected.",
+      "reward": "Issuer docs describe extra rewards tied to referrals’ electricity payments. Those rewards pause if a referral makes no qualifying purchase for 180 days. The 2025 issuer post states $0.005 per kWh; current account terms and actual payouts were not checked.",
+      "selection": "Ambassador status is discretionary, can be trial-based or revoked. A 2025 issuer post described KYC, owning a miner and a quiz; current entry conditions were not independently confirmed.",
+      "people": "A Jan 2026 Reddit user asked whether a transferred miner changes bonus entitlement; no official answer or verified payout record was inspected.",
+      "safety": "Do not buy a miner or submit identity documents on the assumption of acceptance or earnings. Verify present entry rules and reward terms inside the official account before spending.",
+      "official_url": "https://docs.gomining.com/en/product/promos/referral-program",
+      "status_label": "Separate referral-led status; current intake unverified",
+      "last_checked": "20 Oct 2026"
     }
   ]
 }

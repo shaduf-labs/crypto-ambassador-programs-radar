@@ -1,24 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "22 issuer-linked contributor routes retain open invitations by their individual check dates. Elk and HeLa still invite applications, but Elk’s trial is voluntary and HeLa states no fixed salary; their hosted submission states were not confirmed. Sogo also says applications are open, but its work is only trade referrals after Tier 2 KYC, so it is shown separately in the tracker rather than counted as a contributor route. The other 20 core rows retain earlier checks.",
+  "current_answer": "The core comparison remains 22 issuer-linked contributor invitations, each with its own older check date. GoMining’s ambassador label describes a referral-led status, not an additional contributor route: its public docs tie extra electricity rewards to referrals acquired after status and pause them after 180 days without a qualifying purchase. The account-gated application and payouts were not verified.",
   "catalogue_card": {
-    "question": "Why did the open-route count fall to 22?",
-    "text": "Sogo still invites applications, but the role only pays for trade referrals after identity checks. It remains in the tracker, not the contributor list. Elk and HeLa still invite applicants; form acceptance and individual pay remain unverified."
+    "question": "Does GoMining add an open ambassador job?",
+    "text": "No verified contributor route was added. GoMining’s ambassador status is referral-led: extra rewards count only post-status referrals and can pause without qualifying purchases. Account-gated intake and actual payouts remain unverified."
   },
   "summary": [
-    "Sogo’s issuer page describes only trade referrals and requires Tier 2 identity verification. It is now separate from contributor roles.",
-    "Elk still links an application and describes a volunteer trial; its hosted form did not expose acceptance.",
-    "HeLa still invites applicants for six-month roles but states no fixed salary; points and token terms lack a conversion rate."
+    "GoMining’s public docs describe discretionary ambassador status for referrals or promotion, not a contributor job.",
+    "Extra electricity rewards count only post-status referrals and pause after 180 days without a qualifying referral purchase.",
+    "The 22 core contributor rows retain earlier check dates; none was restamped on 20 Oct."
   ],
   "uncertainty": [
-    "Elk’s hosted form redirected to a destination that was not inspectable; submission acceptance is unverified.",
-    "HeLa’s embedded form submission state, token or points conversion, and individual payout are unverified.",
-    "Sogo’s account-gated form and actual commission payout were not inspected.",
-    "Only Elk and HeLa received 19 Oct checks among 22 core rows; 20 retain earlier dates.",
+    "GoMining account-gated application acceptance, current KYC and purchase entry conditions, selection, and actual payout are unverified.",
+    "Only GoMining was substantively checked on 20 Oct; the 22 core invitation rows retain earlier check dates.",
     "First-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-19T08:26:05Z",
-  "meaningfully_updated_at": "2026-10-19T08:26:05Z",
-  "freshness_note": "Elk and HeLa checked 19 Oct 2026; the other 20 core rows retain earlier checks. Sogo was checked separately as a referral route."
+  "checked_at": "2026-10-20T08:06:09Z",
+  "meaningfully_updated_at": "2026-10-20T08:06:09Z",
+  "freshness_note": "GoMining documentation checked 20 Oct 2026. The 22 core contributor rows retain individual earlier check dates."
 }
