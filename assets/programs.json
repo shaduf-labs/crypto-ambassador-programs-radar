@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-20",
-  "source_run_id": "report-e8d41547a5cb23c2c0f6673e",
+  "snapshot_date": "2026-10-21",
+  "source_run_id": "report-e73f3016b8297ccb0cf1a239",
   "items": [
     {
       "id": "vara-network",
@@ -444,14 +444,14 @@
       "project": "Midnight Nightforce",
       "fit": "Long-term contributors who can support a privacy-focused protocol community. The issuer says the program is for contributors rather than reward seekers.",
       "work": "Support ecosystem outreach and community work; people with strong contributions can advance to leadership roles that coordinate events, technical knowledge and community channels.",
-      "deadline": "No deadline published. The official page says Apply Now and describes a path operating through 2026.",
+      "deadline": "No closing deadline published. The issuer-linked application landing says Cohort 5 applications are open.",
       "reward": "Volunteer program. The issuer says it does not offer immediate financial rewards; consistent contributors may progress in rank.",
-      "selection": "Official Apply Now route. Review time, hours, trial and acceptance criteria are not stated.",
-      "people": "No recent independent report found.",
-      "safety": "Use the Apply Now route from Midnight’s official Nightforce page. Do not infer cash, tokens or an airdrop from a rank or community title.",
+      "selection": "The official page links an application landing naming Cohort 5. Form fields, submission acceptance, review time and selection criteria were not visible in this inspection.",
+      "people": "In a 10 Aug 2026 first-person account, one Cohort 4 recruit said they received an acceptance email on 5 Aug and valued community support. This does not establish typical selection or pay.",
+      "safety": "Start at Midnight’s official Nightforce page. Its linked application landing did not expose fields or submission outcome here; inspect them before sharing data. Do not infer pay or an airdrop from a rank.",
       "official_url": "https://midnight.network/nightforce",
-      "status_label": "Confirmed open; volunteer program",
-      "last_checked": "20 Sep 2026"
+      "status_label": "Confirmed open; Cohort 5 volunteer",
+      "last_checked": "21 Oct 2026"
     },
     {
       "id": "thrilld-ambassadorship",

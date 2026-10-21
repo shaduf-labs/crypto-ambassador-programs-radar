@@ -418,6 +418,17 @@
       "summary": "GoMining referral status depends on post-status users and qualifying purchases; the 22 contributor invitations retain older checks.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-20-gomining-referral-terms-separated",
       "entrypoint": "reports/2026-10-20-gomining-referral-terms-separated/index.html"
+    },
+    {
+      "run_id": "report-e73f3016b8297ccb0cf1a239",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-21T08:00:00Z",
+      "completed_at": "2026-10-21T08:10:00Z",
+      "title": "Midnight Cohort 5 open; volunteer terms unchanged",
+      "summary": "Issuer-linked application landing names Cohort 5. The role is volunteer, and form fields, deadline and typical outcomes remain unverified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-21-midnight-cohort-five-open-volunteer",
+      "entrypoint": "reports/2026-10-21-midnight-cohort-five-open-volunteer/index.html"
     }
   ]
 }
