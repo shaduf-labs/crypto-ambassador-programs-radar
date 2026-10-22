@@ -429,6 +429,17 @@
       "summary": "Issuer-linked application landing names Cohort 5. The role is volunteer, and form fields, deadline and typical outcomes remain unverified.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-21-midnight-cohort-five-open-volunteer",
       "entrypoint": "reports/2026-10-21-midnight-cohort-five-open-volunteer/index.html"
+    },
+    {
+      "run_id": "report-32f4ce1aacb690e3be1d09ac",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-22T08:00:00Z",
+      "completed_at": "2026-10-22T08:04:34Z",
+      "title": "ETC application visible; points follow a trial",
+      "summary": "ETC Grants DAO invites English- or Chinese-language applications. Point redemption follows probation and onboarding; form submission and payout remain unverified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-22-etc-ambassador-open-points-conditions",
+      "entrypoint": "reports/2026-10-22-etc-ambassador-open-points-conditions/index.html"
     }
   ]
 }

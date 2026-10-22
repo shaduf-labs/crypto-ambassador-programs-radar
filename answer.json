@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The core comparison remains 22 issuer-linked contributor invitations. Midnight Nightforce’s official application landing now explicitly says Cohort 5 applications are open. Its program page describes volunteer contribution without immediate financial rewards; the form fields, closing date, submission outcome and workload remain unverified. Only Midnight was substantively rechecked on 21 Oct.",
+  "current_answer": "23 issuer-linked contributor invitations are listed after adding ETC Grants DAO. Its English/Chinese application form shows a first step; the issuer states a one-month probation and points redeemable for ETC only after onboarding. The 1 point to 1 ETC rate is subject to quarterly review. Submission acceptance, selection and actual payouts were not verified. The other 22 core rows retain earlier check dates.",
   "catalogue_card": {
-    "question": "Is Midnight Nightforce Cohort 5 accepting applications?",
-    "text": "Its issuer-linked landing says Cohort 5 is open. Nightforce is volunteer work with no immediate financial reward stated; form fields, closing date and selection terms were not visible in this check."
+    "question": "Is the ETC Grants DAO ambassador intake open, and what pays?",
+    "text": "Its issuer page invites applications in English or Chinese and links a visible form. ETC points are redeemable only after a trial and onboarding; personal awards and actual payouts are unverified."
   },
   "summary": [
-    "Midnight’s linked application landing explicitly names open Cohort 5 intake.",
-    "Its program page calls Nightforce a volunteer role and does not promise immediate financial rewards.",
-    "Only Midnight was rechecked on 21 Oct; the other 21 core rows keep their own older dates."
+    "ETC Grants DAO’s issuer page and linked form invite community, student and content applications.",
+    "The issuer states a one-month probation and conditional 1 point to 1 ETC redemption after onboarding, subject to quarterly review.",
+    "Only ETC was newly checked on 22 Oct; the other 22 core rows keep their earlier dates."
   ],
   "uncertainty": [
-    "Midnight’s linked landing did not expose form fields, submission acceptance, a deadline, review time, workload or rank criteria.",
-    "A single Cohort 4 account does not establish current selection, typical experience or pay.",
-    "The other 21 core invitation rows retain earlier check dates; first-party analytics are unavailable."
+    "ETC form submission, later fields, selection and actual ETC redemption were not verified.",
+    "A 1 point to 1 ETC stated rate is conditional and reviewable, not guaranteed applicant pay.",
+    "The other 22 core rows retain earlier checks; first-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-21T08:10:00Z",
-  "meaningfully_updated_at": "2026-10-21T08:10:00Z",
-  "freshness_note": "Midnight official page and linked landing checked 21 Oct 2026; other core rows retain individual earlier check dates."
+  "checked_at": "2026-10-22T08:04:03Z",
+  "meaningfully_updated_at": "2026-10-22T08:04:03Z",
+  "freshness_note": "ETC issuer page and form first step checked 22 Oct 2026; other core rows retain individual earlier check dates."
 }

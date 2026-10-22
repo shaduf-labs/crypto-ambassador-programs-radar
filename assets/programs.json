@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-21",
-  "source_run_id": "report-e73f3016b8297ccb0cf1a239",
+  "snapshot_date": "2026-10-22",
+  "source_run_id": "report-32f4ce1aacb690e3be1d09ac",
   "items": [
+    {
+      "id": "etc-grants-dao",
+      "status": "confirmed_open",
+      "project": "ETC Grants DAO Ambassador Program",
+      "fit": "Applicants worldwide; the issuer accepts English or Chinese. Community, student and content tracks are listed. No rigid qualification is stated.",
+      "work": "Create content, grow communities or organize campus activity. Submit monthly contribution reports by the 7th; two months below five points can end participation.",
+      "deadline": "No closing deadline published. Issuer page says recruitment is open.",
+      "reward": "After a one-month probation and official onboarding, approved points may be redeemed for ETC. The issuer states 1 point equals 1 ETC, subject to quarterly review. Personal award and actual payment are not verified.",
+      "selection": "Issuer says shortlisted applicants may have a Zoom or voice interview, then a one-month trial. Form first step asks for email, track, public support commitments and whether the applicant follows its X account. Later fields and successful submission were not tested.",
+      "people": "No independent selected-applicant or payout report found in this check.",
+      "safety": "The form asks applicants to agree to publicly represent ETC before selection. Review the current rules before providing personal details; the linked terms document did not render in this check. Do not pay crypto to apply.",
+      "official_url": "https://etcgrantsdao.io/en/ambassadorProgram",
+      "status_label": "Confirmed open; conditional ETC points after trial",
+      "last_checked": "22 Oct 2026"
+    },
     {
       "id": "vara-network",
       "status": "confirmed_open",

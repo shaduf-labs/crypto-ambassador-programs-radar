@@ -1491,6 +1491,26 @@
       "accessed_at": "2026-10-21T08:10:00Z",
       "relation": "context",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:etc-page-20261022",
+      "source_type": "official programme page",
+      "source_url": "https://etcgrantsdao.io/en/ambassadorProgram",
+      "title": "ETC Grants DAO ambassador programme",
+      "claim": "Official programme page says it is recruiting worldwide in Chinese or English. It states a one-month trial, monthly reporting, points redeemable after onboarding and a reviewed 1 point to 1 ETC rate.",
+      "accessed_at": "2026-10-22T08:04:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:etc-form-20261022",
+      "source_type": "official application form",
+      "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSdKV_L1Xk6tEEsuVBqhsTntYTi5zGctz6wvEZK6LOfrj_Hvkw/viewform?usp=header",
+      "title": "ETC ambassador application form",
+      "claim": "The issuer-linked form visibly invites applications for community, student and content tracks and requires email, public representation commitments and an X follow answer. Later fields and submission result were not inspected.",
+      "accessed_at": "2026-10-22T08:04:03Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

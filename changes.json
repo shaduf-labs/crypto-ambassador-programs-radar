@@ -228,6 +228,12 @@
       "changed_at": "2026-10-21T08:10:00Z",
       "summary": "Confirmed the issuer-linked Midnight Cohort 5 application landing; clarified volunteer terms, a single earlier recruit account, and unresolved form and workload details. The core count remains 22.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:etc-open-conditional-points-20261022",
+      "changed_at": "2026-10-22T08:04:03Z",
+      "summary": "Added ETC Grants DAO’s English/Chinese contributor application as a 23rd core route. Point redemption follows probation and onboarding; successful submission and payment remain unverified.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }
