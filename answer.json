@@ -1,22 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "23 issuer-linked contributor invitations are listed after adding ETC Grants DAO. Its English/Chinese application form shows a first step; the issuer states a one-month probation and points redeemable for ETC only after onboarding. The 1 point to 1 ETC rate is subject to quarterly review. Submission acceptance, selection and actual payouts were not verified. The other 22 core rows retain earlier check dates.",
+  "current_answer": "23 issuer-linked contributor routes remain in the open comparison. Bybit Africa and HeLa still invite applicants on issuer pages checked 23 Oct, but neither successful submission nor individual payout was verified. A separate Bybit Payment Ambassador landing describes a three-month junior/fellow programme; its Apply destination and current acceptance were not inspectable, so it is held in the tracker rather than counted as a confirmed route. Solana still shows form fields after its published 1 Sep close.",
   "catalogue_card": {
-    "question": "Is the ETC Grants DAO ambassador intake open, and what pays?",
-    "text": "Its issuer page invites applications in English or Chinese and links a visible form. ETC points are redeemable only after a trial and onboarding; personal awards and actual payouts are unverified."
+    "question": "Is Bybit’s Payment Ambassador page a verified open route?",
+    "text": "Its issuer page invites junior and fellow applicants, but the Apply destination and personal performance-pay terms were not inspectable. It remains separate from the rechecked Africa Campus route."
   },
   "summary": [
-    "ETC Grants DAO’s issuer page and linked form invite community, student and content applications.",
-    "The issuer states a one-month probation and conditional 1 point to 1 ETC redemption after onboarding, subject to quarterly review.",
-    "Only ETC was newly checked on 22 Oct; the other 22 core rows keep their earlier dates."
+    "Bybit Africa Campus and HeLa still invite applicants on issuer pages checked 23 Oct; hosted submission and actual payout remain unverified.",
+    "A separate Bybit Payment Ambassador landing was added to the not-confirmed tracker, not to the 23-route open comparison.",
+    "Solana still shows fields despite its published 1 Sep close.",
+    "SideShift’s English and Spanish issuer pages still say applications are closed despite visible monthly reward terms."
   ],
   "uncertainty": [
-    "ETC form submission, later fields, selection and actual ETC redemption were not verified.",
-    "A 1 point to 1 ETC stated rate is conditional and reviewable, not guaranteed applicant pay.",
-    "The other 22 core rows retain earlier checks; first-party analytics are unavailable."
+    "Bybit Payment Ambassador form target, current submission state, countries, personal reward rate and payout terms are unverified.",
+    "The Bybit Africa hosted form redirected to login in this browser; HeLa form submission was not checked.",
+    "Only two of 23 core contributor rows were substantively rechecked on 23 Oct; other rows retain earlier dates.",
+    "First-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-22T08:04:03Z",
-  "meaningfully_updated_at": "2026-10-22T08:04:03Z",
-  "freshness_note": "ETC issuer page and form first step checked 22 Oct 2026; other core rows retain individual earlier check dates."
+  "checked_at": "2026-10-23T08:05:52Z",
+  "meaningfully_updated_at": "2026-10-23T08:05:52Z",
+  "freshness_note": "Bybit Africa, HeLa, the separate Bybit Payment landing and Solana were checked 23 Oct 2026. Other rows retain individual earlier dates."
 }

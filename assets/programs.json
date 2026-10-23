@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-22",
-  "source_run_id": "report-32f4ce1aacb690e3be1d09ac",
+  "snapshot_date": "2026-10-23",
+  "source_run_id": "report-6547d32927f54591f318331d",
   "items": [
     {
       "id": "etc-grants-dao",
@@ -271,7 +271,7 @@
       "safety": "The issuer still shows fields, but its published 1 Sep deadline has passed. Do not submit without a new official reopening notice.",
       "official_url": "https://solana.com/university",
       "status_label": "Closed",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "23 Oct 2026"
     },
     {
       "id": "pivx",
@@ -301,7 +301,7 @@
       "safety": "Follow the official account only for a reopening. Do not treat listed reward terms as a current offer.",
       "official_url": "https://sideshift.ai/ambassadors",
       "status_label": "Closed",
-      "last_checked": "17 Sep 2026"
+      "last_checked": "23 Oct 2026"
     },
     {
       "id": "bybit-africa-campus",
@@ -311,12 +311,12 @@
       "work": "Build a local campus community, support peers with digital-finance education, organize meetups or workshops, and share Bybit learning resources and product updates.",
       "deadline": "No closing deadline published. Applications are reviewed on a rolling basis.",
       "reward": "Performance-based rewards and bonuses, merchandise, and campaign, airdrop or promotion access. Amount and conditions are not stated.",
-      "selection": "Issuer-linked application form; shortlisted students are contacted for onboarding. Detailed selection criteria and response time are not stated.",
+      "selection": "Issuer-linked Lark form; shortlisted students are contacted for onboarding. The linked form redirected to account login in this browser, so submission was not verified.",
       "people": "No recent independent report found.",
-      "safety": "The official page links a hosted Lark form. Inspect its fields before sharing student, contact or social information. This is an exchange-affiliated education and product-promotion role.",
+      "safety": "The issuer page links a hosted Lark form that redirected to login in this browser. Do not infer that new submissions are accepted from the article alone; inspect fields before sharing student, contact or social information.",
       "official_url": "https://www.bybit.com/en/learn/institutional-services/bybit-africa-campus-ambassadors-program",
       "status_label": "Confirmed open; country-limited",
-      "last_checked": "2 Oct 2026"
+      "last_checked": "23 Oct 2026"
     },
     {
       "id": "hela",
@@ -331,7 +331,7 @@
       "safety": "The official page shows an application form but its fields were not available in this check. Read fields and contract terms before sharing personal, social or wallet information.",
       "official_url": "https://ambassador.helalabs.com/",
       "status_label": "Confirmed open; six-month term",
-      "last_checked": "19 Oct 2026"
+      "last_checked": "23 Oct 2026"
     },
     {
       "id": "pendulum",
@@ -693,6 +693,21 @@
       "official_url": "https://docs.gomining.com/en/product/promos/referral-program",
       "status_label": "Separate referral-led status; current intake unverified",
       "last_checked": "20 Oct 2026"
+    },
+    {
+      "id": "bybit-payment-ambassador",
+      "status": "not_confirmed",
+      "project": "Bybit Payment Ambassador Programme",
+      "fit": "The landing invites students, startups and marketing enthusiasts interested in fintech, crypto or digital payments. Junior and Fellow paths are named; countries and detailed entry requirements were not verified.",
+      "work": "Junior path describes campus education and meetups, then merchant and card adoption campaigns, then KPI reporting across three months. Fellow duties were not clear in the inspected text.",
+      "deadline": "No closing date or current application window verified.",
+      "reward": "Issuer lists a certificate, mentorship, business access and performance rewards; no individual reward unit, rate, qualifying threshold or payout date stated.",
+      "selection": "The landing says to apply and wait for onboarding email, but its Apply controls exposed no inspectable form target or submission state in this browser.",
+      "people": "No independent applicant-selection or payout report verified.",
+      "safety": "This is distinct from Bybit Africa Campus Ambassadors. Do not send data through an unverified form or infer payment from the performance-rewards label.",
+      "official_url": "https://www.bybit.com/en/promo/campaign/payment-ambasador",
+      "status_label": "Not confirmed: Apply destination not inspectable",
+      "last_checked": "23 Oct 2026"
     }
   ]
 }

@@ -440,6 +440,17 @@
       "summary": "ETC Grants DAO invites English- or Chinese-language applications. Point redemption follows probation and onboarding; form submission and payout remain unverified.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-22-etc-ambassador-open-points-conditions",
       "entrypoint": "reports/2026-10-22-etc-ambassador-open-points-conditions/index.html"
+    },
+    {
+      "run_id": "report-6547d32927f54591f318331d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-23T08:00:00Z",
+      "completed_at": "2026-10-23T08:12:30Z",
+      "title": "Bybit payment lead held; two existing routes rechecked",
+      "summary": "The separate Bybit Payment Ambassador landing lacks an inspectable Apply target and individual pay rule. Bybit Africa and HeLa retain issuer invitations; Solana remains closed by its published date.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-23-bybit-payment-lead-held-two-routes-rechecked",
+      "entrypoint": "reports/2026-10-23-bybit-payment-lead-held-two-routes-rechecked/index.html"
     }
   ]
 }

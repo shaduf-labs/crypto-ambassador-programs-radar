@@ -1511,6 +1511,76 @@
       "accessed_at": "2026-10-22T08:04:03Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "bybit-payment-page-20261023",
+      "source_type": "official program landing",
+      "source_url": "https://www.bybit.com/en/promo/campaign/payment-ambasador",
+      "title": "Bybit Payment Page",
+      "claim": "Separate Bybit landing invites junior and fellow applicants, but form destination and individual reward rules were not inspectable.",
+      "accessed_at": "2026-10-23T08:05:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "bybit-africa-page-20261023",
+      "source_type": "official program page",
+      "source_url": "https://www.bybit.com/en/learn/institutional-services/bybit-africa-campus-ambassadors-program",
+      "title": "Bybit Africa Page",
+      "claim": "Africa Campus page still names six countries and rolling review.",
+      "accessed_at": "2026-10-23T08:05:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "bybit-africa-form-20261023",
+      "source_type": "issuer-linked application form",
+      "source_url": "https://uponly.larksuite.com/share/base/form/shrusHZWiLtnrTEXmnxXKUpbbKc",
+      "title": "Bybit Africa Form",
+      "claim": "Issuer-linked Lark form redirected to login; submission was not verified.",
+      "accessed_at": "2026-10-23T08:05:52Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "hela-page-20261023",
+      "source_type": "official program page",
+      "source_url": "https://ambassador.helalabs.com/",
+      "title": "Hela Page",
+      "claim": "HeLa still invites applicants and states six-month work with non-salary token/NFT perks.",
+      "accessed_at": "2026-10-23T08:05:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "solana-page-20261023",
+      "source_type": "official program page",
+      "source_url": "https://solana.com/university",
+      "title": "Solana Page",
+      "claim": "Solana still displays fields despite a published 1 Sep application close.",
+      "accessed_at": "2026-10-23T08:05:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "sideshift-en-20261023",
+      "source_type": "official English program page",
+      "source_url": "https://sideshift.ai/ambassadors",
+      "title": "SideShift ambassador page (English)",
+      "claim": "Applications remain closed in the issuer’s English page on 23 Oct 2026.",
+      "accessed_at": "2026-10-23T08:05:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "sideshift-es-20261023",
+      "source_type": "official Spanish program page",
+      "source_url": "https://sideshift.ai/es/ambassadors",
+      "title": "SideShift ambassador page (Spanish)",
+      "claim": "Applications remain closed in the issuer’s Spanish page on 23 Oct 2026.",
+      "accessed_at": "2026-10-23T08:05:52Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }
