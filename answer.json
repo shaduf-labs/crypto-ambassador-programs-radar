@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "23 issuer-linked contributor routes remain in the open comparison. Bybit Africa and HeLa still invite applicants on issuer pages checked 23 Oct, but neither successful submission nor individual payout was verified. A separate Bybit Payment Ambassador landing describes a three-month junior/fellow programme; its Apply destination and current acceptance were not inspectable, so it is held in the tracker rather than counted as a confirmed route. Solana still shows form fields after its published 1 Sep close.",
+  "current_answer": "23 issuer-linked contributor routes remain in the open comparison. ETC Grants DAO still invites applicants, but its separate redemption page says first ETC redemption requires one-time KYC and timely monthly reporting; late records cannot be redeemed retroactively. Its Chinese page prefers content/KOL applicants with more than 20,000 followers on one platform. KYC data handling, successful submission and independent payout remain unverified.",
   "catalogue_card": {
-    "question": "Is Bybit’s Payment Ambassador page a verified open route?",
-    "text": "Its issuer page invites junior and fellow applicants, but the Apply destination and personal performance-pay terms were not inspectable. It remains separate from the rechecked Africa Campus route."
+    "question": "Can ETC ambassadors redeem points without an identity check?",
+    "text": "New ambassadors must pass one-time KYC before first ETC redemption, says the issuer. Late monthly reports cannot be claimed later; the KYC form and independent payout were not verified."
   },
   "summary": [
-    "Bybit Africa Campus and HeLa still invite applicants on issuer pages checked 23 Oct; hosted submission and actual payout remain unverified.",
-    "A separate Bybit Payment Ambassador landing was added to the not-confirmed tracker, not to the 23-route open comparison.",
-    "Solana still shows fields despite its published 1 Sep close.",
-    "SideShift’s English and Spanish issuer pages still say applications are closed despite visible monthly reward terms."
+    "ETC Grants DAO still invites English- and Chinese-language applicants; first ETC redemption requires one-time KYC for new ambassadors.",
+    "Prior-month contribution records are due by the 7th; late records cannot be redeemed retroactively.",
+    "The Chinese program page prefers content/KOL applicants with over 20,000 followers on one platform; it is not a general cutoff.",
+    "The 23-route comparison is unchanged; other rows retain earlier check dates."
   ],
   "uncertainty": [
-    "Bybit Payment Ambassador form target, current submission state, countries, personal reward rate and payout terms are unverified.",
-    "The Bybit Africa hosted form redirected to login in this browser; HeLa form submission was not checked.",
-    "Only two of 23 core contributor rows were substantively rechecked on 23 Oct; other rows retain earlier dates.",
+    "ETC redemption page is undated; the KYC form target did not load, so required documents and data handling are unknown.",
+    "The content/KOL follower preference appears on the Chinese page, not the English page; it is not a universal cutoff.",
+    "Only ETC was substantively rechecked on 24 Oct; other open rows retain their own older dates.",
     "First-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-23T08:05:52Z",
-  "meaningfully_updated_at": "2026-10-23T08:05:52Z",
-  "freshness_note": "Bybit Africa, HeLa, the separate Bybit Payment landing and Solana were checked 23 Oct 2026. Other rows retain individual earlier dates."
+  "checked_at": "2026-10-24T08:05:30Z",
+  "meaningfully_updated_at": "2026-10-24T08:05:30Z",
+  "freshness_note": "ETC application, redemption and Chinese program pages checked 24 Oct 2026. Other rows retain individual earlier dates."
 }

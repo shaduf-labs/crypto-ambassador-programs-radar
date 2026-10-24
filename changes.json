@@ -240,6 +240,12 @@
       "changed_at": "2026-10-23T08:05:52Z",
       "summary": "Added a separate Bybit Payment Ambassador lead to the not-confirmed tracker because its Apply destination and personal rewards could not be checked. Rechecked Bybit Africa and HeLa invitations and Solana’s passed deadline; the open contributor count remains 23.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:etc-redemption-kyc-gate-20261024",
+      "changed_at": "2026-10-24T08:05:30Z",
+      "summary": "ETC’s issuer redemption page adds one-time KYC and a non-retroactive report cutoff before token redemption; the Chinese content track states a follower preference. Open count stays 23.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

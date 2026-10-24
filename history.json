@@ -451,6 +451,17 @@
       "summary": "The separate Bybit Payment Ambassador landing lacks an inspectable Apply target and individual pay rule. Bybit Africa and HeLa retain issuer invitations; Solana remains closed by its published date.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-23-bybit-payment-lead-held-two-routes-rechecked",
       "entrypoint": "reports/2026-10-23-bybit-payment-lead-held-two-routes-rechecked/index.html"
+    },
+    {
+      "run_id": "report-5d59af5ff0e23282c714998c",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-24T08:00:00Z",
+      "completed_at": "2026-10-24T08:07:39Z",
+      "title": "ETC points: KYC before first redemption",
+      "summary": "The issuer adds a first-redemption identity gate and late-report forfeiture; its Chinese content-track fit is narrower than the English page states.",
+      "report_path": "/p/crypto-ambassador-programs-radar/research/2026-10-24-etc-redemption-kyc-gate",
+      "entrypoint": "research/2026-10-24-etc-redemption-kyc-gate/index.html"
     }
   ]
 }

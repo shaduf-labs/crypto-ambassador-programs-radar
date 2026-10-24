@@ -1581,6 +1581,36 @@
       "accessed_at": "2026-10-23T08:05:52Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "etc-redemption-20261024",
+      "source_type": "official redemption page",
+      "source_url": "https://www.etcgrantsdao.io/en/ambassadorTop",
+      "title": "ETC Grants DAO redemption",
+      "claim": "New ambassadors need one-time KYC before first redemption; monthly reporting cutoffs and no retroactive late claims are stated.",
+      "accessed_at": "2026-10-24T08:05:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "etc-application-20261024",
+      "source_type": "official program page",
+      "source_url": "https://etcgrantsdao.io/en/ambassadorProgram",
+      "title": "ETC Ambassador Program",
+      "claim": "Applications still invited; one-month trial and conditional ETC point rate stated.",
+      "accessed_at": "2026-10-24T08:05:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "etc-zh-20261024",
+      "source_type": "official Chinese program page",
+      "source_url": "https://etcgrantsdao.io/zh/ambassadorProgram",
+      "title": "ETC Chinese program page",
+      "claim": "Content/KOL track prefers applicants with more than 20,000 followers on one platform.",
+      "accessed_at": "2026-10-24T08:05:30Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }
