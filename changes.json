@@ -246,6 +246,12 @@
       "changed_at": "2026-10-24T08:05:30Z",
       "summary": "ETC’s issuer redemption page adds one-time KYC and a non-retroactive report cutoff before token redemption; the Chinese content track states a follower preference. Open count stays 23.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:aurora-wallet-kyc-us-exclusion",
+      "changed_at": "2026-10-27T08:19:02Z",
+      "summary": "Added Aurora Flares as a visible issuer-linked route; its advertised monthly maximum is discretionary and linked terms exclude U.S. persons, require KYC/KYB and give Aurora a license to participant content.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

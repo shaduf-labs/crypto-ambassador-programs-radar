@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-24",
-  "source_run_id": "report-5d59af5ff0e23282c714998c",
+  "snapshot_date": "2026-10-27",
+  "source_run_id": "report-26d616f2b3f2adf9093db183",
   "items": [
+    {
+      "id": "aurora-flares",
+      "status": "confirmed_open",
+      "project": "Aurora Flares Ambassador Program",
+      "fit": "Applicants aged 18+ with content, education or community skills. Linked 2024 terms exclude U.S. persons and listed jurisdictions, and require KYC/KYB approval. Check the terms before applying.",
+      "work": "Create Aurora content, tutorials or meetups. A one-month trial assesses activity and quality; continuing Flares receive more tasks. Current task list and hours were not verified.",
+      "deadline": "No closing deadline published on the inspected issuer page or form.",
+      "reward": "Issuer advertises up to $1,000 per month in $AURORA, not a guaranteed amount. Linked terms make task validation and rewards discretionary; crypto payments are due within 15 days after the month of validated tasks. No independent payout verified.",
+      "selection": "Issuer-linked Google Form asks for email, country, city, social handles, wallet address and a contribution statement; applicants must accept linked terms. Submission acceptance and selection were not tested.",
+      "people": "No recent independent selected-applicant or payout report verified in this check.",
+      "safety": "The form asks for a wallet address and terms assent. Linked 2024 terms require KYC/KYB, exclude U.S. persons and listed jurisdictions, and grant Aurora a perpetual royalty-free license to ambassador content. Do not submit a private key.",
+      "official_url": "https://aurora.dev/ambassadors",
+      "status_label": "Confirmed form; U.S. excluded under linked terms, reward discretionary",
+      "last_checked": "27 Oct 2026"
+    },
     {
       "id": "etc-grants-dao",
       "status": "confirmed_open",
@@ -76,7 +91,7 @@
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "17 Oct 2026"
+      "last_checked": "27 Oct 2026"
     },
     {
       "id": "cyfrin",

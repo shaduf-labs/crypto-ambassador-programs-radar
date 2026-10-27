@@ -1611,6 +1611,46 @@
       "accessed_at": "2026-10-24T08:05:30Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:aurora-page-20261027",
+      "source_type": "issuer source",
+      "source_url": "https://aurora.dev/ambassadors",
+      "title": "Aurora Flares page",
+      "claim": "Issuer invites applications, advertises up to $1,000 monthly in $AURORA and describes a one-month trial.",
+      "accessed_at": "2026-10-27T08:19:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:aurora-form-20261027",
+      "source_type": "issuer source",
+      "source_url": "https://docs.google.com/forms/d/e/1FAIpQLScVFXEErhn8vHMgJnaT22a7bFCL0EnioTveMbhfiSzthdh1fg/viewform",
+      "title": "Aurora Flares application form",
+      "claim": "Issuer-linked form requests contact, location, handles, wallet address, contribution statement and terms assent.",
+      "accessed_at": "2026-10-27T08:19:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:aurora-terms-20261027",
+      "source_type": "issuer source",
+      "source_url": "https://www.datocms-assets.com/50156/1730932456-ambassador-program-t-c.pdf",
+      "title": "Aurora Flares terms dated 30 Oct 2024",
+      "claim": "Terms exclude U.S. persons and listed jurisdictions, require KYC/KYB, make reward approval discretionary and license ambassador content.",
+      "accessed_at": "2026-10-27T08:19:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-recheck-20261027",
+      "source_type": "official program page",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "title": "Hedera ambassador page",
+      "claim": "The issuer page still links an Apply Now route and lists developer and community duties, certificates, swag and badges, without an individual cash amount.",
+      "accessed_at": "2026-10-27T08:19:02Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

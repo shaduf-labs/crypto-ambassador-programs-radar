@@ -462,6 +462,17 @@
       "summary": "The issuer adds a first-redemption identity gate and late-report forfeiture; its Chinese content-track fit is narrower than the English page states.",
       "report_path": "/p/crypto-ambassador-programs-radar/research/2026-10-24-etc-redemption-kyc-gate",
       "entrypoint": "research/2026-10-24-etc-redemption-kyc-gate/index.html"
+    },
+    {
+      "run_id": "report-26d616f2b3f2adf9093db183",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-27T08:00:00Z",
+      "completed_at": "2026-10-27T08:21:20Z",
+      "title": "Aurora form asks for a wallet address; rewards conditional",
+      "summary": "Aurora invites applications but linked terms exclude U.S. persons, require KYC/KYB and make $AURORA rewards discretionary.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-27-aurora-wallet-kyc-us-exclusion",
+      "entrypoint": "reports/2026-10-27-aurora-wallet-kyc-us-exclusion/index.html"
     }
   ]
 }
