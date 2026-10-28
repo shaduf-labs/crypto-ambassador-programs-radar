@@ -252,6 +252,12 @@
       "changed_at": "2026-10-27T08:19:02Z",
       "summary": "Added Aurora Flares as a visible issuer-linked route; its advertised monthly maximum is discretionary and linked terms exclude U.S. persons, require KYC/KYB and give Aurora a license to participant content.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:hela-3-0-reward-terms-unverified",
+      "changed_at": "2026-10-28T08:09:49Z",
+      "summary": "HeLa’s Program 3.0 issuer post advertises referral-linked revenue share and AI credits, but no rate or payout rule. Its standing six-month token-reward page may not govern the new intake; the new shortlink destination was not inspectable.",
+      "path": "/p/crypto-ambassador-programs-radar/reports/2026-10-28-hela-3-0-reward-terms-unverified"
     }
   ]
 }

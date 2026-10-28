@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-27",
-  "source_run_id": "report-26d616f2b3f2adf9093db183",
+  "snapshot_date": "2026-10-28",
+  "source_run_id": "report-720ab778a1c3d2f641d16500",
   "items": [
     {
       "id": "aurora-flares",
@@ -339,14 +339,14 @@
       "project": "HeLa Ambassador Program",
       "fit": "Global developers, creators, students and professionals. Choose Developer or Community Ambassador work.",
       "work": "Developer track: build, test and advocate for the tech stack; host hackathons and workshops. Community track: lead meetups, content and collaborations.",
-      "deadline": "No deadline published. Each stated term lasts six months and tracks milestones.",
-      "reward": "Issuer mentions redeemable points post-TGE, token rewards, NFTs and ecosystem perks, but not a fixed salary. Token unit, points conversion, current cash value and payout timing are not stated.",
-      "selection": "Form, past-work review, optional interview, onboarding and contract, according to the issuer.",
+      "deadline": "No deadline published. The standing landing page says six months; the current Program 3.0 term was not verified.",
+      "reward": "The newer Program 3.0 issuer post lists AI API credits, swag, access and revenue share on credit referrals, without a rate or payout rule. The standing landing page lists post-TGE points, token rewards and NFTs, not fixed salary. It is unverified which terms govern current applicants.",
+      "selection": "The standing landing page says form, past-work review, optional interview, onboarding and contract. Whether this is the Program 3.0 process is unverified.",
       "people": "No recent independent report found.",
-      "safety": "The official page shows an application form but its fields were not available in this check. Read fields and contract terms before sharing personal, social or wallet information.",
+      "safety": "The Program 3.0 issuer post links a separate short URL whose destination was not inspectable. Verify its destination and the current contract before submitting data or promoting referrals.",
       "official_url": "https://ambassador.helalabs.com/",
-      "status_label": "Confirmed open; six-month term",
-      "last_checked": "23 Oct 2026"
+      "status_label": "Issuer invitation; Program 3.0 terms unverified",
+      "last_checked": "28 Oct 2026"
     },
     {
       "id": "pendulum",

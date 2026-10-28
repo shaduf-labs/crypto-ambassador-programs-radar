@@ -473,6 +473,17 @@
       "summary": "Aurora invites applications but linked terms exclude U.S. persons, require KYC/KYB and make $AURORA rewards discretionary.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-27-aurora-wallet-kyc-us-exclusion",
       "entrypoint": "reports/2026-10-27-aurora-wallet-kyc-us-exclusion/index.html"
+    },
+    {
+      "run_id": "report-720ab778a1c3d2f641d16500",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-28T08:00:00Z",
+      "completed_at": "2026-10-28T08:10:34Z",
+      "title": "HeLa 3.0 benefits differ from standing terms",
+      "summary": "Current issuer post names referral-linked revenue share and AI credits, but not a rate or payout rule; the separate shortlink and applicability of older token terms remain unverified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-28-hela-3-0-reward-terms-unverified",
+      "entrypoint": "reports/2026-10-28-hela-3-0-reward-terms-unverified/index.html"
     }
   ]
 }

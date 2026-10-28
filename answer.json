@@ -1,24 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "24 issuer-linked contributor routes now appear in the open comparison. Aurora Flares has a visible issuer-linked form, but its advertised $1,000 monthly maximum is not guaranteed pay: the linked terms require age 18+, KYC/KYB approval and exclude U.S. persons and several jurisdictions. The form asks for a wallet address and agreement to 2024 terms before submission; current task rates, acceptance and independent payouts were not verified.",
+  "current_answer": "24 issuer-linked contributor routes remain in the open comparison. HeLa’s landing page still invites applicants, while a newer issuer Program 3.0 post advertises AI credits and referral-linked revenue share instead of publishing a fixed pay rate. The new shortlink destination was not inspectable, and the standing landing page’s six-month token-reward terms were not confirmed for Program 3.0. Ask which form and contract apply before treating either benefit list as current personal pay.",
   "catalogue_card": {
-    "question": "Can Aurora applicants count on $1,000 a month?",
-    "text": "Aurora links an open form and advertises up to $1,000 monthly in $AURORA. Its linked terms exclude U.S. persons, require KYC/KYB and leave task approval and rewards to Aurora; no individual payout was verified."
+    "question": "HeLa 3.0 offers revenue share. What is the rate?",
+    "text": "HeLa’s current Program 3.0 post lists referral-linked revenue share and AI credits, but no rate or payout rule. Its standing page still describes six-month token rewards; the new application shortlink was not inspectable."
   },
   "summary": [
-    "Aurora Flares has an issuer-linked application form that requests a wallet address and agreement to linked terms.",
-    "The landing page advertises up to $1,000 per month in $AURORA; the linked terms make validated tasks and rewards discretionary.",
-    "The linked terms exclude U.S. persons and listed jurisdictions and require age 18+ and KYC/KYB approval.",
-    "The open comparison now has 24 routes; older rows retain individual check dates."
+    "HeLa’s Program 3.0 issuer post adds referral-linked revenue share and AI credits without a rate or payout rule.",
+    "Its standing official landing page still invites applicants and describes six-month token, NFT and perk terms; whether those terms govern Program 3.0 is unverified.",
+    "The Program 3.0 shortlink destination was not inspectable. The open comparison remains at 24 routes; other rows retain earlier dates."
   ],
   "uncertainty": [
-    "Aurora’s linked terms are dated 30 Oct 2024; their continued application was not independently confirmed beyond the current form link.",
-    "The visible Aurora form was not submitted, so acceptance, selection, current tasks and individual payouts remain unverified.",
-    "Only Aurora and a Hedera invitation were checked this run; other open rows retain their own earlier dates.",
-    "First-party analytics are unavailable."
+    "The Program 3.0 shortlink destination and whether it shares the standing landing form were not verified.",
+    "HeLa has not published the referral-share rate, eligibility, payout schedule, or individual payment outcomes in the inspected post.",
+    "The other 23 open rows retain earlier check dates; first-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-27T08:19:02Z",
-  "meaningfully_updated_at": "2026-10-27T08:19:02Z",
-  "freshness_note": "Aurora page, form and linked 2024 terms checked 27 Oct 2026. Other rows retain individual earlier dates."
+  "checked_at": "2026-10-28T08:09:49Z",
+  "meaningfully_updated_at": "2026-10-28T08:09:49Z",
+  "freshness_note": "HeLa landing and Program 3.0 announcement checked 28 Oct 2026. Other rows retain individual earlier check dates."
 }

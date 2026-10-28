@@ -1651,6 +1651,26 @@
       "accessed_at": "2026-10-27T08:19:02Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hela-landing-20261028",
+      "source_type": "official program page",
+      "source_url": "https://ambassador.helalabs.com/",
+      "title": "HeLa ambassador landing",
+      "claim": "The standing issuer page still invites applications and describes six-month Developer and Community tracks, token rewards and no fixed salary.",
+      "accessed_at": "2026-10-28T08:09:49Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hela-3-0-post-20261028",
+      "source_type": "issuer social post",
+      "source_url": "https://www.linkedin.com/posts/hela-labs_hela-ambassador-program-30-is-still-going-activity-7508470136794849280-qxHd",
+      "title": "HeLa Labs Program 3.0 post",
+      "claim": "The current issuer post invites contributors and lists AI API credits, perks and revenue share on credit referrals, without an individual rate or payout rule.",
+      "accessed_at": "2026-10-28T08:09:49Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }
