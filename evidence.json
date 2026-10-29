@@ -1671,6 +1671,46 @@
       "accessed_at": "2026-10-28T08:09:49Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:coti-faq-open-20261029",
+      "source_type": "official community FAQ",
+      "source_url": "https://faq.coticommunity.com/coti/programs/ambassadors-program",
+      "title": "COTI ambassador FAQ",
+      "claim": "The FAQ says applications are open and links coti.io/ambassador.",
+      "accessed_at": "2026-10-29T08:04:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:coti-route-404-20261029",
+      "source_type": "official linked route",
+      "source_url": "https://coti.io/ambassador",
+      "title": "COTI linked ambassador route",
+      "claim": "The linked route returned 404 in this check; current intake is not confirmed.",
+      "accessed_at": "2026-10-29T08:04:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-page-20261029",
+      "source_type": "official announcement",
+      "source_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
+      "title": "Soneium ambassador announcement",
+      "claim": "The official page still invites applications and links a Typeform.",
+      "accessed_at": "2026-10-29T08:04:00Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:soneium-form-shell-20261029",
+      "source_type": "issuer-linked form",
+      "source_url": "https://form.typeform.com/to/yXfi1CeG",
+      "title": "Soneium Typeform",
+      "claim": "Only a shell was inspectable; acceptance and form fields were not visible.",
+      "accessed_at": "2026-10-29T08:04:00Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

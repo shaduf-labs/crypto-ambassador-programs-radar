@@ -258,6 +258,12 @@
       "changed_at": "2026-10-28T08:09:49Z",
       "summary": "HeLa’s Program 3.0 issuer post advertises referral-linked revenue share and AI credits, but no rate or payout rule. Its standing six-month token-reward page may not govern the new intake; the new shortlink destination was not inspectable.",
       "path": "/p/crypto-ambassador-programs-radar/reports/2026-10-28-hela-3-0-reward-terms-unverified"
+    },
+    {
+      "change_id": "change:coti-open-label-route-404",
+      "changed_at": "2026-10-29T08:04:00Z",
+      "summary": "COTI FAQ says applications open, but its linked route returned 404; held out of open count. Soneium invitation rechecked; hosted form acceptance remains unverified.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

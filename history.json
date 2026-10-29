@@ -484,6 +484,17 @@
       "summary": "Current issuer post names referral-linked revenue share and AI credits, but not a rate or payout rule; the separate shortlink and applicability of older token terms remain unverified.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-28-hela-3-0-reward-terms-unverified",
       "entrypoint": "reports/2026-10-28-hela-3-0-reward-terms-unverified/index.html"
+    },
+    {
+      "run_id": "report-373ffcda5e1cfc7bf884c9ba",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-29T08:00:00Z",
+      "completed_at": "2026-10-29T08:07:32Z",
+      "title": "COTI open label, linked route unavailable",
+      "summary": "COTI FAQ says open but linked URL returned 404; Soneium invitation remains visible but hosted form acceptance is unverified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-29-coti-open-label-route-404",
+      "entrypoint": "reports/2026-10-29-coti-open-label-route-404/index.html"
     }
   ]
 }

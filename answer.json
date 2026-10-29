@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "24 issuer-linked contributor routes remain in the open comparison. HeLa’s landing page still invites applicants, while a newer issuer Program 3.0 post advertises AI credits and referral-linked revenue share instead of publishing a fixed pay rate. The new shortlink destination was not inspectable, and the standing landing page’s six-month token-reward terms were not confirmed for Program 3.0. Ask which form and contract apply before treating either benefit list as current personal pay.",
+  "current_answer": "24 issuer-linked contributor routes remain in the open comparison. COTI’s community FAQ says applications are open, but its linked application URL returned 404 on 29 Oct; COTI is not counted as an open route. Soneium’s official invitation still links a Typeform, but the hosted form did not expose acceptance status. The other 23 open rows retain earlier check dates.",
   "catalogue_card": {
-    "question": "HeLa 3.0 offers revenue share. What is the rate?",
-    "text": "HeLa’s current Program 3.0 post lists referral-linked revenue share and AI credits, but no rate or payout rule. Its standing page still describes six-month token rewards; the new application shortlink was not inspectable."
+    "question": "COTI says open. Is there an application?",
+    "text": "Its ambassador FAQ says applications are open, but the linked COTI route returned 404 on 29 Oct. COTI stays out of the 24-route open comparison until an official application can be verified."
   },
   "summary": [
-    "HeLa’s Program 3.0 issuer post adds referral-linked revenue share and AI credits without a rate or payout rule.",
-    "Its standing official landing page still invites applicants and describes six-month token, NFT and perk terms; whether those terms govern Program 3.0 is unverified.",
-    "The Program 3.0 shortlink destination was not inspectable. The open comparison remains at 24 routes; other rows retain earlier dates."
+    "COTI’s community FAQ says ambassador applications are open; the linked application URL returned 404 on 29 Oct, so current intake is not confirmed.",
+    "Soneium’s issuer page still invites applications and links a Typeform, but the hosted form did not expose acceptance status.",
+    "The open comparison remains at 24 issuer-linked contributor routes; the other 23 rows retain earlier check dates."
   ],
   "uncertainty": [
-    "The Program 3.0 shortlink destination and whether it shares the standing landing form were not verified.",
-    "HeLa has not published the referral-share rate, eligibility, payout schedule, or individual payment outcomes in the inspected post.",
-    "The other 23 open rows retain earlier check dates; first-party analytics are unavailable."
+    "COTI may have an alternate current route; a 404 in this check does not prove recruitment ended.",
+    "Soneium Typeform fields and submission acceptance were not inspectable.",
+    "Other 23 open rows retain earlier dates; first-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-28T08:09:49Z",
-  "meaningfully_updated_at": "2026-10-28T08:09:49Z",
-  "freshness_note": "HeLa landing and Program 3.0 announcement checked 28 Oct 2026. Other rows retain individual earlier check dates."
+  "checked_at": "2026-10-29T08:04:00Z",
+  "meaningfully_updated_at": "2026-10-29T08:04:00Z",
+  "freshness_note": "COTI FAQ and linked route, plus Soneium invitation and form, checked 29 Oct 2026. Other open rows retain individual earlier dates."
 }

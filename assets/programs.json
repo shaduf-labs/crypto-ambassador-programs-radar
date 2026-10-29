@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-28",
-  "source_run_id": "report-720ab778a1c3d2f641d16500",
+  "snapshot_date": "2026-10-29",
+  "source_run_id": "report-373ffcda5e1cfc7bf884c9ba",
   "items": [
     {
       "id": "aurora-flares",
@@ -116,12 +116,12 @@
       "work": "Onboard users, answer community questions, host meetups, guide people through apps and support builders.",
       "deadline": "No deadline published.",
       "reward": "Recognition, team resources, support for approved activations, events and content, and merch or community rewards when available. Cash or token amount not stated.",
-      "selection": "The issuer says it reviews background, Soneium history, community experience, location, availability and fit; a short follow-up may be requested.",
+      "selection": "Soneium reviews background, prior contribution, community experience, location, availability and fit; some applicants may receive a follow-up. The issuer-linked Typeform showed only a shell in this check, so fields and submission acceptance were not verified.",
       "people": "No recent independent report found.",
       "safety": "The official page explicitly says Apply now and links a Typeform. The hosted page did not expose its questions or a submission-state message. Do not assume selection or payment.",
       "official_url": "https://soneium.org/en/blog/soneium-ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "18 Oct 2026"
+      "last_checked": "29 Oct 2026"
     },
     {
       "id": "aster",
