@@ -1711,6 +1711,26 @@
       "accessed_at": "2026-10-29T08:04:00Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gbbc-2027-page-20261030",
+      "source_type": "official application page",
+      "source_url": "https://gbbc.io/ambassadors/apply",
+      "title": "GBBC ambassador application",
+      "claim": "GBBC invites applications for its 2027 volunteer ambassadorship, gives a 1 Dec deadline and requires a community connection.",
+      "accessed_at": "2026-10-30T08:15:35Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:coti-route-404-20261030",
+      "source_type": "official linked route",
+      "source_url": "https://coti.io/ambassador",
+      "title": "COTI ambassador route",
+      "claim": "The FAQ-linked COTI ambassador route returned 404 again in this check.",
+      "accessed_at": "2026-10-30T08:15:35Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

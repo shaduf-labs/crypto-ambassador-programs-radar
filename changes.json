@@ -264,6 +264,12 @@
       "changed_at": "2026-10-29T08:04:00Z",
       "summary": "COTI FAQ says applications open, but its linked route returned 404; held out of open count. Soneium invitation rechecked; hosted form acceptance remains unverified.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:gbbc-2027-volunteer-deadline",
+      "changed_at": "2026-10-30T08:15:35Z",
+      "summary": "Added GBBC’s 2027 volunteer ambassadorship with its 1 Dec deadline and community-reference condition; COTI’s linked route still returned 404.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

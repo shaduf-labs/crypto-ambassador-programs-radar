@@ -1,8 +1,23 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-29",
-  "source_run_id": "report-373ffcda5e1cfc7bf884c9ba",
+  "snapshot_date": "2026-10-30",
+  "source_run_id": "report-dfcc06fa7a5565181841ae10",
   "items": [
+    {
+      "id": "gbbc-2027",
+      "status": "confirmed_open",
+      "project": "GBBC 2027 Ambassadorship",
+      "fit": "People with a GBBC community connection through a team member, member company or similar contact, and relevant experience in blockchain, digital assets, policy, law, finance or education. No country exclusion stated.",
+      "work": "Advocate for GBBC membership, make senior introductions, connect potential members, advise on local conditions and represent GBBC at events if asked.",
+      "deadline": "1 Dec for the 2027 cohort; the page does not print the deadline year.",
+      "reward": "Unpaid volunteer role. GBBC may feature ambassadors on its site; event invitations are not guaranteed. No monetary compensation or automatic GBBC member benefits.",
+      "selection": "Issuer page asks applicants to acknowledge the conditions and says a GBBC-community connection is required. Form fields, submission acceptance and selection steps were not tested.",
+      "people": "No recent independent selected-applicant report found in this check.",
+      "safety": "No personal pay is offered. Ask about time and expected introductions before sharing professional contacts.",
+      "official_url": "https://gbbc.io/ambassadors/apply",
+      "status_label": "Issuer invitation; 1 Dec deadline, unpaid",
+      "last_checked": "30 Oct 2026"
+    },
     {
       "id": "aurora-flares",
       "status": "confirmed_open",
@@ -723,6 +738,21 @@
       "official_url": "https://www.bybit.com/en/promo/campaign/payment-ambasador",
       "status_label": "Not confirmed: Apply destination not inspectable",
       "last_checked": "23 Oct 2026"
+    },
+    {
+      "id": "coti-ambassador",
+      "status": "not_confirmed",
+      "project": "COTI Ambassador Program",
+      "fit": "Applicants with blockchain or privacy knowledge, community or business-development skills, or strategically useful language skills. Current geography limits were not verified.",
+      "work": "Community growth and business development; exact current workload is not stated in the inspected FAQ.",
+      "deadline": "No current deadline verified.",
+      "reward": "Current applicant reward amount and payout conditions were not verified from the inspected FAQ.",
+      "selection": "FAQ says applications are open, but its linked application route returned 404 on 30 Oct 2026; no current submission route verified.",
+      "people": "No recent independent applicant or payout report verified in this check.",
+      "safety": "Do not use an unofficial replacement form; ask COTI for a working issuer route before sharing personal data.",
+      "official_url": "https://faq.coticommunity.com/coti/programs/ambassadors-program",
+      "status_label": "Not confirmed; linked application returned 404",
+      "last_checked": "30 Oct 2026"
     }
   ]
 }

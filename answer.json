@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "24 issuer-linked contributor routes remain in the open comparison. COTI’s community FAQ says applications are open, but its linked application URL returned 404 on 29 Oct; COTI is not counted as an open route. Soneium’s official invitation still links a Typeform, but the hosted form did not expose acceptance status. The other 23 open rows retain earlier check dates.",
+  "current_answer": "25 issuer-linked contributor routes are in the open comparison. GBBC invites applications for its 2027 volunteer ambassadorship by 1 Dec; it requires a community connection and offers no monetary compensation. COTI’s FAQ still says open, but its linked route returned 404 again on 30 Oct. The other 24 open rows retain earlier check dates.",
   "catalogue_card": {
-    "question": "COTI says open. Is there an application?",
-    "text": "Its ambassador FAQ says applications are open, but the linked COTI route returned 404 on 29 Oct. COTI stays out of the 24-route open comparison until an official application can be verified."
+    "question": "GBBC has a deadline. Is this paid work?",
+    "text": "Its 2027 ambassador application page gives a 1 Dec deadline and requires a GBBC-community connection. The role is volunteer, with no monetary compensation; the form’s submission state was not tested."
   },
   "summary": [
-    "COTI’s community FAQ says ambassador applications are open; the linked application URL returned 404 on 29 Oct, so current intake is not confirmed.",
-    "Soneium’s issuer page still invites applications and links a Typeform, but the hosted form did not expose acceptance status.",
-    "The open comparison remains at 24 issuer-linked contributor routes; the other 23 rows retain earlier check dates."
+    "GBBC invites 2027 ambassador applicants by 1 Dec, but the role is unpaid and requires a GBBC-community connection.",
+    "COTI’s linked application route still returned 404 on 30 Oct despite the FAQ open label.",
+    "The open comparison now has 25 issuer-linked contributor routes; the other 24 retain earlier check dates."
   ],
   "uncertainty": [
-    "COTI may have an alternate current route; a 404 in this check does not prove recruitment ended.",
-    "Soneium Typeform fields and submission acceptance were not inspectable.",
-    "Other 23 open rows retain earlier dates; first-party analytics are unavailable."
+    "GBBC’s page does not print the deadline year beside 1 Dec; form fields, submission acceptance and selection were not tested.",
+    "COTI may have another official route; a 404 does not prove recruitment ended.",
+    "The other 24 open rows retain earlier dates; first-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-29T08:04:00Z",
-  "meaningfully_updated_at": "2026-10-29T08:04:00Z",
-  "freshness_note": "COTI FAQ and linked route, plus Soneium invitation and form, checked 29 Oct 2026. Other open rows retain individual earlier dates."
+  "checked_at": "2026-10-30T08:15:35Z",
+  "meaningfully_updated_at": "2026-10-30T08:15:35Z",
+  "freshness_note": "GBBC 2027 page and COTI linked route checked 30 Oct 2026. Other rows retain individual check dates."
 }
