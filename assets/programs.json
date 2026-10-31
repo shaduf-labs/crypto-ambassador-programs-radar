@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-10-30",
-  "source_run_id": "report-dfcc06fa7a5565181841ae10",
+  "snapshot_date": "2026-10-31",
+  "source_run_id": "report-950d99733ded4ea31357be79",
   "items": [
     {
       "id": "gbbc-2027",
@@ -700,14 +700,14 @@
       "project": "Kambria Ambassador Spotlight",
       "fit": "People with a real community or relevant project network who can introduce qualified participants. No follower threshold is stated for CED; other eligibility and country restrictions were not verified.",
       "work": "Introduce suitable social-impact projects to DEP 3 or bring CED Guides and Explorers who register and complete two sessions; make original content and follow up with referred people.",
-      "deadline": "The DEP 3 project-referral call covers about 21 Sep–31 Oct 2026. No ambassador-registration deadline stated. CED referral cycles continue separately.",
-      "reward": "Issuer-stated USDT: $10 if a referred eligible DEP 3 project reaches the top-nine shortlist, plus $20 if selected (selection bonus capped at three); scheduled by end-November. CED: $2 only after a linked person registers and completes two sessions, paid by cycle. No guaranteed income.",
+      "deadline": "DEP 3 referral-wave end conflicts across issuer pages: the invitation says about 31 Oct 2026; a content guideline says 15 Nov. The public project call says September–October. No ambassador-registration deadline verified. CED continues separately.",
+      "reward": "Issuer-stated USDT: the invitation says $10 after a referred eligible project reaches the top-nine shortlist, plus $20 if selected (up to three bonuses). A content guideline describes $10 for an eligible application but also calls that trigger proposed/pending sign-off and retains a shortlist label. The operative $10 rule is unresolved. CED separately says $2 after a linked person registers and completes two sessions. No guaranteed income or independent payout verified.",
       "selection": "The issuer links an Ambassador Spotlight registration form and says it reviews real-person and community fit within days. Form submission state could not be checked.",
       "people": "No independent payout report for this campaign verified. The linked issuer dashboard did not load in the research browser.",
-      "safety": "This is primarily referral and content work, not a general paid contributor role. The issuer says a wallet address is needed for USDT payment. Verify the linked form from the issuer page before sharing data or doing unpaid outreach.",
+      "safety": "This is referral and content work, not a general paid contributor role. Do not assume a DEP 3 referral after 31 Oct or an eligible application alone will earn $10; ask Kambria which final rules apply before outreach. The issuer says a wallet address is needed for USDT payment. The registration form and payout records were not verified.",
       "official_url": "https://kambria.io/docs/oin/program-network/kambria-ambassadors/ambassador-spotlight-program-invitation/",
-      "status_label": "Separate referral-led route; registration form not inspected",
-      "last_checked": "13 Oct 2026"
+      "status_label": "Separate referral-led route; DEP 3 date and $10 trigger conflict",
+      "last_checked": "31 Oct 2026"
     },
     {
       "id": "gomining-ambassador",

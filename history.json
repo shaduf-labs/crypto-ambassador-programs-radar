@@ -506,6 +506,17 @@
       "summary": "GBBC invites applications for an unpaid ambassador role requiring a community connection; COTI’s linked route still returns 404.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-30-gbbc-volunteer-deadline",
       "entrypoint": "reports/2026-10-30-gbbc-volunteer-deadline/index.html"
+    },
+    {
+      "run_id": "report-950d99733ded4ea31357be79",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-10-31T08:00:00Z",
+      "completed_at": "2026-10-31T08:12:06Z",
+      "title": "Kambria referral deadline and $10 trigger conflict",
+      "summary": "Issuer invitation and content guideline give different DEP 3 wave ends and qualification triggers; the operative terms are unresolved.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-31-kambria-referral-date-conflict",
+      "entrypoint": "reports/2026-10-31-kambria-referral-date-conflict/index.html"
     }
   ]
 }

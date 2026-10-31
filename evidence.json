@@ -1731,6 +1731,36 @@
       "accessed_at": "2026-10-30T08:15:35Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:kambria-invitation-20261031-public",
+      "source_type": "official ambassador invitation",
+      "source_url": "https://kambria.io/docs/oin/program-network/kambria-ambassadors/ambassador-spotlight-program-invitation/",
+      "title": "Kambria Ambassador Spotlight invitation",
+      "claim": "DEP 3 referral wave listed as about 21 Sep–31 Oct 2026; $10 USDT after a referred eligible project reaches the top-nine shortlist.",
+      "accessed_at": "2026-10-31T08:06:24Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:kambria-guideline-20261031-public",
+      "source_type": "official ambassador content guideline",
+      "source_url": "https://kambria.io/docs/oin/program-network/content-guidelines-for-ambassadors/dep-3-project-call/",
+      "title": "Kambria DEP 3 ambassador content guideline",
+      "claim": "The guideline lists a wave through 15 Nov and describes $10 for an eligible application, but elsewhere labels the condition proposed/pending sign-off and retains a shortlist label.",
+      "accessed_at": "2026-10-31T08:06:24Z",
+      "relation": "unresolved",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:kambria-project-call-20261031-public",
+      "source_type": "official project call",
+      "source_url": "https://kambria.io/docs/dep3/call-for-projects/",
+      "title": "Kambria DEP 3 call for projects",
+      "claim": "The public project call describes a September–October 2026 application period.",
+      "accessed_at": "2026-10-31T08:06:24Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }

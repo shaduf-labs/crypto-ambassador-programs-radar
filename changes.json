@@ -270,6 +270,12 @@
       "changed_at": "2026-10-30T08:15:35Z",
       "summary": "Added GBBC’s 2027 volunteer ambassadorship with its 1 Dec deadline and community-reference condition; COTI’s linked route still returned 404.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:kambria-referral-date-trigger-conflict",
+      "changed_at": "2026-10-31T08:06:24Z",
+      "summary": "Kambria’s issuer pages disagree on the DEP 3 referral-wave end and the $10 qualification trigger; the referral-led route remains outside the core open count.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }
