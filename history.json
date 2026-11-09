@@ -517,6 +517,28 @@
       "summary": "Issuer invitation and content guideline give different DEP 3 wave ends and qualification triggers; the operative terms are unresolved.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-10-31-kambria-referral-date-conflict",
       "entrypoint": "reports/2026-10-31-kambria-referral-date-conflict/index.html"
+    },
+    {
+      "run_id": "report-77ef6ca76bcac447c93a3658",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-02T08:00:00Z",
+      "completed_at": "2026-11-02T12:23:07Z",
+      "title": "Vanta trading pool is not personal pay",
+      "summary": "Phase 4 has a linked KOL form and a shared, volume-gated reward pool; full terms and individual payout remain unverified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-11-02-vanta-trading-pool-held-out",
+      "entrypoint": "reports/2026-11-02-vanta-trading-pool-held-out/index.html"
+    },
+    {
+      "run_id": "report-b3529bc2c696ba211bf7083d",
+      "status": "completed",
+      "answer_change": "meaningful_change",
+      "started_at": "2026-11-09T08:00:00Z",
+      "completed_at": "2026-11-09T08:12:44.833Z",
+      "title": "Torium route unavailable; two invitations rechecked",
+      "summary": "Torium moved to unconfirmed after direct fetches returned 502; GBBC and Nexo issuer invitations remain visible.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-11-09-torium-route-unavailable-two-rechecked",
+      "entrypoint": "reports/2026-11-09-torium-route-unavailable-two-rechecked/index.html"
     }
   ]
 }

@@ -1,22 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The existing open comparison lists 25 issuer-linked contributor routes; this run did not update their statuses. Kambria Ambassador Spotlight is a separate referral-led route whose issuer pages disagree: the invitation ends the DEP 3 wave about 31 Oct and pays $10 after top-nine shortlisting, while a content guideline says 15 Nov and describes an eligible application trigger, partly pending sign-off. Treat neither extension nor earlier payout as confirmed. Other open rows retain their individual check dates.",
+  "current_answer": "The comparison now keeps 24 issuer-linked contributor routes in its open list and holds Torium apart: its program and terms URLs returned 502 on 9 Nov, so current intake could not be verified. The fetch failure is not evidence that the program closed. GBBC still advertises a 1 Dec deadline for its unpaid 2027 ambassadorship, and Nexo still displays an ambassador contact form but no salary amount. Most other rows retain older check dates. Vanta’s 6 Nov trading-promotion phase has passed without a verified extension; Kambria’s referral dates remain in conflict.",
   "catalogue_card": {
-    "question": "Kambria referral: 31 Oct or 15 Nov?",
-    "text": "Its issuer invitation ends the DEP 3 wave about 31 Oct; a separate guideline says 15 Nov and differs on the $10 USDT trigger. Neither the later deadline nor payout for an application is confirmed."
+    "question": "Is Torium accepting ambassador applications now?",
+    "text": "Torium’s program and terms pages returned 502 on 9 Nov, so current intake could not be verified; this is not proof it closed. GBBC still lists an unpaid 2027 role with a 1 Dec deadline, while Nexo shows a form without a salary amount."
   },
   "summary": [
-    "Kambria issuer pages disagree on the DEP 3 referral-wave end: about 31 Oct or 15 Nov.",
-    "The $10 USDT trigger also differs: top-nine shortlist in the invitation versus eligible application in a guideline that marks the rule proposed/pending sign-off.",
-    "The separate referral-led route remains outside the 25 core contributor rows; those rows were not rechecked on 31 Oct."
+    "Torium moved from the current-open list to the unconfirmed tracker after its direct program and terms URLs returned 502.",
+    "GBBC still invites 2027 volunteer applicants by 1 Dec; Nexo still displays an ambassador contact form without a stated salary amount.",
+    "The open comparison has 24 routes; only GBBC and Nexo were rechecked in this report."
   ],
   "uncertainty": [
-    "Kambria has no reconciled, dated final rule for the DEP 3 referral wave end or the $10 trigger; form and payout states were not verified.",
-    "The 25 core contributor rows were not rechecked on 31 Oct; use each row’s Last checked date.",
+    "Torium may be temporarily inaccessible to this fetcher; its application status remains unresolved.",
+    "GBBC and Nexo submission acceptance were not tested.",
+    "The other 22 open contributor rows retain individual older check dates.",
+    "Kambria’s operative referral end and $10 trigger remain unresolved.",
     "First-party analytics are unavailable."
   ],
-  "checked_at": "2026-10-31T08:06:24Z",
-  "meaningfully_updated_at": "2026-10-31T08:06:24Z",
-  "freshness_note": "Kambria issuer invitation, guideline and project call checked 31 Oct 2026. Core contributor rows retain individual check dates."
+  "checked_at": "2026-11-09T08:11:42.006Z",
+  "meaningfully_updated_at": "2026-11-09T08:11:42.006Z",
+  "freshness_note": "Torium, GBBC and Nexo checked 9 Nov 2026. Other routes retain their individual last-check dates."
 }

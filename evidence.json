@@ -1761,6 +1761,66 @@
       "accessed_at": "2026-10-31T08:06:24Z",
       "relation": "limits",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:vanta-phase4-channel-20261102-public",
+      "source_type": "named announcement channel",
+      "source_url": "https://t.me/s/vanta_announcement_channel",
+      "title": "Vanta Ambassador Program Phase 4 announcement",
+      "claim": "The channel names the 23 Oct–6 Nov window, linked form, shared reward maxima and aggregate trading-volume gates.",
+      "accessed_at": "2026-11-02T12:19:25Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:vanta-phase4-form-20261102-public",
+      "source_type": "hosted form linked from named channel",
+      "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSfj2535qA8CO8UDqWMpYe394sT89cea3o7qfeiTI3r5mp3qqw/viewform",
+      "title": "Vanta Ambassador Program form",
+      "claim": "The visible form describes a KOL partnership and active-audience fit; submission acceptance and individual pay were not verified.",
+      "accessed_at": "2026-11-02T12:19:25Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:torium-direct-502-20261109",
+      "source_type": "official program page",
+      "source_url": "https://ambassador.torium.network/",
+      "title": "Torium ambassador program",
+      "claim": "Direct program page returned 502 in this check; an older indexed copy says applications open, so current intake is unconfirmed, not closed.",
+      "accessed_at": "2026-11-09T08:11:42.006Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:torium-terms-502-20261109",
+      "source_type": "official program terms",
+      "source_url": "https://ambassador.torium.network/terms",
+      "title": "Torium ambassador terms",
+      "claim": "Direct terms page also returned 502; current terms could not be verified.",
+      "accessed_at": "2026-11-09T08:11:42.006Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gbbc-2027-20261109",
+      "source_type": "official application page",
+      "source_url": "https://gbbc.io/ambassadors/apply",
+      "title": "GBBC 2027 ambassadorship application",
+      "claim": "Issuer page still shows a 2027 volunteer invitation, community-connection condition, no monetary compensation and a 1 Dec deadline.",
+      "accessed_at": "2026-11-09T08:11:42.006Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:nexo-route-20261109",
+      "source_type": "official ambassador page",
+      "source_url": "https://nexo.com/ambassadors",
+      "title": "Nexo ambassador program",
+      "claim": "Issuer page still displays a contact form and salary/incentive language without a personal amount.",
+      "accessed_at": "2026-11-09T08:11:42.006Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
     }
   ]
 }

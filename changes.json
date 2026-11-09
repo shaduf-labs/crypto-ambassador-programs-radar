@@ -276,6 +276,18 @@
       "changed_at": "2026-10-31T08:06:24Z",
       "summary": "Kambria’s issuer pages disagree on the DEP 3 referral-wave end and the $10 qualification trigger; the referral-led route remains outside the core open count.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:vanta-phase4-held-out-trading-pool",
+      "changed_at": "2026-11-02T12:19:25Z",
+      "summary": "Added Vanta Phase 4 as a held-out trading-promotion lead. Its shared USDC and point maxima depend on aggregate trading-volume milestones; individual pay and full terms were not verified. The core contributor count remains unchanged.",
+      "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:torium-route-unavailable-two-rechecked-20261109",
+      "changed_at": "2026-11-09T08:11:42.006Z",
+      "summary": "Held Torium out of the current-open list after direct program and terms URLs returned 502; rechecked GBBC and Nexo issuer invitations.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }
