@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0.0",
   "status": "current",
-  "current_answer": "The comparison now keeps 24 issuer-linked contributor routes in its open list and holds Torium apart: its program and terms URLs returned 502 on 9 Nov, so current intake could not be verified. The fetch failure is not evidence that the program closed. GBBC still advertises a 1 Dec deadline for its unpaid 2027 ambassadorship, and Nexo still displays an ambassador contact form but no salary amount. Most other rows retain older check dates. Vanta’s 6 Nov trading-promotion phase has passed without a verified extension; Kambria’s referral dates remain in conflict.",
+  "current_answer": "The open comparison still has 24 issuer-linked contributor routes. On 10 Nov, GBBC, Hedera and Stellar still displayed issuer invitations; their form submission acceptance was not verified. GBBC lists a 1 Dec deadline for an unpaid 2027 role. Torium’s program and terms pages again returned 502, so its current intake remains unconfirmed, not proven closed. The other 21 open rows retain older individual check dates.",
   "catalogue_card": {
-    "question": "Is Torium accepting ambassador applications now?",
-    "text": "Torium’s program and terms pages returned 502 on 9 Nov, so current intake could not be verified; this is not proof it closed. GBBC still lists an unpaid 2027 role with a 1 Dec deadline, while Nexo shows a form without a salary amount."
+    "question": "Which crypto ambassador routes were rechecked on 10 Nov?",
+    "text": "GBBC, Hedera and Stellar still show issuer invitations, but form submission was not verified. Torium’s program and terms pages again returned 502; its intake remains unconfirmed, not proven closed."
   },
   "summary": [
-    "Torium moved from the current-open list to the unconfirmed tracker after its direct program and terms URLs returned 502.",
-    "GBBC still invites 2027 volunteer applicants by 1 Dec; Nexo still displays an ambassador contact form without a stated salary amount.",
-    "The open comparison has 24 routes; only GBBC and Nexo were rechecked in this report."
+    "Three issuer invitations remain visible: GBBC, Hedera and Stellar.",
+    "Torium’s program and terms URLs again returned 502; its current intake remains unconfirmed.",
+    "The 24-route open table is unchanged; 21 rows retain earlier check dates."
   ],
   "uncertainty": [
-    "Torium may be temporarily inaccessible to this fetcher; its application status remains unresolved.",
-    "GBBC and Nexo submission acceptance were not tested.",
-    "The other 22 open contributor rows retain individual older check dates.",
-    "Kambria’s operative referral end and $10 trigger remain unresolved.",
+    "Torium’s 502 responses may reflect a temporary site or fetcher problem; current intake remains unknown.",
+    "GBBC, Hedera and Stellar form submission acceptance was not tested.",
+    "The other 21 open contributor rows retain individual older check dates.",
+    "Stellar’s grant pathway, creator prizes and sponsorship are conditional, not guaranteed personal pay.",
     "First-party analytics are unavailable."
   ],
-  "checked_at": "2026-11-09T08:11:42.006Z",
+  "checked_at": "2026-11-10T08:06:00.000Z",
   "meaningfully_updated_at": "2026-11-09T08:11:42.006Z",
-  "freshness_note": "Torium, GBBC and Nexo checked 9 Nov 2026. Other routes retain their individual last-check dates."
+  "freshness_note": "GBBC, Hedera, Stellar and Torium checked 10 Nov 2026. Other routes retain their individual last-check dates."
 }

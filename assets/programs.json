@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "snapshot_date": "2026-11-09",
-  "source_run_id": "report-b3529bc2c696ba211bf7083d",
+  "snapshot_date": "10 Nov 2026",
+  "source_run_id": "report-9dc5b19b7205adec19b9047c",
   "items": [
     {
       "id": "gbbc-2027",
@@ -16,7 +16,7 @@
       "safety": "No personal pay is offered. Ask about time and expected introductions before sharing professional contacts.",
       "official_url": "https://gbbc.io/ambassadors/apply",
       "status_label": "Issuer invitation; 1 Dec deadline, unpaid",
-      "last_checked": "9 Nov 2026"
+      "last_checked": "10 Nov 2026"
     },
     {
       "id": "aurora-flares",
@@ -101,12 +101,12 @@
       "work": "Run technical workshops, make technical content, support developers, organize events, build partnerships or make community content.",
       "deadline": "No deadline published.",
       "reward": "Certificates, swag and badges. Cash or token amount not stated.",
-      "selection": "Not stated.",
+      "selection": "The official Apply Now link redirects to a Google form that this check could not inspect; submission acceptance is unknown.",
       "people": "No recent independent report found.",
       "safety": "Open the linked form from Hedera’s official page. No crypto payment request was found on the page.",
       "official_url": "https://hedera.com/ambassador-program/",
       "status_label": "Confirmed open",
-      "last_checked": "27 Oct 2026"
+      "last_checked": "10 Nov 2026"
     },
     {
       "id": "cyfrin",
@@ -211,7 +211,7 @@
       "safety": "The program and terms URLs returned 502 in this check. This does not prove closure. Do not spend time or share details until the official route loads and terms are checked.",
       "official_url": "https://ambassador.torium.network/",
       "status_label": "Not confirmed: direct route returned 502 on 9 Nov",
-      "last_checked": "9 Nov 2026"
+      "last_checked": "10 Nov 2026"
     },
     {
       "id": "nexo",
@@ -478,10 +478,10 @@
       "reward": "Recognition, direct access and possible ecosystem pathways. Rise In names possible funding paths, creator rewards and top-performer event sponsorship; no individual cash amount or award rule is stated.",
       "selection": "The official program-wide form says applicants receive an email with chapter next steps. Rise In says selection is ongoing, proof of work is required and a trial applies; exact review and acceptance are not verified.",
       "people": "No recent independent report found.",
-      "safety": "Start at Stellar’s official handbook. Its Airtable form showed only a shell here, and Rise In’s separate Google Form returned an authorization response; inspect the live fields and terms before sharing data.",
+      "safety": "Start at Stellar’s official handbook. Its Airtable form showed only a shell here, and Rise In’s separate Google Form returned an authorization response; inspect live fields and terms before sharing data.",
       "official_url": "https://stellar.gitbook.io/ambassador-program/get-involved/become-an-ambassador",
       "status_label": "Confirmed open; country-focused chapters",
-      "last_checked": "7 Oct 2026"
+      "last_checked": "10 Nov 2026"
     },
     {
       "id": "midnight-nightforce",

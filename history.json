@@ -539,6 +539,17 @@
       "summary": "Torium moved to unconfirmed after direct fetches returned 502; GBBC and Nexo issuer invitations remain visible.",
       "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-11-09-torium-route-unavailable-two-rechecked",
       "entrypoint": "reports/2026-11-09-torium-route-unavailable-two-rechecked/index.html"
+    },
+    {
+      "run_id": "report-9dc5b19b7205adec19b9047c",
+      "status": "completed",
+      "answer_change": "no_meaningful_change",
+      "started_at": "2026-11-10T08:00:00.000Z",
+      "completed_at": "2026-11-10T08:07:28.000Z",
+      "title": "Three invitations rechecked; Torium still inaccessible",
+      "summary": "GBBC, Hedera and Stellar still display application invitations. Torium remains unconfirmed after 502 responses; hosted submissions were not verified.",
+      "report_path": "/p/crypto-ambassador-programs-radar/reports/2026-11-10-three-invitations-rechecked-torium-unavailable",
+      "entrypoint": "reports/2026-11-10-three-invitations-rechecked-torium-unavailable/index.html"
     }
   ]
 }

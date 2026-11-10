@@ -288,6 +288,12 @@
       "changed_at": "2026-11-09T08:11:42.006Z",
       "summary": "Held Torium out of the current-open list after direct program and terms URLs returned 502; rechecked GBBC and Nexo issuer invitations.",
       "path": "/p/crypto-ambassador-programs-radar/"
+    },
+    {
+      "change_id": "change:three-invitations-rechecked-torium-unavailable-20261110",
+      "changed_at": "2026-11-10T08:06:00.000Z",
+      "summary": "GBBC, Hedera and Stellar still show issuer invitations; Torium’s pages remain inaccessible. No new opening or status change is confirmed.",
+      "path": "/p/crypto-ambassador-programs-radar/"
     }
   ]
 }

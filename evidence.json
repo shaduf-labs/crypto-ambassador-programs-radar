@@ -1821,6 +1821,96 @@
       "accessed_at": "2026-11-09T08:11:42.006Z",
       "relation": "supports",
       "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:torium-program-20261110",
+      "source_type": "official program page",
+      "source_url": "https://ambassador.torium.network/",
+      "title": "torium ambassador program",
+      "claim": "Direct program-page request returned 502; current intake cannot be verified.",
+      "accessed_at": "2026-11-10T08:06:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:torium-terms-20261110",
+      "source_type": "official program page",
+      "source_url": "https://ambassador.torium.network/terms",
+      "title": "torium ambassador terms",
+      "claim": "Direct terms request returned 502; older reward conditions cannot be rechecked.",
+      "accessed_at": "2026-11-10T08:06:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:gbbc-20261110",
+      "source_type": "official program page",
+      "source_url": "https://gbbc.io/ambassadors/apply",
+      "title": "gbbc 2027 audience",
+      "claim": "Page invites 2027 volunteer applicants, requires a GBBC connection and lists a 1 Dec deadline.",
+      "accessed_at": "2026-11-10T08:06:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-20261110",
+      "source_type": "official program page",
+      "source_url": "https://hedera.com/ambassador-program/",
+      "title": "hedera ambassador",
+      "claim": "Page names developer and community tracks, non-cash benefits and an Apply Now link.",
+      "accessed_at": "2026-11-10T08:06:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:hedera-form-20261110",
+      "source_type": "linked application route",
+      "source_url": "https://forms.gle/Sxp7CvZawygvH2tH6",
+      "title": "hedera ambassador form",
+      "claim": "The linked Google form could not be inspected through this check; submission acceptance remains unknown.",
+      "accessed_at": "2026-11-10T08:06:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stellar-docs-20261110",
+      "source_type": "official program page",
+      "source_url": "https://stellar.gitbook.io/ambassador-program/get-involved/become-an-ambassador",
+      "title": "stellar become ambassador",
+      "claim": "The handbook links program-wide intake and lists voluntary weekly, event and content work.",
+      "accessed_at": "2026-11-10T08:06:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stellar-risein-20261110",
+      "source_type": "official program page",
+      "source_url": "https://www.risein.com/stellar-ambassadors",
+      "title": "stellar ambassadors",
+      "claim": "Rise In says selection is ongoing, proof of work and a trial apply; rewards are conditional pathways.",
+      "accessed_at": "2026-11-10T08:06:00.000Z",
+      "relation": "supports",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stellar-airtable-20261110",
+      "source_type": "linked application route",
+      "source_url": "https://airtable.com/appWdW69QmA0v16SM/pagLIW9lbEHzkWU4V/form",
+      "title": "stellar program wide intake",
+      "claim": "The Airtable destination exposed only a shell in this check.",
+      "accessed_at": "2026-11-10T08:06:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
+    },
+    {
+      "evidence_id": "evidence:stellar-google-form-20261110",
+      "source_type": "linked application route",
+      "source_url": "https://docs.google.com/forms/d/e/1FAIpQLSfMWF9cALLvIY_RLUagBbmE7abviwdTckxpkqTdvsdMxqhdUg/viewform",
+      "title": "stellar ambassadors application",
+      "claim": "Rise In’s Google Form returned an authorization response in this check.",
+      "accessed_at": "2026-11-10T08:06:00.000Z",
+      "relation": "limits",
+      "publication_basis": "linked-summary"
     }
   ]
 }
